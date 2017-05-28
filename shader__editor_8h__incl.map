@@ -1,0 +1,13 @@
+<map id="src/plugins/render/ui/shader_editor.h" name="src/plugins/render/ui/shader_editor.h">
+<area shape="rect" id="node2" href="$editor_8h.html" title="possumwood_sdk/editor.h" alt="" coords="211,96,385,123"/>
+<area shape="rect" id="node6" href="$attr_8h.html" title="dependency_graph/attr.h" alt="" coords="501,552,665,579"/>
+<area shape="rect" id="node14" href="$dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="207,171,391,197"/>
+<area shape="rect" id="node11" href="$data_8h.html" title="data.h" alt="" coords="915,635,972,661"/>
+<area shape="rect" id="node15" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="332,245,393,272"/>
+<area shape="rect" id="node16" href="$node__base_8h.html" title="node_base.h" alt="" coords="869,320,965,347"/>
+<area shape="rect" id="node22" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1167,469,1253,496"/>
+<area shape="rect" id="node29" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="270,320,324,347"/>
+<area shape="rect" id="node18" href="$state_8h.html" title="state.h" alt="" coords="843,552,905,579"/>
+<area shape="rect" id="node20" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="767,395,855,421"/>
+<area shape="rect" id="node28" href="$datablock_8h.html" title="datablock.h" alt="" coords="1183,395,1272,421"/>
+</map>

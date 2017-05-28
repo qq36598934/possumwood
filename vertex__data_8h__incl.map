@@ -1,0 +1,18 @@
+<map id="src/plugins/render/datatypes/vertex_data.h" name="src/plugins/render/datatypes/vertex_data.h">
+<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1521,171,1628,197"/>
+<area shape="rect" id="node38" href="$drawable_8h.html" title="possumwood_sdk/drawable.h" alt="" coords="2584,96,2779,123"/>
+<area shape="rect" id="node45" href="$datatypes_2vbo_8h.html" title="vbo.h" alt="" coords="2222,320,2276,347"/>
+<area shape="rect" id="node48" href="$buffer_8h.html" title="buffer.h" alt="" coords="2605,395,2672,421"/>
+<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1483,395,1644,421"/>
+<area shape="rect" id="node10" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1571,245,1660,272"/>
+<area shape="rect" id="node11" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1318,320,1495,347"/>
+<area shape="rect" id="node17" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1673,320,1828,347"/>
+<area shape="rect" id="node18" href="$json_8h.html" title="io/json.h" alt="" coords="1115,395,1185,421"/>
+<area shape="rect" id="node14" href="$data_8h.html" title="data.h" alt="" coords="1771,395,1828,421"/>
+<area shape="rect" id="node16" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1313,395,1407,421"/>
+<area shape="rect" id="node40" href="$dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="2589,171,2773,197"/>
+<area shape="rect" id="node44" href="$state_8h.html" title="state.h" alt="" coords="2518,395,2580,421"/>
+<area shape="rect" id="node41" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="2523,245,2584,272"/>
+<area shape="rect" id="node43" href="$node__base_8h.html" title="node_base.h" alt="" coords="2401,320,2497,347"/>
+<area shape="rect" id="node49" href="$vbo__traits_8h.html" title="vbo_traits.h" alt="" coords="2005,395,2096,421"/>
+</map>

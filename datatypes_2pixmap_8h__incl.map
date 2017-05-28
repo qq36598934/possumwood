@@ -1,0 +1,10 @@
+<map id="src/plugins/render/datatypes/pixmap.h" name="src/plugins/render/datatypes/pixmap.h">
+<area shape="rect" id="node2" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1070,96,1177,123"/>
+<area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1763,320,1924,347"/>
+<area shape="rect" id="node7" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1079,171,1168,197"/>
+<area shape="rect" id="node10" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1814,245,1991,272"/>
+<area shape="rect" id="node17" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="699,245,855,272"/>
+<area shape="rect" id="node18" href="$json_8h.html" title="io/json.h" alt="" coords="1253,320,1323,347"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="401,320,459,347"/>
+<area shape="rect" id="node16" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2051,320,2145,347"/>
+</map>
