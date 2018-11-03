@@ -74,12 +74,8 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     [ "port.inl", "port_8inl.html", null ],
     [ "rtti.cpp", "rtti_8cpp.html", "rtti_8cpp" ],
     [ "rtti.h", "rtti_8h.html", "rtti_8h" ],
-    [ "selection.cpp", "selection_8cpp.html", null ],
-    [ "selection.h", "selection_8h.html", [
-      [ "Selection", "classdependency__graph_1_1Selection.html", "classdependency__graph_1_1Selection" ],
-      [ "NodeComparator", "structdependency__graph_1_1Selection_1_1NodeComparator.html", "structdependency__graph_1_1Selection_1_1NodeComparator" ],
-      [ "Connection", "structdependency__graph_1_1Selection_1_1Connection.html", "structdependency__graph_1_1Selection_1_1Connection" ]
-    ] ],
+    [ "selection.cpp", "selection_8cpp.html", "selection_8cpp" ],
+    [ "selection.h", "selection_8h.html", "selection_8h" ],
     [ "state.cpp", "state_8cpp.html", "state_8cpp" ],
     [ "state.h", "state_8h.html", "state_8h" ],
     [ "unique_id.cpp", "unique__id_8cpp.html", "unique__id_8cpp" ],

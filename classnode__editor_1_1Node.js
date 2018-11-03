@@ -7,7 +7,7 @@ var classnode__editor_1_1Node =
       [ "kWarning", "classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4acaeab4d8fd1360d165a27524c29b8529", null ],
       [ "kError", "classnode__editor_1_1Node.html#a34b6a04a0eb552d7f9bcd55aa92f4ca4a190d3749aa15f47831ffe5e12822b6aa", null ]
     ] ],
-    [ "Node", "classnode__editor_1_1Node.html#a80348c939812a91b19cc54cb7b2c1f16", null ],
+    [ "Node", "classnode__editor_1_1Node.html#af450d3812340e3ec765ca5be50ca568d", null ],
     [ "~Node", "classnode__editor_1_1Node.html#a814624c79800141cc263bc75ccd31191", null ],
     [ "addPort", "classnode__editor_1_1Node.html#a9b1bc8065a17a611f8f9f31cdceb0fb1", null ],
     [ "itemChange", "classnode__editor_1_1Node.html#aa7b04856920858f8baddedd8627afd35", null ],
@@ -20,8 +20,11 @@ var classnode__editor_1_1Node =
     [ "setState", "classnode__editor_1_1Node.html#aaf2afc8721796d018f309c5b940428a4", null ],
     [ "state", "classnode__editor_1_1Node.html#a007874c602ee383e7b10ffd763d8f442", null ],
     [ "updateRect", "classnode__editor_1_1Node.html#ab15809a52cee2bc2f4e816c99f3202d4", null ],
+    [ "m_color", "classnode__editor_1_1Node.html#a3a6ef2366fd29f4e0712e9cde6db51d3", null ],
     [ "m_ports", "classnode__editor_1_1Node.html#afea10ddcda7fed2b64b43b0793da0614", null ],
     [ "m_state", "classnode__editor_1_1Node.html#aee701bbfbb2928f0af07070594f94ad4", null ],
     [ "m_title", "classnode__editor_1_1Node.html#a299a2192061a1992054b52319f84547d", null ],
-    [ "m_titleBackground", "classnode__editor_1_1Node.html#a564b9de821f9be644f8154f4f7b40ca7", null ]
+    [ "m_titleBackground", "classnode__editor_1_1Node.html#a564b9de821f9be644f8154f4f7b40ca7", null ],
+    [ "m_type", "classnode__editor_1_1Node.html#aa20b30ca0edee5a6dac6b72e9fa056e3", null ],
+    [ "m_typeString", "classnode__editor_1_1Node.html#a0be9ab1e656b0f9074bdcc6c966ba22e", null ]
 ];

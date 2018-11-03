@@ -3,7 +3,7 @@ var classnode__editor_1_1GraphScene =
     [ "Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", "structnode__editor_1_1GraphScene_1_1Selection" ],
     [ "GraphScene", "classnode__editor_1_1GraphScene.html#a9f4618283fb8c5f76003e62b997f3592", null ],
     [ "~GraphScene", "classnode__editor_1_1GraphScene.html#aad44ea9c1747e76d1129a05f125e6c9d", null ],
-    [ "addNode", "classnode__editor_1_1GraphScene.html#a9d8c10193af4c009997dcaf61163c91b", null ],
+    [ "addNode", "classnode__editor_1_1GraphScene.html#a046784325d258a8eae7ca8b8e8cb3a2a", null ],
     [ "connect", "classnode__editor_1_1GraphScene.html#a46f7e994006431264374d9777708e9db", null ],
     [ "disconnect", "classnode__editor_1_1GraphScene.html#af21e49b710c3690b4cac4207c994b230", null ],
     [ "disconnect", "classnode__editor_1_1GraphScene.html#a22196eac8403ac72ffa0acab02603450", null ],

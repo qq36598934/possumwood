@@ -28,7 +28,7 @@ var searchData=
   ['additem',['addItem',['../classpossumwood_1_1Config.html#a4aa91ed52d0df63edc8b62ff5b99261b',1,'possumwood::Config']]],
   ['additionnode',['additionNode',['../dependency__graph_2common_8cpp.html#ad2bd88ddf798389cba47c6f786dbb65a',1,'additionNode():&#160;common.cpp'],['../dependency__graph_2common_8h.html#a335d2beabf999719cd9e844d92959855',1,'additionNode():&#160;common.cpp'],['../possumwood_2common_8cpp.html#a335d2beabf999719cd9e844d92959855',1,'additionNode():&#160;common.cpp'],['../possumwood_2common_8h.html#a335d2beabf999719cd9e844d92959855',1,'additionNode():&#160;common.cpp']]],
   ['addmesh',['addMesh',['../classpossumwood_1_1Meshes.html#ab75f4f1de3334483600e65926e061670',1,'possumwood::Meshes']]],
-  ['addnode',['addNode',['../classdependency__graph_1_1Selection.html#a3c7cfcf88bf62ec4a208080a4eebb9df',1,'dependency_graph::Selection::addNode()'],['../classnode__editor_1_1GraphScene.html#a9d8c10193af4c009997dcaf61163c91b',1,'node_editor::GraphScene::addNode()']]],
+  ['addnode',['addNode',['../classdependency__graph_1_1Selection.html#a3c7cfcf88bf62ec4a208080a4eebb9df',1,'dependency_graph::Selection::addNode()'],['../classnode__editor_1_1GraphScene.html#a046784325d258a8eae7ca8b8e8cb3a2a',1,'node_editor::GraphScene::addNode()']]],
   ['addoutput',['addOutput',['../classpossumwood_1_1NetworkCompute.html#aad5a077e1d31865ec2e5d647710b7b07',1,'possumwood::NetworkCompute']]],
   ['addport',['addPort',['../classnode__editor_1_1Node.html#a9b1bc8065a17a611f8f9f31cdceb0fb1',1,'node_editor::Node']]],
   ['addproperty',['addProperty',['../classpossumwood_1_1Properties.html#a78746988560159ce4847622d04156754',1,'possumwood::Properties']]],
