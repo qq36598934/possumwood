@@ -1,6 +1,5 @@
 var NAVTREEINDEX9 =
 {
-"classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#a5c2b9fccbdb362494c7e6f97ad24d51a":[2,0,4,2,2,0,9],
 "classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#a5e2ca4cee4e9eda9d49b381798a3388f":[2,0,4,2,2,0,4],
 "classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#a80582009e4d41d6678449dd7650f838a":[2,0,4,2,2,0,10],
 "classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#a840b6028b20fab4cd664cb1ecd79c2f3":[2,0,4,2,2,0,6],
@@ -215,13 +214,16 @@ var NAVTREEINDEX9 =
 "classvec3__ui.html#af282db8aa7ca5e5e4518b9086b6de2d8":[2,0,31,3],
 "clipboard_8h.html":[3,0,0,1,0,7],
 "clipboard_8h_source.html":[3,0,0,1,0,7],
+"colours_8cpp.html":[3,0,0,1,2,6],
+"colours_8h.html":[3,0,0,1,2,7],
+"colours_8h_source.html":[3,0,0,1,2,7],
 "compute__dirty_8cpp.html":[3,0,0,3,1,5],
 "compute__dirty_8cpp.html#a3f47d551ef913113ed03113bbe72bf69":[3,0,0,3,1,5,0],
-"config_8cpp.html":[3,0,0,1,2,6],
-"config_8cpp.html#a9b45b3e13bd9167aab02e17e08916231":[3,0,0,1,2,6,0],
-"config_8h.html":[3,0,0,1,2,7],
-"config_8h_source.html":[3,0,0,1,2,7],
-"config_8inl.html":[3,0,0,1,2,8],
+"config_8cpp.html":[3,0,0,1,2,8],
+"config_8cpp.html#a9b45b3e13bd9167aab02e17e08916231":[3,0,0,1,2,8,0],
+"config_8h.html":[3,0,0,1,2,9],
+"config_8h_source.html":[3,0,0,1,2,9],
+"config_8inl.html":[3,0,0,1,2,10],
 "config__dialog_8cpp.html":[3,0,0,0,1,2],
 "config__dialog_8h.html":[3,0,0,0,1,3],
 "config__dialog_8h_source.html":[3,0,0,0,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX9 =
 "datatypes_2filename_8h_source.html":[3,0,0,1,2,0,3],
 "datatypes_2font_8cpp.html":[3,0,0,2,4,0,3],
 "datatypes_2font_8cpp.html#a1fe9dd46f147391e0d388323edf3a396":[3,0,0,2,4,0,3,0],
-"datatypes_2meshes_8h.html":[3,0,0,2,1,0,0],
-"datatypes_2meshes_8h_source.html":[3,0,0,2,1,0,0],
-"datatypes_2pixmap_8h.html":[3,0,0,2,4,0,6]
+"datatypes_2meshes_8h.html":[3,0,0,2,1,0,0]
 };

@@ -17,7 +17,6 @@ var searchData=
   ['m_5fchangeconnection',['m_changeConnection',['../classenum__ui.html#a2ca64b542cbe85f87833a288c1d2a42c',1,'enum_ui']]],
   ['m_5fcheckbox',['m_checkBox',['../classbool__ui.html#a643af77c4fa1a2f98ba862561a7d368a',1,'bool_ui']]],
   ['m_5fcolor',['m_color',['../classnode__editor_1_1Node.html#a3a6ef2366fd29f4e0712e9cde6db51d3',1,'node_editor::Node::m_color()'],['../classnode__editor_1_1Port.html#a4665b11626942057dcab857b103e4c6a',1,'node_editor::Port::m_color()']]],
-  ['m_5fcolours',['m_colours',['../classpossumwood_1_1Metadata.html#a2bd6465bcaf295e189a27eb9da372f72',1,'possumwood::Metadata']]],
   ['m_5fcombobox',['m_combobox',['../classenum__ui.html#a5becca8aa5e7ac6ccb5ea2775cd530a0',1,'enum_ui']]],
   ['m_5fcompute',['m_compute',['../classdependency__graph_1_1Metadata.html#a627a44e29ae5de7708bbd6643a1e7e0d',1,'dependency_graph::Metadata']]],
   ['m_5fconnectedside',['m_connectedSide',['../classnode__editor_1_1GraphScene.html#a8a32c2eeea2a661e99b3c4f983de860b',1,'node_editor::GraphScene']]],

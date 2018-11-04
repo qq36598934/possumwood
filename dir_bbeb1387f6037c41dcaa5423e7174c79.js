@@ -8,6 +8,10 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
     [ "app.h", "possumwood__sdk_2app_8h.html", [
       [ "App", "classpossumwood_1_1App.html", "classpossumwood_1_1App" ]
     ] ],
+    [ "colours.cpp", "colours_8cpp.html", null ],
+    [ "colours.h", "colours_8h.html", [
+      [ "Colours", "classpossumwood_1_1Colours.html", "classpossumwood_1_1Colours" ]
+    ] ],
     [ "config.cpp", "config_8cpp.html", "config_8cpp" ],
     [ "config.h", "config_8h.html", [
       [ "Config", "classpossumwood_1_1Config.html", "classpossumwood_1_1Config" ],

@@ -17,6 +17,7 @@ var namespacepossumwood =
     [ "Traits< void >", "structpossumwood_1_1Traits_3_01void_01_4.html", "structpossumwood_1_1Traits_3_01void_01_4" ],
     [ "UndoStack", "classpossumwood_1_1UndoStack.html", "classpossumwood_1_1UndoStack" ],
     [ "App", "classpossumwood_1_1App.html", "classpossumwood_1_1App" ],
+    [ "Colours", "classpossumwood_1_1Colours.html", "classpossumwood_1_1Colours" ],
     [ "Config", "classpossumwood_1_1Config.html", "classpossumwood_1_1Config" ],
     [ "Enum", "classpossumwood_1_1Enum.html", "classpossumwood_1_1Enum" ],
     [ "Traits< Enum >", "structpossumwood_1_1Traits_3_01Enum_01_4.html", "structpossumwood_1_1Traits_3_01Enum_01_4" ],

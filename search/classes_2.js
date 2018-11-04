@@ -8,6 +8,7 @@ var searchData=
   ['cgalvertex',['CGALVertex',['../classpossumwood_1_1CGALVertex.html',1,'possumwood']]],
   ['children',['Children',['../classanim_1_1Children.html',1,'anim']]],
   ['clipboard',['Clipboard',['../classpossumwood_1_1Clipboard.html',1,'possumwood']]],
+  ['colours',['Colours',['../classpossumwood_1_1Colours.html',1,'possumwood']]],
   ['compare',['Compare',['../structdependency__graph_1_1MetadataRegister_1_1Compare.html',1,'dependency_graph::MetadataRegister']]],
   ['compare',['Compare',['../structdependency__graph_1_1Nodes_1_1Compare.html',1,'dependency_graph::Nodes']]],
   ['compare',['Compare',['../structpossumwood_1_1polymesh_1_1GenericBase_1_1Handles_1_1Compare.html',1,'possumwood::polymesh::GenericBase::Handles']]],

@@ -10,6 +10,7 @@ var searchData=
   ['reference',['reference',['../classpossumwood_1_1io_1_1basic__json.html#adae667135ace714f132173ede7538a1b',1,'possumwood::io::basic_json::reference()'],['../classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#ad1a24f6a438c22b0684150b004c24367',1,'possumwood::io::basic_json::iter_impl::reference()'],['../classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html#ad5f05a253b5ce5c413140d823a1d73b2',1,'possumwood::io::basic_json::json_reverse_iterator::reference()']]],
   ['reference_5ftokens',['reference_tokens',['../classpossumwood_1_1io_1_1basic__json_1_1json__pointer.html#aaa9abee7ce89b1c4037d33ddf6a5878d',1,'possumwood::io::basic_json::json_pointer']]],
   ['refresh',['refresh',['../classpossumwood_1_1Drawable.html#a3012c0f423ecb8ca51f43c117d7365f5',1,'possumwood::Drawable']]],
+  ['registercolour',['registerColour',['../classpossumwood_1_1Colours.html#a30e29469b1e7d44e4b02e008b8508eb2',1,'possumwood::Colours']]],
   ['registernodemove',['registerNodeMove',['../classnode__editor_1_1GraphScene.html#a8b61361b22a7073544c2636766740d72',1,'node_editor::GraphScene']]],
   ['reject',['reject',['../classanim_1_1Tokenizer.html#a52bff911d878b80ef80dd5c4c9bc3783',1,'anim::Tokenizer']]],
   ['remap_2ecpp',['remap.cpp',['../remap_8cpp.html',1,'']]],
