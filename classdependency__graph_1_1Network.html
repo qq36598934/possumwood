@@ -107,6 +107,7 @@ $(document).ready(function(){initNavTree('classdependency__graph_1_1Network.html
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-static-methods">Static Protected Member Functions</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="#friends">Friends</a> &#124;
@@ -224,10 +225,15 @@ Protected Member Functions</h2></td></tr>
 <tr class="memitem:aea7b759c8ab6874323a834d605bdb04f inherit pro_methods_classdependency__graph_1_1NodeBase"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Datablock.html">Datablock</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1NodeBase.html#aea7b759c8ab6874323a834d605bdb04f">datablock</a> ()</td></tr>
 <tr class="separator:aea7b759c8ab6874323a834d605bdb04f inherit pro_methods_classdependency__graph_1_1NodeBase"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-static-methods"></a>
+Static Protected Member Functions</h2></td></tr>
+<tr class="memitem:a80debe7ce06bcae408ef8df59179bd0d"><td class="memItemLeft" align="right" valign="top">static const <a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Network.html#a80debe7ce06bcae408ef8df59179bd0d">defaultMetadata</a> ()</td></tr>
+<tr class="separator:a80debe7ce06bcae408ef8df59179bd0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a5133d37287fe983238f478288cad9b7b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Network.html#a5133d37287fe983238f478288cad9b7b">Network</a> (<a class="el" href="classdependency__graph_1_1Network.html">Network</a> *parent, const std::string &amp;<a class="el" href="classdependency__graph_1_1NodeBase.html#a66e471f0aba593e1d82dbaab70545667">name</a>=&quot;network&quot;, const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;id=<a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a>())</td></tr>
-<tr class="separator:a5133d37287fe983238f478288cad9b7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57ce239fea0485d4ab6df15bbd1369e0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Network.html#a57ce239fea0485d4ab6df15bbd1369e0">Network</a> (const std::string &amp;<a class="el" href="classdependency__graph_1_1NodeBase.html#a66e471f0aba593e1d82dbaab70545667">name</a>, const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;id, const <a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a> &amp;md, <a class="el" href="classdependency__graph_1_1Network.html">Network</a> *parent)</td></tr>
+<tr class="separator:a57ce239fea0485d4ab6df15bbd1369e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -267,7 +273,7 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a5133d37287fe983238f478288cad9b7b"></a>
+<a class="anchor" id="a57ce239fea0485d4ab6df15bbd1369e0"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -277,20 +283,26 @@ Friends</h2></td></tr>
         <tr>
           <td class="memname">dependency_graph::Network::Network </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="classdependency__graph_1_1Network.html">Network</a> *&#160;</td>
-          <td class="paramname"><em>parent</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
           <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>name</em> = <code>&quot;network&quot;</code>, </td>
+          <td class="paramname"><em>name</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">const <a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a> &amp;&#160;</td>
-          <td class="paramname"><em>id</em> = <code><a class="el" href="classdependency__graph_1_1UniqueId.html">UniqueId</a>()</code>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a> &amp;&#160;</td>
+          <td class="paramname"><em>md</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classdependency__graph_1_1Network.html">Network</a> *&#160;</td>
+          <td class="paramname"><em>parent</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -349,6 +361,29 @@ Friends</h2></td></tr>
           <td> const</td>
         </tr>
       </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a80debe7ce06bcae408ef8df59179bd0d"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="classdependency__graph_1_1MetadataHandle.html">MetadataHandle</a> &amp; dependency_graph::Network::defaultMetadata </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -530,7 +565,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Network.html">Network</a></li>
-    <li class="footer">Generated on Sun Nov 4 2018 02:51:21 for possumwood by
+    <li class="footer">Generated on Sun Nov 4 2018 17:53:28 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

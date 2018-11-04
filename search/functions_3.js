@@ -7,6 +7,7 @@ var searchData=
   ['defaultfragmentshadersrc',['defaultFragmentShaderSrc',['../namespacepossumwood.html#a8d4ba66d139cce3139d2214544be641a',1,'possumwood']]],
   ['defaultgeometryshader',['defaultGeometryShader',['../namespacepossumwood.html#a7692d7a41f86ad92efe1de1c7290d07f',1,'possumwood']]],
   ['defaultgeometryshadersrc',['defaultGeometryShaderSrc',['../namespacepossumwood.html#a632428040c2d16a483198709d17e3569',1,'possumwood']]],
+  ['defaultmetadata',['defaultMetadata',['../classdependency__graph_1_1Network.html#a80debe7ce06bcae408ef8df59179bd0d',1,'dependency_graph::Network']]],
   ['defaultvalue',['defaultValue',['../classpossumwood_1_1Config_1_1Item.html#a3befeed21223f2e991f7eec96c6d0860',1,'possumwood::Config::Item']]],
   ['defaultvertexshader',['defaultVertexShader',['../classpossumwood_1_1GLRenderable.html#a4f245bb3997ebf6e61452f56deb1765c',1,'possumwood::GLRenderable::defaultVertexShader()'],['../namespacepossumwood.html#a6da494ebafbf3593616ba8336222eb9e',1,'possumwood::defaultVertexShader()']]],
   ['defaultvertexshadersrc',['defaultVertexShaderSrc',['../namespacepossumwood.html#a36c6869cc11a99be4f30bbcffe270492',1,'possumwood']]],

@@ -1,10 +1,11 @@
 var classdependency__graph_1_1Network =
 [
     [ "~Network", "classdependency__graph_1_1Network.html#a5266ab687e1056071a7f4ede21b92b69", null ],
-    [ "Network", "classdependency__graph_1_1Network.html#a5133d37287fe983238f478288cad9b7b", null ],
+    [ "Network", "classdependency__graph_1_1Network.html#a57ce239fea0485d4ab6df15bbd1369e0", null ],
     [ "clear", "classdependency__graph_1_1Network.html#a490161647d7e7b25885081277ebffc4a", null ],
     [ "connections", "classdependency__graph_1_1Network.html#a8d3b9e140e1525a1cf1d8a4d809965b3", null ],
     [ "connections", "classdependency__graph_1_1Network.html#ab0a8090b2cc1326247cad2d812eb9fa9", null ],
+    [ "defaultMetadata", "classdependency__graph_1_1Network.html#a80debe7ce06bcae408ef8df59179bd0d", null ],
     [ "empty", "classdependency__graph_1_1Network.html#a4d56ade47b27b1a56dc35b8e96fd0f9f", null ],
     [ "makeNode", "classdependency__graph_1_1Network.html#ae8baa6e70c50e452f5ee161355419284", null ],
     [ "nodes", "classdependency__graph_1_1Network.html#a5f95121d52d35ddffa6cbeafee1a6beb", null ],
