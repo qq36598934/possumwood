@@ -37,7 +37,7 @@
 <area shape="rect" id="node37" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="5635,278,5799,319"/>
 <area shape="rect" id="node38" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="5823,278,5987,319"/>
 <area shape="rect" id="node39" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="6011,278,6175,319"/>
-<area shape="rect" id="node40" href="$nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="6199,278,6363,319"/>
+<area shape="rect" id="node40" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="6199,278,6363,319"/>
 <area shape="rect" id="node41" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="6387,278,6532,319"/>
 <area shape="rect" id="node42" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="6557,278,6715,319"/>
 <area shape="rect" id="node43" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="6740,278,6865,319"/>

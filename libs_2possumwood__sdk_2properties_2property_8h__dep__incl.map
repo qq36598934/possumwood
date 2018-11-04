@@ -34,7 +34,7 @@
 <area shape="rect" id="node27" href="$bool_8cpp.html" title="src/plugins/maths/ui\l/bool.cpp" alt="" coords="2193,187,2332,229"/>
 <area shape="rect" id="node29" href="$float__ui_8cpp.html" title="src/plugins/maths/ui\l/float_ui.cpp" alt="" coords="2356,187,2495,229"/>
 <area shape="rect" id="node31" href="$unsigned__ui_8cpp.html" title="src/plugins/maths/ui\l/unsigned_ui.cpp" alt="" coords="2519,187,2657,229"/>
-<area shape="rect" id="node33" href="$ui_2vec3_8cpp.html" title="src/plugins/maths/ui\l/vec3.cpp" alt="" coords="2681,187,2820,229"/>
+<area shape="rect" id="node33" href="$maths_2ui_2vec3_8cpp.html" title="src/plugins/maths/ui\l/vec3.cpp" alt="" coords="2681,187,2820,229"/>
 <area shape="rect" id="node35" href="$generic__mesh_8cpp.html" title="src/plugins/polymesh\l/ui/generic_mesh.cpp" alt="" coords="2844,187,2991,229"/>
 <area shape="rect" id="node37" href="$pixmap_8cpp.html" title="src/plugins/render\l/ui/pixmap.cpp" alt="" coords="3015,187,3140,229"/>
 <area shape="rect" id="node39" href="$ui_2uniforms_8cpp.html" title="src/plugins/render\l/ui/uniforms.cpp" alt="" coords="3164,187,3289,229"/>

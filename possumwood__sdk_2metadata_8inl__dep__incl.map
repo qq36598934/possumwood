@@ -34,7 +34,7 @@
 <area shape="rect" id="node34" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="5634,187,5797,229"/>
 <area shape="rect" id="node35" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="5822,187,5985,229"/>
 <area shape="rect" id="node36" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="6010,187,6173,229"/>
-<area shape="rect" id="node37" href="$nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="6198,187,6361,229"/>
+<area shape="rect" id="node37" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="6198,187,6361,229"/>
 <area shape="rect" id="node38" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="6386,187,6531,229"/>
 <area shape="rect" id="node39" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="6555,187,6713,229"/>
 <area shape="rect" id="node40" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="6739,187,6864,229"/>
@@ -47,5 +47,5 @@
 <area shape="rect" id="node47" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="7995,187,8172,229"/>
 <area shape="rect" id="node48" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="8197,187,8381,229"/>
 <area shape="rect" id="node49" href="$plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="8406,187,8604,229"/>
-<area shape="rect" id="node50" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="8629,187,8821,229"/>
+<area shape="rect" id="node50" href="$render_2nodes_2uniforms_2vec3_8cpp.html" title="src/plugins/render\l/nodes/uniforms/vec3.cpp" alt="" coords="8629,187,8800,229"/>
 </map>

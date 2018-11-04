@@ -1,5 +1,7 @@
 var NAVTREEINDEX12 =
 {
+"network__compute_8h_source.html":[3,0,0,1,2,24],
+"network__connections_8cpp.html":[3,0,0,3,1,12],
 "network__connections_8cpp.html#ac015549d8693eb21179a49da85541e34":[3,0,0,3,1,12,0],
 "network__nodes_8cpp.html":[3,0,0,3,1,13],
 "network__nodes_8cpp.html#a1a8c53786e4a87fb95a255f54c1a4a9b":[3,0,0,3,1,13,0],
@@ -21,7 +23,6 @@ var NAVTREEINDEX12 =
 "nodes_2font_8cpp.html":[3,0,0,2,4,1,4],
 "nodes_2program_8cpp.html":[3,0,0,2,4,1,7],
 "nodes_2uniforms_2texture_8cpp.html":[3,0,0,2,4,1,1,2],
-"nodes_2vec3_8cpp.html":[3,0,0,2,2,1,3],
 "nodes_8inl.html":[3,0,0,1,1,33],
 "nodes__iterator_8cpp.html":[3,0,0,1,1,34],
 "nodes__iterator_8h.html":[3,0,0,1,1,35],
@@ -58,7 +59,7 @@ var NAVTREEINDEX12 =
 "plugins_2polymesh_2traits_8h.html":[3,0,0,2,3,16],
 "plugins_2polymesh_2traits_8h_source.html":[3,0,0,2,3,16],
 "plugins_2render_2nodes_2uniforms_2transform_8cpp.html":[3,0,0,2,4,1,1,3],
-"plugins_2render_2nodes_2uniforms_2viewport_8cpp.html":[3,0,0,2,4,1,1,4],
+"plugins_2render_2nodes_2uniforms_2viewport_8cpp.html":[3,0,0,2,4,1,1,5],
 "polygons_8cpp.html":[3,0,0,2,0,0,12],
 "polygons_8h.html":[3,0,0,2,0,0,13],
 "polygons_8h_source.html":[3,0,0,2,0,0,13],
@@ -118,6 +119,8 @@ var NAVTREEINDEX12 =
 "remap_8cpp.html":[3,0,0,2,0,1,1,4],
 "remove__unskinned_8cpp.html":[3,0,0,2,0,1,3,2],
 "render_2datatypes_2vertex__data_8cpp.html":[3,0,0,2,4,0,21],
+"render_2nodes_2uniforms_2vec3_8cpp.html":[3,0,0,2,4,1,1,4],
+"render_2nodes_2uniforms_2vec3_8cpp.html#af162013dfa19d9876d9e0fae8e5f7eca":[3,0,0,2,4,1,1,4,0],
 "render_2nodes_2vertex__data_2cgal_8cpp.html":[3,0,0,2,4,1,2,1],
 "retime_8cpp.html":[3,0,0,2,0,1,0,1],
 "rtti_8cpp.html":[3,0,0,1,1,40],
@@ -246,8 +249,5 @@ var NAVTREEINDEX12 =
 "structdependency__graph_1_1Data.html#a05da8c6a62ae6bfb971e9e9e67548eb2":[2,0,1,12,0],
 "structdependency__graph_1_1Data.html#a09138467119aa8660b9d7eb05e74b221":[2,0,1,12,3],
 "structdependency__graph_1_1Data.html#a1cd263f2a8ea32c847b6c99f90d85d02":[2,0,1,12,4],
-"structdependency__graph_1_1Data.html#a33982ca47fc2f5437a0ba3788a5156ee":[2,0,1,12,2],
-"structdependency__graph_1_1Data.html#a750c1226ba51d6f2c64b234c48d6c282":[2,0,1,12,8],
-"structdependency__graph_1_1Data.html#a87077fc1097168be85a38a31c821829e":[2,0,1,12,1],
-"structdependency__graph_1_1Data.html#ad1de234e4872c4e3a9c3284fbf876b95":[2,0,1,12,5]
+"structdependency__graph_1_1Data.html#a33982ca47fc2f5437a0ba3788a5156ee":[2,0,1,12,2]
 };
