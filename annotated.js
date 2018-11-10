@@ -18,6 +18,7 @@ var annotated =
     [ "MainWindow", "classMainWindow.html", "classMainWindow" ],
     [ "MeshesUI", "classMeshesUI.html", "classMeshesUI" ],
     [ "MeshSubsetEditor", "classMeshSubsetEditor.html", "classMeshSubsetEditor" ],
+    [ "PathWidget", "classPathWidget.html", "classPathWidget" ],
     [ "Pixmap", "classPixmap.html", "classPixmap" ],
     [ "Properties", "classProperties.html", "classProperties" ],
     [ "SearchableMenu", "classSearchableMenu.html", "classSearchableMenu" ],

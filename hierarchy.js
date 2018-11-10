@@ -380,6 +380,7 @@ var hierarchy =
     ] ],
     [ "QWidget", null, [
       [ "Adaptor", "classAdaptor.html", null ],
+      [ "PathWidget", "classPathWidget.html", null ],
       [ "Timeline", "classTimeline.html", null ],
       [ "TimelineWidget", "classTimelineWidget.html", null ]
     ] ],
@@ -388,8 +389,8 @@ var hierarchy =
     ] ],
     [ "openanim::RigData", "structopenanim_1_1RigData.html", null ],
     [ "dependency_graph::io::SaveableRegistration", "structdependency__graph_1_1io_1_1SaveableRegistration.html", null ],
-    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classpossumwood_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "dependency_graph::Graph::Signals", "structdependency__graph_1_1Graph_1_1Signals.html", null ],
     [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],

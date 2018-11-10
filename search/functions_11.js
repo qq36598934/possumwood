@@ -40,6 +40,7 @@ var searchData=
   ['setname',['setName',['../classdependency__graph_1_1NodeBase.html#a4998202de4bd00c3368c1ca2dd8903e7',1,'dependency_graph::NodeBase::setName()'],['../classnode__editor_1_1Node.html#acc357f14e96f1cf4e42e39e18247b201',1,'node_editor::Node::setName()'],['../classanim_1_1SkinnedMesh.html#a950838fe56f4ade4388179001e4c600b',1,'anim::SkinnedMesh::setName()'],['../classpossumwood_1_1Mesh.html#a0276282c0889312ea9ce9f1c96d31552',1,'possumwood::Mesh::setName()']]],
   ['setnodereference',['setNodeReference',['../classpossumwood_1_1Editor.html#a04f2af2456620a6791a1f44d355d0b19',1,'possumwood::Editor']]],
   ['setoffset',['setOffset',['../classdependency__graph_1_1Attr.html#a1acf3bffdbb693f8c9134a1bebc198f5',1,'dependency_graph::Attr']]],
+  ['setpath',['setPath',['../classPathWidget.html#a99d901eb5f90239a0366d8b123df5e76',1,'PathWidget']]],
   ['setpen',['setPen',['../classnode__editor_1_1Edge.html#ab23ed257a202d984dcb87a5c5036617d',1,'node_editor::Edge']]],
   ['setpoints',['setPoints',['../classnode__editor_1_1Edge.html#a7877ae836d1dbb17ef906c62bca59241',1,'node_editor::Edge']]],
   ['setpos',['setPos',['../classanim_1_1SkinnedVertices_1_1Vertex.html#a9981dabea58174bf3e785faead522a0a',1,'anim::SkinnedVertices::Vertex']]],

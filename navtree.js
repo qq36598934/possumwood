@@ -43,21 +43,21 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "actions_2app_8cpp.html",
-"classPixmap.html#a132ac78c2d8adc73079d658ea3bfdeb7",
-"classanim_1_1MotionMap.html#ac86790c57d8bc8cde301d27e5c512bb7",
-"classdependency__graph_1_1Connections.html#a56326e6f0dc3e3d20e1fe4194bb61cbb",
-"classdependency__graph_1_1Port.html#ad852dec7ab5a97ea1aa393130a92c310",
-"classpossumwood_1_1AppCore.html#a0e7f4789a777b0cb1874998d5bc9f1bc",
-"classpossumwood_1_1Mesh.html#afb6f97797de8bb876ed9abf2ea9b10c6",
-"classpossumwood_1_1io_1_1basic__json.html#a3cfb81c9eec9747a62e606f3feae351c",
-"classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#ad179d39d1e3af6f371e8d6e550cbd6de",
-"classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#a5c2b9fccbdb362494c7e6f97ad24d51a",
-"datatypes_2meshes_8h.html",
-"generic__polymesh_8cpp.html#ae61584185fc819ffc8f62aafefb2e36a",
-"network__compute_8h_source.html",
-"structdependency__graph_1_1Data.html#a750c1226ba51d6f2c64b234c48d6c282",
-"structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html#a14fd8a403273f0c058df0d7d64de1323",
-"unionpossumwood_1_1io_1_1basic__json_1_1json__value.html#a98534ddd89079ed51e810b50376d0149"
+"classPathWidget.html",
+"classanim_1_1MotionMap.html#a3700249077977e343d1846f2b766c1bd",
+"classdependency__graph_1_1Connections.html#a022d634d179041c5f4f1182dec800048",
+"classdependency__graph_1_1Port.html#a6db9d28bd448a131448276ee03de1e6d",
+"classpossumwood_1_1App.html#aba7ffc0bc1e3842f609220f5bf86a8b6",
+"classpossumwood_1_1Mesh.html#a53e63750c0ca518fe909a27ffad6bb6c",
+"classpossumwood_1_1io_1_1basic__json.html#a26676d54860df3e3d03bc36766115d66",
+"classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#aa7a12f9f454db2cee2f74079c1788abf",
+"classpossumwood_1_1polymesh_1_1GenericBase.html#acbf029c658edf913bb574dbc5435792b",
+"datablock_8inl.html",
+"generic__container_8cpp.html",
+"namespacepossumwood_1_1properties.html",
+"structdependency__graph_1_1Connections_1_1PortId.html",
+"structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae4e70efa4a9798ebcca247339a8d0ac0",
+"uniforms_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

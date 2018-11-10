@@ -37,6 +37,7 @@ var classAdaptor =
     [ "m_graphWidget", "classAdaptor.html#a3d49eb0c09cf397910f1107555c9b0d5", null ],
     [ "m_index", "classAdaptor.html#a8540c56efbf6da1f13e55b648ec57a34", null ],
     [ "m_paste", "classAdaptor.html#a6a9f85bb66ef335d77a14177e726c55f", null ],
+    [ "m_pathWidget", "classAdaptor.html#a4b353e7472a2b4d0258921d287ddfdde", null ],
     [ "m_redo", "classAdaptor.html#a07bfb7b023739a5dcabbdee40b8d139e", null ],
     [ "m_signals", "classAdaptor.html#a270bf919ae7e1802e728a1e848f753c6", null ],
     [ "m_sizeHint", "classAdaptor.html#af8e1da5ab1c249646a4c82c53196e94b", null ],
