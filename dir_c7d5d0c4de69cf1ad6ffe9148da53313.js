@@ -21,7 +21,8 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     ] ],
     [ "path_widget.cpp", "path__widget_8cpp.html", null ],
     [ "path_widget.h", "path__widget_8h.html", [
-      [ "PathWidget", "classPathWidget.html", "classPathWidget" ]
+      [ "PathWidget", "classPathWidget.html", "classPathWidget" ],
+      [ "Path", "classPathWidget_1_1Path.html", "classPathWidget_1_1Path" ]
     ] ],
     [ "properties.cpp", "apps_2possumwood_2properties_8cpp.html", null ],
     [ "properties.h", "apps_2possumwood_2properties_8h.html", [

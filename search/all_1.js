@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['back',['back',['../classpossumwood_1_1io_1_1basic__json.html#a6b53b4ab66f633c79bd6dd2a01970cad',1,'possumwood::io::basic_json::back()'],['../classpossumwood_1_1io_1_1basic__json.html#a0665aaa43b084ec0fcac32e3dee70f67',1,'possumwood::io::basic_json::back() const ']]],
+  ['back',['back',['../classPathWidget_1_1Path.html#adbb22c047529d4b73bf7538865377f69',1,'PathWidget::Path::back()'],['../classpossumwood_1_1io_1_1basic__json.html#a6b53b4ab66f633c79bd6dd2a01970cad',1,'possumwood::io::basic_json::back()'],['../classpossumwood_1_1io_1_1basic__json.html#a0665aaa43b084ec0fcac32e3dee70f67',1,'possumwood::io::basic_json::back() const ']]],
   ['background_2ecpp',['background.cpp',['../background_8cpp.html',1,'']]],
   ['base',['base',['../classdependency__graph_1_1NodesIterator.html#a4f2f9d3fc99047b39df2c79ae501f37a',1,'dependency_graph::NodesIterator']]],
   ['base_5fiterator',['base_iterator',['../classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html#a982f3a373f9a82d9e065f0696d1379d8',1,'possumwood::io::basic_json::json_reverse_iterator']]],

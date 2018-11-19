@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['pathwidget',['PathWidget',['../classPathWidget_1_1Path.html#ac255ed3a75100cb0b6df7c941ead3cb7',1,'PathWidget::Path']]],
   ['polygons',['Polygons',['../classpossumwood_1_1polymesh_1_1GenericPolymesh.html#a94c05b48f712c760b9d7f68be857850e',1,'possumwood::polymesh::GenericPolymesh']]],
   ['port',['Port',['../classdependency__graph_1_1Connections.html#aa502b594a737a49ef3dfcd93538c9a49',1,'dependency_graph::Connections::Port()'],['../classdependency__graph_1_1Metadata.html#aa502b594a737a49ef3dfcd93538c9a49',1,'dependency_graph::Metadata::Port()'],['../classdependency__graph_1_1NodeBase.html#aa502b594a737a49ef3dfcd93538c9a49',1,'dependency_graph::NodeBase::Port()'],['../classnode__editor_1_1ConnectedEdge.html#aa502b594a737a49ef3dfcd93538c9a49',1,'node_editor::ConnectedEdge::Port()']]],
   ['properties',['Properties',['../classpossumwood_1_1PropertyBase.html#a07abafce4382a305ca01821acdae5cd9',1,'possumwood::PropertyBase::Properties()'],['../classpossumwood_1_1Property.html#a07abafce4382a305ca01821acdae5cd9',1,'possumwood::Property::Properties()']]],

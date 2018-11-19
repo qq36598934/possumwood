@@ -22,7 +22,7 @@ var searchData=
   ['cgalpolyhedron',['CGALPolyhedron',['../namespacepossumwood.html#a15d09c8ad599334df7be975d778f8763',1,'possumwood']]],
   ['cgalvertex',['CGALVertex',['../classpossumwood_1_1CGALVertex.html',1,'possumwood']]],
   ['cgalvertex',['CGALVertex',['../classpossumwood_1_1CGALVertex.html#ac85a2d88c631d624575fba0521979672',1,'possumwood::CGALVertex']]],
-  ['changecurrentnetwork',['changeCurrentNetwork',['../classPathWidget.html#afd43e1d42ae3bfb8ae52b47d46d5e72f',1,'PathWidget']]],
+  ['changecurrentnetwork',['changeCurrentNetwork',['../classPathWidget.html#a19d4cdcbeb489918f43dae3f403cc940',1,'PathWidget']]],
   ['changemetadata',['changeMetadata',['../namespacepossumwood_1_1actions.html#af6cf2362c07e7045af0a88353a639900',1,'possumwood::actions']]],
   ['changemetadataaction',['changeMetadataAction',['../namespacepossumwood_1_1actions_1_1detail.html#a9203271881f1f95c7aa3fb51c4e61472',1,'possumwood::actions::detail']]],
   ['chars_5fread',['chars_read',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a4da7569d64a95f1ea7be05907f1b8cef',1,'possumwood::io::basic_json::binary_reader::chars_read()'],['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#ae9991063f9d49de596c21d074d85bac1',1,'possumwood::io::basic_json::lexer::chars_read()']]],

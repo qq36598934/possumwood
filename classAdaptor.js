@@ -24,7 +24,7 @@ var classAdaptor =
     [ "scene", "classAdaptor.html#a4ce9258242d31384434f99f521232890", null ],
     [ "scene", "classAdaptor.html#ae5f8497a71eb660da9f8ba2f2e49a5ce", null ],
     [ "selection", "classAdaptor.html#a32984af0bf6de1d1cd88ed3e48539ada", null ],
-    [ "setCurrentNetwork", "classAdaptor.html#aac8bf39fd2d49fac5b77d49e3c84c805", null ],
+    [ "setCurrentNetwork", "classAdaptor.html#aabd623ddf306d5e8fd1d68613ba770a6", null ],
     [ "setSelection", "classAdaptor.html#aeff6ee7ead8643ce81f39b5d325da38b", null ],
     [ "setSizeHint", "classAdaptor.html#a499166fcd03deb96b1669940f611c508", null ],
     [ "sizeHint", "classAdaptor.html#a228e4e5c06cb9394d2bc24643c6dc024", null ],
