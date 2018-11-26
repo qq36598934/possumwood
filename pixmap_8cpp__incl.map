@@ -1,4 +1,4 @@
-<map id="src/plugins/render/ui/pixmap.cpp" name="src/plugins/render/ui/pixmap.cpp">
+<map id="src/plugins/images/ui/pixmap.cpp" name="src/plugins/images/ui/pixmap.cpp">
 <area shape="rect" id="node2" href="$ui_2pixmap_8h.html" title="pixmap.h" alt="" coords="1055,96,1128,123"/>
 <area shape="rect" id="node7" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="possumwood_sdk/properties\l/property.h" alt="" coords="1206,171,1393,213"/>
 <area shape="rect" id="node46" href="$datatypes_2pixmap_8h.html" title="datatypes/pixmap.h" alt="" coords="1455,179,1589,205"/>

@@ -1,7 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="node2" href="$classAdaptor.html" title="A simple adaptor widget, marrying qt_graph_editor and dependency_graph. " alt="" coords="151,5,217,32"/>
-<area shape="rect" id="node3" href="$classPathWidget.html" title="PathWidget" alt="" coords="139,56,229,83"/>
-<area shape="rect" id="node4" href="$classTimeline.html" title="A simple interactive Timeline widget. " alt="" coords="149,107,219,133"/>
-<area shape="rect" id="node5" href="$classTimelineWidget.html" title="TimelineWidget" alt="" coords="128,157,240,184"/>
-<area shape="rect" id="node6" href="$classTreeWidget.html" title="TreeWidget" alt="" coords="139,208,229,235"/>
+<area shape="rect" id="node3" href="$classColourWidget.html" title="ColourWidget" alt="" coords="133,56,235,83"/>
+<area shape="rect" id="node4" href="$classPathWidget.html" title="PathWidget" alt="" coords="139,107,229,133"/>
+<area shape="rect" id="node5" href="$classTimeline.html" title="A simple interactive Timeline widget. " alt="" coords="149,157,219,184"/>
+<area shape="rect" id="node6" href="$classTimelineWidget.html" title="TimelineWidget" alt="" coords="128,208,240,235"/>
+<area shape="rect" id="node7" href="$classTreeWidget.html" title="TreeWidget" alt="" coords="139,259,229,285"/>
 </map>

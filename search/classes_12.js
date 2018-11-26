@@ -22,6 +22,7 @@ var searchData=
   ['traits_3c_20meshes_20_3e',['Traits&lt; Meshes &gt;',['../structpossumwood_1_1Traits_3_01Meshes_01_4.html',1,'possumwood']]],
   ['traits_3c_20nodedata_20_3e',['Traits&lt; NodeData &gt;',['../structpossumwood_1_1Traits_3_01NodeData_01_4.html',1,'possumwood']]],
   ['traits_3c_20polymesh_3a_3agenericpolymesh_20_3e',['Traits&lt; polymesh::GenericPolymesh &gt;',['../structpossumwood_1_1Traits_3_01polymesh_1_1GenericPolymesh_01_4.html',1,'possumwood']]],
+  ['traits_3c_20qcolor_20_3e',['Traits&lt; QColor &gt;',['../structpossumwood_1_1Traits_3_01QColor_01_4.html',1,'possumwood']]],
   ['traits_3c_20std_3a_3ashared_5fptr_3c_20const_20anim_3a_3aanimation_20_3e_20_3e',['Traits&lt; std::shared_ptr&lt; const anim::Animation &gt; &gt;',['../structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html',1,'possumwood']]],
   ['traits_3c_20std_3a_3ashared_5fptr_3c_20const_20fragmentshader_20_3e_20_3e',['Traits&lt; std::shared_ptr&lt; const FragmentShader &gt; &gt;',['../structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4.html',1,'possumwood']]],
   ['traits_3c_20std_3a_3ashared_5fptr_3c_20const_20geometryshader_20_3e_20_3e',['Traits&lt; std::shared_ptr&lt; const GeometryShader &gt; &gt;',['../structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01GeometryShader_01_4_01_4.html',1,'possumwood']]],

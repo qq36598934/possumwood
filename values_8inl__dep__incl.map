@@ -42,10 +42,10 @@
 <area shape="rect" id="node31" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="5071,187,5223,229"/>
 <area shape="rect" id="node32" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="5247,187,5433,229"/>
 <area shape="rect" id="node33" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="5457,187,5609,229"/>
-<area shape="rect" id="node34" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="5634,187,5797,229"/>
-<area shape="rect" id="node35" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="5822,187,5985,229"/>
-<area shape="rect" id="node36" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="6010,187,6173,229"/>
-<area shape="rect" id="node37" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="6198,187,6361,229"/>
-<area shape="rect" id="node38" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="6386,187,6531,229"/>
-<area shape="rect" id="node39" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="6555,187,6713,229"/>
+<area shape="rect" id="node34" href="$generate_8cpp.html" title="src/plugins/images\l/nodes/generate.cpp" alt="" coords="5634,187,5773,229"/>
+<area shape="rect" id="node35" href="$load_8cpp.html" title="src/plugins/images\l/nodes/load.cpp" alt="" coords="5799,187,5928,229"/>
+<area shape="rect" id="node36" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="5954,187,6117,229"/>
+<area shape="rect" id="node37" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="6142,187,6305,229"/>
+<area shape="rect" id="node38" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="6330,187,6493,229"/>
+<area shape="rect" id="node39" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="6518,187,6681,229"/>
 </map>

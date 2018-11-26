@@ -1,6 +1,6 @@
 <map id="src/plugins/render/datatypes/texture.h" name="src/plugins/render/datatypes/texture.h">
-<area shape="rect" id="node5" href="$datatypes_2pixmap_8h.html" title="pixmap.h" alt="" coords="2335,96,2408,123"/>
-<area shape="rect" id="node6" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2163,171,2271,197"/>
+<area shape="rect" id="node5" href="$datatypes_2pixmap_8h.html" title="images/datatypes/pixmap.h" alt="" coords="2241,96,2423,123"/>
+<area shape="rect" id="node6" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2150,171,2257,197"/>
 <area shape="rect" id="node8" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="463,395,624,421"/>
 <area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2105,245,2193,272"/>
 <area shape="rect" id="node13" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="702,320,879,347"/>

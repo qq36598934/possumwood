@@ -22,9 +22,6 @@ var dir_45247237aeb05763094580f9720e856e =
       [ "GLSLTraits< Imath::Matrix44< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Matrix44_3_01T_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Matrix44_3_01T_01_4_01_4" ],
       [ "GLSLTraits< std::vector< Imath::Matrix44< T > > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1vector_3_01Imath_1_1Matrix44_3_01T_01_4_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01std_1_1vector_3_01Imath_1_1Matrix44_3_01T_01_4_01_4_01_4" ]
     ] ],
-    [ "pixmap.h", "datatypes_2pixmap_8h.html", [
-      [ "Traits< std::shared_ptr< const QPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4" ]
-    ] ],
     [ "program.cpp", "datatypes_2program_8cpp.html", null ],
     [ "program.h", "program_8h.html", [
       [ "Program", "classpossumwood_1_1Program.html", "classpossumwood_1_1Program" ],

@@ -1,11 +1,11 @@
 <map id="src/plugins/render/datatypes/uniforms.inl" name="src/plugins/render/datatypes/uniforms.inl">
 <area shape="rect" id="node2" href="$datatypes_2uniforms_8h.html" title="uniforms.h" alt="" coords="1630,96,1711,123"/>
 <area shape="rect" id="node49" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="2792,395,2881,421"/>
-<area shape="rect" id="node10" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="476,320,583,347"/>
+<area shape="rect" id="node10" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="475,320,582,347"/>
 <area shape="rect" id="node42" href="$drawable_8h.html" title="possumwood_sdk/drawable.h" alt="" coords="2403,395,2598,421"/>
 <area shape="rect" id="node47" href="$texture_8h.html" title="texture.h" alt="" coords="1496,171,1569,197"/>
 <area shape="rect" id="node12" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="44,544,205,571"/>
-<area shape="rect" id="node14" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="485,395,574,421"/>
+<area shape="rect" id="node14" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="484,395,573,421"/>
 <area shape="rect" id="node15" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="345,469,522,496"/>
 <area shape="rect" id="node22" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="547,469,702,496"/>
 <area shape="rect" id="node23" href="$json_8h.html" title="io/json.h" alt="" coords="1613,469,1683,496"/>
@@ -14,5 +14,5 @@
 <area shape="rect" id="node44" href="$dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="2409,469,2593,496"/>
 <area shape="rect" id="node46" href="$state_8h.html" title="state.h" alt="" coords="2271,469,2333,496"/>
 <area shape="rect" id="node45" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="2649,544,2710,571"/>
-<area shape="rect" id="node48" href="$datatypes_2pixmap_8h.html" title="pixmap.h" alt="" coords="1421,245,1494,272"/>
+<area shape="rect" id="node48" href="$datatypes_2pixmap_8h.html" title="images/datatypes/pixmap.h" alt="" coords="1312,245,1494,272"/>
 </map>

@@ -1,4 +1,4 @@
-<map id="src/plugins/render/datatypes/pixmap.h" name="src/plugins/render/datatypes/pixmap.h">
+<map id="src/plugins/images/datatypes/pixmap.h" name="src/plugins/images/datatypes/pixmap.h">
 <area shape="rect" id="node2" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1070,96,1177,123"/>
 <area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1763,320,1924,347"/>
 <area shape="rect" id="node7" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1079,171,1168,197"/>
