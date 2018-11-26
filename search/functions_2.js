@@ -53,6 +53,7 @@ var searchData=
   ['crend',['crend',['../classpossumwood_1_1io_1_1basic__json.html#a9300f6d2fe1e6d231f90083c90f2df79',1,'possumwood::io::basic_json']]],
   ['current',['current',['../classanim_1_1Tokenizer.html#ad1bf6b97ccc33e9806f8cc3d76574e1b',1,'anim::Tokenizer']]],
   ['currentnetwork',['currentNetwork',['../classAdaptor.html#a974f313558e5eed8dbf4fc3cfa5c8fd6',1,'Adaptor']]],
+  ['currentnetworkchanged',['currentNetworkChanged',['../classAdaptor.html#a407b160a5fd8fb0d1403cbe6b9f984fa',1,'Adaptor']]],
   ['currenttoken',['currentToken',['../classanim_1_1Tokenizer.html#abcb42a285170d5c5362b6c8a547cf914',1,'anim::Tokenizer']]],
   ['cut',['cut',['../namespacepossumwood_1_1actions.html#a18d5142acb19b72d436ee5b2ce5c8b57',1,'possumwood::actions']]],
   ['cutaction',['cutAction',['../classAdaptor.html#a4bf7a9924627ec4a1bef89225cc1c65c',1,'Adaptor']]]

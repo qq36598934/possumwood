@@ -4,6 +4,7 @@ var classAdaptor =
     [ "~Adaptor", "classAdaptor.html#a0eeebc9aa62aa16d69a6be532fc8bc0d", null ],
     [ "copyAction", "classAdaptor.html#a9bf0a4c79dc3e0df085fd33c8f14f88b", null ],
     [ "currentNetwork", "classAdaptor.html#a974f313558e5eed8dbf4fc3cfa5c8fd6", null ],
+    [ "currentNetworkChanged", "classAdaptor.html#a407b160a5fd8fb0d1403cbe6b9f984fa", null ],
     [ "cutAction", "classAdaptor.html#a4bf7a9924627ec4a1bef89225cc1c65c", null ],
     [ "deleteAction", "classAdaptor.html#a3be49c5f800955d29f8af4936c851052", null ],
     [ "draw", "classAdaptor.html#a599da4cdc70793552e7961acf0fdf98a", null ],
@@ -24,6 +25,7 @@ var classAdaptor =
     [ "scene", "classAdaptor.html#a4ce9258242d31384434f99f521232890", null ],
     [ "scene", "classAdaptor.html#ae5f8497a71eb660da9f8ba2f2e49a5ce", null ],
     [ "selection", "classAdaptor.html#a32984af0bf6de1d1cd88ed3e48539ada", null ],
+    [ "selectionChanged", "classAdaptor.html#a5325f627c0c86f462f87693b5dd09ceb", null ],
     [ "setCurrentNetwork", "classAdaptor.html#aabd623ddf306d5e8fd1d68613ba770a6", null ],
     [ "setSelection", "classAdaptor.html#aeff6ee7ead8643ce81f39b5d325da38b", null ],
     [ "setSizeHint", "classAdaptor.html#a499166fcd03deb96b1669940f611c508", null ],
@@ -41,5 +43,6 @@ var classAdaptor =
     [ "m_redo", "classAdaptor.html#a07bfb7b023739a5dcabbdee40b8d139e", null ],
     [ "m_signals", "classAdaptor.html#a270bf919ae7e1802e728a1e848f753c6", null ],
     [ "m_sizeHint", "classAdaptor.html#af8e1da5ab1c249646a4c82c53196e94b", null ],
+    [ "m_treeWidget", "classAdaptor.html#aeb293637f9886d6709bd044925e88683", null ],
     [ "m_undo", "classAdaptor.html#a29b4100aa9136d9ab6fbe797649ae1c4", null ]
 ];

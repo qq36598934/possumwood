@@ -29,6 +29,7 @@ var annotated =
     [ "Timeline", "classTimeline.html", "classTimeline" ],
     [ "TimelineWidget", "classTimelineWidget.html", "classTimelineWidget" ],
     [ "Toolbar", "classToolbar.html", "classToolbar" ],
+    [ "TreeWidget", "classTreeWidget.html", "classTreeWidget" ],
     [ "Uniforms", "classUniforms.html", "classUniforms" ],
     [ "unsigned_ui", "classunsigned__ui.html", "classunsigned__ui" ],
     [ "VBO", "classVBO.html", "classVBO" ],

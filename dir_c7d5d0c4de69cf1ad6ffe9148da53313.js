@@ -46,6 +46,10 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     [ "toolbar.h", "toolbar_8h.html", [
       [ "Toolbar", "classToolbar.html", "classToolbar" ]
     ] ],
+    [ "tree_widget.cpp", "tree__widget_8cpp.html", null ],
+    [ "tree_widget.h", "tree__widget_8h.html", [
+      [ "TreeWidget", "classTreeWidget.html", "classTreeWidget" ]
+    ] ],
     [ "viewport.cpp", "apps_2possumwood_2viewport_8cpp.html", null ],
     [ "viewport.h", "viewport_8h.html", [
       [ "Viewport", "classViewport.html", "classViewport" ]

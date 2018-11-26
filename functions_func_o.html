@@ -154,6 +154,7 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 <li>onAddNode()
 : <a class="el" href="classAdaptor.html#ad61077e2cb76d91762d11b9238417d4c">Adaptor</a>
 , <a class="el" href="classdependency__graph_1_1Graph.html#a2edb78d40b75d544c4f69a3931255741">dependency_graph::Graph</a>
+, <a class="el" href="classTreeWidget.html#a4cdbf3fea2c7689e192b8f4f01f9907d">TreeWidget</a>
 </li>
 <li>onBlindDataChanged()
 : <a class="el" href="classAdaptor.html#a985c2b8a961cd6fb02a87ed1327baf0d">Adaptor</a>
@@ -165,6 +166,12 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 <li>onConnect()
 : <a class="el" href="classAdaptor.html#a8a9d13243024324e92860332963f7272">Adaptor</a>
 , <a class="el" href="classdependency__graph_1_1Graph.html#aec7aca70d38c9c5fc23b511637ae1665">dependency_graph::Graph</a>
+</li>
+<li>onCurrentNetworkChanged()
+: <a class="el" href="classTreeWidget.html#a0d4d7cd513eb0d061019266c970206d2">TreeWidget</a>
+</li>
+<li>onCurrentSelectionChanged()
+: <a class="el" href="classTreeWidget.html#ade45909d2965d98564724cbfab06090c">TreeWidget</a>
 </li>
 <li>onDirty()
 : <a class="el" href="classdependency__graph_1_1Graph.html#a0f194c18910365bea304b1b6b5a5c0db">dependency_graph::Graph</a>
@@ -203,9 +210,11 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 <li>onRemoveNode()
 : <a class="el" href="classAdaptor.html#ac80772f4040a3e51a7724e4135a96758">Adaptor</a>
 , <a class="el" href="classdependency__graph_1_1Graph.html#a1c838105f14cd78c32fb639c9ed2c860">dependency_graph::Graph</a>
+, <a class="el" href="classTreeWidget.html#a1a12a5523e6d6f265973dc8e6a4a6e17">TreeWidget</a>
 </li>
 <li>onSelectionChanged()
 : <a class="el" href="classnode__editor_1_1GraphScene.html#adf1bcf418a619749cc18adb30e6b3ec2">node_editor::GraphScene</a>
+, <a class="el" href="classTreeWidget.html#afc000d9bc1f1216c049a8641e30bd445">TreeWidget</a>
 </li>
 <li>onStateChanged()
 : <a class="el" href="classAdaptor.html#a9a17e10f4b8371351257ca067aa388a0">Adaptor</a>
@@ -318,7 +327,7 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 , <a class="el" href="classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertex.html#a254dfa36af4f1d11ce2459de5e81ebce">possumwood::polymesh::GenericPolymesh::Vertex</a>
 </li>
 <li>operator-()
-: <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#abef3dc8247fe4841316397ace7fae7b1">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
+: <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#a3e79a90e680f0f883524960087e6a7d3">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html#a81bdd2e14706caf339b550a71fcb9f4b">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::json_reverse_iterator&lt; Base &gt;</a>
 , <a class="el" href="classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Index.html#ae45c3235478a2ef03bd0722de8cc0305">possumwood::polymesh::GenericPolymesh::Index</a>
 </li>
@@ -356,7 +365,7 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 , <a class="el" href="classdependency__graph_1_1Datablock.html#a07cf89553d8ba91276475bf9614e3e54">dependency_graph::Datablock</a>
 , <a class="el" href="classdependency__graph_1_1Values.html#a1ca1a5c59f6374179c4dbdaa73da0a7c">dependency_graph::Values</a>
 , <a class="el" href="classpossumwood_1_1BufferTemplated_1_1Element.html#a5b4b9f06bee09b4bacd80cc6c876c948">possumwood::BufferTemplated&lt; T &gt;::Element</a>
-, <a class="el" href="classpossumwood_1_1Config_1_1Item.html#a944817ad7838c6d3cde7a4b3384d4275">possumwood::Config::Item</a>
+, <a class="el" href="classpossumwood_1_1Config_1_1Item.html#afc878cd2d601405b7f9e0aad2fcd8e4b">possumwood::Config::Item</a>
 , <a class="el" href="classpossumwood_1_1Enum.html#a73f89da54e8cdf84c391ef8cea7fe190">possumwood::Enum</a>
 , <a class="el" href="classpossumwood_1_1Filename.html#a6f7d9349f0462296e168480e11ccc716">possumwood::Filename</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1input__buffer__adapter.html#abf2e1e497ef01098be22182959915fee">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::input_buffer_adapter</a>
@@ -417,27 +426,27 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 : <a class="el" href="classanim_1_1Attributes.html#a6f7045627d5248cc78f619e442fdcb86">anim::Attributes</a>
 , <a class="el" href="classanim_1_1Children.html#ae6e61319b22942b768e23c95fdf3d761">anim::Children&lt; JOINT, CONTAINER &gt;</a>
 , <a class="el" href="classanim_1_1Hierarchy.html#a789f9b57eb02d85e6d4e84310b84b63e">anim::Hierarchy</a>
-, <a class="el" href="classanim_1_1JointMappingEditorData.html#a6c39787eefe3f85043f7bfffab7fe9c6">anim::JointMappingEditorData</a>
+, <a class="el" href="classanim_1_1JointMappingEditorData.html#ad1248fa4a4d49ff6710754f21d63056b">anim::JointMappingEditorData</a>
 , <a class="el" href="classanim_1_1Polygons.html#ad67eef32e834872f4c2121a437482ba6">anim::Polygons</a>
-, <a class="el" href="classanim_1_1Skeleton.html#a71ea6dd227414d0b597daf395aad46be">anim::Skeleton</a>
+, <a class="el" href="classanim_1_1Skeleton.html#ac4c9c55284217766de89b02737f7e57e">anim::Skeleton</a>
 , <a class="el" href="classanim_1_1SkinnedVertices.html#ab296e8ce14b9e4c816801542e3611d5f">anim::SkinnedVertices</a>
 , <a class="el" href="classdependency__graph_1_1MetadataRegister.html#a8aafadd10babd455d9f314830bcd963b">dependency_graph::MetadataRegister</a>
-, <a class="el" href="classdependency__graph_1_1Nodes.html#a7c66f82bedfe6d7da3f85cfe08a63478">dependency_graph::Nodes</a>
+, <a class="el" href="classdependency__graph_1_1Nodes.html#a0fa8691b226b3696023bf1aba1f4a490">dependency_graph::Nodes</a>
 , <a class="el" href="classPathWidget_1_1Path.html#ac5f93fd86db14f585c533b1d176d3b26">PathWidget::Path</a>
-, <a class="el" href="classpossumwood_1_1Config.html#abec175ec3afbed4686242c7cbbc2a49f">possumwood::Config</a>
-, <a class="el" href="classpossumwood_1_1Index.html#a7d4559b10494df32bc5e96d709fbaf5c">possumwood::Index</a>
+, <a class="el" href="classpossumwood_1_1Config.html#a18a553e190ffa0aab31119094387e88a">possumwood::Config</a>
+, <a class="el" href="classpossumwood_1_1Index.html#a2927d8e350c0559b062d9768300372de">possumwood::Index</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#abb6180e330eeb4e2f94f3cd406df5e92">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html#a46a6789b7bde002508d4b06b27e50081">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::json_reverse_iterator&lt; Base &gt;</a>
-, <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#a6afbc6328507e93c9574b876cfe54bc6">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
-, <a class="el" href="classpossumwood_1_1polymesh_1_1Array.html#af7525fe8c1f92462a57bf60cf38d864e">possumwood::polymesh::Array&lt; T &gt;</a>
+, <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#a5d5bfdfa1a2f79a2147c504c5f9f8948">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
+, <a class="el" href="classpossumwood_1_1polymesh_1_1Array.html#a849ab8ed4301a5a7d71e9101c6b7a5a2">possumwood::polymesh::Array&lt; T &gt;</a>
 , <a class="el" href="classpossumwood_1_1polymesh_1_1GenericBase_1_1Handles.html#adb081befa027831eec426024f70bfe31">possumwood::polymesh::GenericBase::Handles</a>
 , <a class="el" href="structSkeletonTest.html#ab1a09ec954c189d52d83b06a02bc796a">SkeletonTest</a>
 </li>
 <li>options()
-: <a class="el" href="classanim_1_1SubsetSelection.html#af6e1ae1379fefc2faabfe96bcf457b08">anim::SubsetSelection</a>
+: <a class="el" href="classanim_1_1SubsetSelection.html#aceab8973f071d7f97b3c5ee82637a099">anim::SubsetSelection</a>
 </li>
 <li>Options()
-: <a class="el" href="classanim_1_1SubsetSelection_1_1Options.html#aca8dffbbea6b2081c43c8d5dc14ca86a">anim::SubsetSelection::Options</a>
+: <a class="el" href="classanim_1_1SubsetSelection_1_1Options.html#ad343323f6b4f8008987aabe508c0e32a">anim::SubsetSelection::Options</a>
 </li>
 <li>options()
 : <a class="el" href="classpossumwood_1_1Enum.html#af9ebcaff573e309577882af51e0fc770">possumwood::Enum</a>
@@ -453,7 +462,7 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 </li>
 <li>OutAttr()
 : <a class="el" href="classdependency__graph_1_1OutAttr.html#adb4d55cc407a015b0f45497a641187ac">dependency_graph::OutAttr&lt; T &gt;</a>
-, <a class="el" href="classdependency__graph_1_1OutAttr_3_01void_01_4.html#a0c136eb87a0da901db30d18fc1444565">dependency_graph::OutAttr&lt; void &gt;</a>
+, <a class="el" href="classdependency__graph_1_1OutAttr_3_01void_01_4.html#a183fd26e193071ca4c4bdaf1d542fbe4">dependency_graph::OutAttr&lt; void &gt;</a>
 </li>
 <li>output_stream_adapter()
 : <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1output__stream__adapter.html#a54fafd15d27997fd15e7c44f55c9c479">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_stream_adapter&lt; CharType &gt;</a>
@@ -470,7 +479,7 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Nov 19 2018 22:59:33 for possumwood by
+    <li class="footer">Generated on Mon Nov 26 2018 14:37:56 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

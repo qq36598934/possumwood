@@ -61,6 +61,7 @@ var searchData=
   ['_7etexture',['~Texture',['../classpossumwood_1_1Texture.html#ad189a3d175255a5ad687af33ef9e4532',1,'possumwood::Texture']]],
   ['_7etimeline',['~Timeline',['../classTimeline.html#a206e9a2a47a5c5fb0c935054b891e6fe',1,'Timeline']]],
   ['_7etimelinewidget',['~TimelineWidget',['../classTimelineWidget.html#a5683d379f9eda800b60d47987de0c98a',1,'TimelineWidget']]],
+  ['_7etreewidget',['~TreeWidget',['../classTreeWidget.html#a5e19a41c091dcf86d13034d65982a2a4',1,'TreeWidget']]],
   ['_7euniforms',['~Uniforms',['../classUniforms.html#a27212fdb84e27d2e61bb57d89b902e1f',1,'Uniforms']]],
   ['_7eunsigned_5fui',['~unsigned_ui',['../classunsigned__ui.html#a720c1415dab89004c1461cff89ebef84',1,'unsigned_ui']]],
   ['_7evalue',['~Value',['../classpossumwood_1_1PropertyItem_1_1Value.html#aac8cd2070fdfb284cdf19120cd77e8d6',1,'possumwood::PropertyItem::Value']]],

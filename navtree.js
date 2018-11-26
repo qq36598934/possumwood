@@ -43,21 +43,21 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "actions_2app_8cpp.html",
-"classPathWidget.html",
-"classanim_1_1JointMappingEditorData.html#a6fbdb56911192a864b6875951d927c2b",
-"classdependency__graph_1_1BaseData.html",
-"classdependency__graph_1_1Port.html#a0de3bb78b6f2edd976c5aa289a27c9d1",
-"classpossumwood_1_1App.html#a21fd395d55f95245b56fd7fbb5eba724",
-"classpossumwood_1_1Index.html#a85a04f76ce7ca43b4ccf7ae93be60e2d",
-"classpossumwood_1_1io_1_1basic__json.html#a0c891acffb2ac0196a40502b20ae3b81",
-"classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#a2699e9e1382b6b5841303a2d6f1f9e18",
-"classpossumwood_1_1polymesh_1_1Array.html#af2b7ffe1447de6c1d3fa2df9dfb5424a",
-"config__dialog_8h.html",
-"functions_vars_v.html",
-"namespacenode__editor.html",
-"structanim_1_1Transform.html#a98e64857c49eb85e205f9cfde539373a",
-"structpossumwood_1_1Uniforms_1_1DataBase.html#ab91162edaf37858cc448266bb361db51",
-"ui_2skeleton_8h_source.html"
+"classMeshesUI.html#aa324d76315623cd04c9176e87751bfb2",
+"classanim_1_1Hierarchy_1_1Item.html#ad81c882d96f8583321b2e6e25514db8c",
+"classdependency__graph_1_1AttrMap.html",
+"classdependency__graph_1_1NodesIterator.html#a8860539eb76f40af9e9c7d4673548924",
+"classnode__editor_1_1Port.html#a8f1d949b1eb3c904d3b3ddb14366e7a5",
+"classpossumwood_1_1IOBase.html#acd108a57cdb426926a2cd67274d2510b",
+"classpossumwood_1_1VertexData.html#ad01ebe326f620de86b7decc25afce692",
+"classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a6f79255ead52552d02214f3ef90a19f8",
+"classpossumwood_1_1io_1_1detail_1_1type__error.html#ad9e9abb082a948ec1293c76e41ad6c38",
+"classvec3__ui.html#ab8b05d83a8953be5c60e6c9f8f393657",
+"functions_vars_e.html",
+"namespaceanim.html",
+"structanim_1_1Tokenizer_1_1Token.html",
+"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html",
+"tools_8h.html#a820b3ce9135bb3ad6c533ad6b8451404"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
