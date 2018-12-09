@@ -42,10 +42,10 @@
 <area shape="rect" id="node31" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="5071,187,5223,229"/>
 <area shape="rect" id="node32" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="5247,187,5433,229"/>
 <area shape="rect" id="node33" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="5457,187,5609,229"/>
-<area shape="rect" id="node34" href="$generate_8cpp.html" title="src/plugins/images\l/nodes/generate.cpp" alt="" coords="5634,187,5773,229"/>
-<area shape="rect" id="node35" href="$load_8cpp.html" title="src/plugins/images\l/nodes/load.cpp" alt="" coords="5799,187,5928,229"/>
-<area shape="rect" id="node36" href="$plugins_2images_2nodes_2metadata_8cpp.html" title="src/plugins/images\l/nodes/metadata.cpp" alt="" coords="5953,187,6097,229"/>
-<area shape="rect" id="node37" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="6122,187,6285,229"/>
-<area shape="rect" id="node38" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="6310,187,6473,229"/>
-<area shape="rect" id="node39" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="6498,187,6661,229"/>
+<area shape="rect" id="node34" href="$float__constant_8cpp.html" title="src/plugins/expressions\l/nodes/float_constant.cpp" alt="" coords="5634,187,5805,229"/>
+<area shape="rect" id="node35" href="$unsigned__constant_8cpp.html" title="src/plugins/expressions\l/nodes/unsigned_constant.cpp" alt="" coords="5830,187,6028,229"/>
+<area shape="rect" id="node36" href="$generate_8cpp.html" title="src/plugins/images\l/nodes/generate.cpp" alt="" coords="6053,187,6192,229"/>
+<area shape="rect" id="node37" href="$load_8cpp.html" title="src/plugins/images\l/nodes/load.cpp" alt="" coords="6217,187,6347,229"/>
+<area shape="rect" id="node38" href="$plugins_2images_2nodes_2metadata_8cpp.html" title="src/plugins/images\l/nodes/metadata.cpp" alt="" coords="6372,187,6516,229"/>
+<area shape="rect" id="node39" href="$per__pixel__expr_8cpp.html" title="src/plugins/images\l/nodes/per_pixel_expr.cpp" alt="" coords="6541,187,6715,229"/>
 </map>
