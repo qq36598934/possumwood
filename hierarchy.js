@@ -99,6 +99,7 @@ var hierarchy =
     [ "possumwood::GLSLTraits< Imath::Vec2< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html", null ],
     [ "possumwood::GLSLTraits< Imath::Vec3< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html", null ],
     [ "possumwood::GLSLTraits< std::vector< Imath::Matrix44< T > > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1vector_3_01Imath_1_1Matrix44_3_01T_01_4_01_4_01_4.html", null ],
+    [ "possumwood::GLSLTraits< unsigned >", "structpossumwood_1_1GLSLTraits_3_01unsigned_01_4.html", null ],
     [ "possumwood::Font::Glyph", "structpossumwood_1_1Font_1_1Glyph.html", null ],
     [ "possumwood::CGALItems::Halfedge_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html", null ],
     [ "HalfedgeDS_face_base", null, [
@@ -117,8 +118,8 @@ var hierarchy =
     [ "possumwood::io::detail::has_to_json< BasicJsonType, T >", "structpossumwood_1_1io_1_1detail_1_1has__to__json.html", null ],
     [ "std::hash<::possumwood::io::json >", "structstd_1_1hash_3_1_1possumwood_1_1io_1_1json_01_4.html", null ],
     [ "anim::Hierarchy", "classanim_1_1Hierarchy.html", null ],
-    [ "possumwood::Index", "classpossumwood_1_1Index.html", null ],
     [ "possumwood::polymesh::GenericPolymesh::Index", "classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Index.html", null ],
+    [ "possumwood::Index", "classpossumwood_1_1Index.html", null ],
     [ "possumwood::IndexExtractor< VAL >", "structpossumwood_1_1IndexExtractor.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::input_adapter", "classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html", [
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::cached_input_stream_adapter", "classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html", null ],
@@ -135,8 +136,8 @@ var hierarchy =
     [ "possumwood::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "possumwood::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01RealType_00_01CompatibleObjectType_01_4.html", null ],
     [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
-    [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
+    [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
@@ -212,7 +213,7 @@ var hierarchy =
         [ "Skeleton", "classSkeleton.html", null ]
       ] ],
       [ "possumwood::Editor", "classpossumwood_1_1Editor.html", [
-        [ "possumwood::ShaderEditor", "classpossumwood_1_1ShaderEditor.html", null ]
+        [ "possumwood::SourceEditor", "classpossumwood_1_1SourceEditor.html", null ]
       ] ],
       [ "possumwood::GLRenderable", "classpossumwood_1_1GLRenderable.html", [
         [ "possumwood::Grid", "classpossumwood_1_1Grid.html", null ]
@@ -396,8 +397,8 @@ var hierarchy =
     ] ],
     [ "openanim::RigData", "structopenanim_1_1RigData.html", null ],
     [ "dependency_graph::io::SaveableRegistration", "structdependency__graph_1_1io_1_1SaveableRegistration.html", null ],
-    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classpossumwood_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "dependency_graph::Graph::Signals", "structdependency__graph_1_1Graph_1_1Signals.html", null ],
     [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],

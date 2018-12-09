@@ -7,7 +7,7 @@
 <area shape="rect" id="node42" href="$datablock_8inl.html" title="src/libs/dependency\l_graph/datablock.inl" alt="" coords="2935,459,3073,501"/>
 <area shape="rect" id="node43" href="$attr__map_8h.html" title="src/libs/dependency\l_graph/attr_map.h" alt="" coords="3644,459,3783,501"/>
 <area shape="rect" id="node45" href="$detail_8h.html" title="src/libs/dependency\l_graph/detail.h" alt="" coords="3481,459,3620,501"/>
-<area shape="rect" id="node46" href="$dependency__graph_2metadata_8cpp.html" title="src/libs/dependency\l_graph/metadata.cpp" alt="" coords="3503,97,3647,138"/>
+<area shape="rect" id="node46" href="$libs_2dependency__graph_2metadata_8cpp.html" title="src/libs/dependency\l_graph/metadata.cpp" alt="" coords="3503,97,3647,138"/>
 <area shape="rect" id="node47" href="$dependency__graph_2metadata_8inl.html" title="src/libs/dependency\l_graph/metadata.inl" alt="" coords="1597,550,1736,591"/>
 <area shape="rect" id="node48" href="$metadata__register_8h.html" title="src/libs/dependency\l_graph/metadata_register.h" alt="" coords="1393,550,1572,591"/>
 <area shape="rect" id="node49" href="$dependency__graph_2common_8h.html" title="src/tests/dependency\l_graph/common.h" alt="" coords="2565,550,2712,591"/>
@@ -30,7 +30,7 @@
 <area shape="rect" id="node20" href="$tools_8h.html" title="src/libs/actions/detail\l/tools.h" alt="" coords="3311,459,3456,501"/>
 <area shape="rect" id="node28" href="$node__base_8cpp.html" title="src/libs/dependency\l_graph/node_base.cpp" alt="" coords="2889,550,3041,591"/>
 <area shape="rect" id="node29" href="$node__base_8inl.html" title="src/libs/dependency\l_graph/node_base.inl" alt="" coords="2243,550,2388,591"/>
-<area shape="rect" id="node21" href="$actions_2detail_2metadata_8cpp.html" title="src/libs/actions/detail\l/metadata.cpp" alt="" coords="3371,550,3516,591"/>
+<area shape="rect" id="node21" href="$libs_2actions_2detail_2metadata_8cpp.html" title="src/libs/actions/detail\l/metadata.cpp" alt="" coords="3371,550,3516,591"/>
 <area shape="rect" id="node23" href="$path__widget_8h.html" title="src/apps/possumwood\l/path_widget.h" alt="" coords="2114,369,2267,410"/>
 <area shape="rect" id="node24" href="$tree__widget_8h.html" title="src/apps/possumwood\l/tree_widget.h" alt="" coords="1303,459,1456,501"/>
 <area shape="rect" id="node25" href="$tree__widget_8cpp.html" title="src/apps/possumwood\l/tree_widget.cpp" alt="" coords="921,550,1073,591"/>

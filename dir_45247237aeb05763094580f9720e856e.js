@@ -15,6 +15,7 @@ var dir_45247237aeb05763094580f9720e856e =
     [ "font.h", "font_8h.html", "font_8h" ],
     [ "glsl_traits.h", "glsl__traits_8h.html", [
       [ "GLSLTraits", "structpossumwood_1_1GLSLTraits.html", null ],
+      [ "GLSLTraits< unsigned >", "structpossumwood_1_1GLSLTraits_3_01unsigned_01_4.html", "structpossumwood_1_1GLSLTraits_3_01unsigned_01_4" ],
       [ "GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", "structpossumwood_1_1GLSLTraits_3_01float_01_4" ],
       [ "GLSLTraits< double >", "structpossumwood_1_1GLSLTraits_3_01double_01_4.html", "structpossumwood_1_1GLSLTraits_3_01double_01_4" ],
       [ "GLSLTraits< Imath::Vec2< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4" ],

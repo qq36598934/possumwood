@@ -25,10 +25,10 @@
 <area shape="rect" id="node17" href="$index_8h.html" title="src/libs/possumwood\l_sdk/index.h" alt="" coords="1189,369,1333,410"/>
 <area shape="rect" id="node7" href="$libs_2actions_2actions_8cpp.html" title="src/libs/actions/actions.cpp" alt="" coords="477,467,659,493"/>
 <area shape="rect" id="node10" href="$actions_2detail_2connections_8cpp.html" title="src/libs/actions/detail\l/connections.cpp" alt="" coords="683,459,828,501"/>
-<area shape="rect" id="node11" href="$actions_2detail_2metadata_8cpp.html" title="src/libs/actions/detail\l/metadata.cpp" alt="" coords="853,459,997,501"/>
+<area shape="rect" id="node11" href="$libs_2actions_2detail_2metadata_8cpp.html" title="src/libs/actions/detail\l/metadata.cpp" alt="" coords="853,459,997,501"/>
 <area shape="rect" id="node14" href="$actions_2detail_2values_8cpp.html" title="src/libs/actions/detail\l/values.cpp" alt="" coords="1358,459,1503,501"/>
 <area shape="rect" id="node20" href="$traits_8cpp.html" title="src/libs/actions/traits.cpp" alt="" coords="2315,285,2483,312"/>
-<area shape="rect" id="node34" href="$possumwood__sdk_2metadata_8cpp.html" title="src/libs/possumwood\l_sdk/metadata.cpp" alt="" coords="2690,278,2835,319"/>
+<area shape="rect" id="node34" href="$libs_2possumwood__sdk_2metadata_8cpp.html" title="src/libs/possumwood\l_sdk/metadata.cpp" alt="" coords="2690,278,2835,319"/>
 <area shape="rect" id="node22" href="$enum_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/enum.cpp" alt="" coords="1707,369,1879,410"/>
 <area shape="rect" id="node23" href="$enum__ui_8h.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.h" alt="" coords="1903,369,2048,410"/>
 <area shape="rect" id="node24" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="2073,369,2231,410"/>

@@ -5,7 +5,8 @@
 <area shape="rect" id="node5" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="535,97,712,138"/>
 <area shape="rect" id="node6" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="737,97,921,138"/>
 <area shape="rect" id="node7" href="$plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="946,97,1144,138"/>
-<area shape="rect" id="node8" href="$render_2nodes_2uniforms_2vec3_8cpp.html" title="src/plugins/render\l/nodes/uniforms/vec3.cpp" alt="" coords="1169,97,1340,138"/>
-<area shape="rect" id="node9" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="1365,97,1557,138"/>
-<area shape="rect" id="node10" href="$uniforms_8cpp.html" title="src/plugins/render\l/uniforms.cpp" alt="" coords="1583,97,1708,138"/>
+<area shape="rect" id="node8" href="$unsigned_8cpp.html" title="src/plugins/render\l/nodes/uniforms/unsigned.cpp" alt="" coords="1169,97,1364,138"/>
+<area shape="rect" id="node9" href="$render_2nodes_2uniforms_2vec3_8cpp.html" title="src/plugins/render\l/nodes/uniforms/vec3.cpp" alt="" coords="1389,97,1560,138"/>
+<area shape="rect" id="node10" href="$plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="1585,97,1777,138"/>
+<area shape="rect" id="node11" href="$uniforms_8cpp.html" title="src/plugins/render\l/uniforms.cpp" alt="" coords="1803,97,1928,138"/>
 </map>

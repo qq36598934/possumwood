@@ -1,12 +1,5 @@
 var NAVTREEINDEX11 =
 {
-"functions_func_v.html":[2,3,1,20],
-"functions_func_w.html":[2,3,1,21],
-"functions_func_~.html":[2,3,1,22],
-"functions_g.html":[2,3,0,6],
-"functions_h.html":[2,3,0,7],
-"functions_i.html":[2,3,0,8],
-"functions_j.html":[2,3,0,9],
 "functions_k.html":[2,3,0,10],
 "functions_l.html":[2,3,0,11],
 "functions_m.html":[2,3,0,12],
@@ -107,7 +100,6 @@ var NAVTREEINDEX11 =
 "graph__widget_8cpp.html":[3,0,0,1,3,6],
 "graph__widget_8h.html":[3,0,0,1,3,7],
 "graph__widget_8h_source.html":[3,0,0,1,3,7],
-"grid_8cpp.html":[3,0,0,0,1,6],
 "grid_8h.html":[3,0,0,0,1,7],
 "grid_8h_source.html":[3,0,0,0,1,7],
 "hierarchy.html":[2,2],
@@ -211,6 +203,12 @@ var NAVTREEINDEX11 =
 "libs_2actions_2actions_8cpp.html#af0fde5c225e95d30604f3898dc834239":[3,0,0,1,0,2,7],
 "libs_2actions_2actions_8cpp.html#af6cf2362c07e7045af0a88353a639900":[3,0,0,1,0,2,0],
 "libs_2actions_2clipboard_8cpp.html":[3,0,0,1,0,6],
+"libs_2actions_2detail_2metadata_8cpp.html":[3,0,0,1,0,0,4],
+"libs_2actions_2detail_2metadata_8cpp.html#a2453360e93c038a78a1ddf50696bb1b9":[3,0,0,1,0,0,4,0],
+"libs_2actions_2detail_2metadata_8cpp.html#a48b710e4a9fed12998eb1824693cf3b7":[3,0,0,1,0,0,4,3],
+"libs_2actions_2detail_2metadata_8cpp.html#a6f22ed935ddd08ae8c50f0651035f198":[3,0,0,1,0,0,4,4],
+"libs_2actions_2detail_2metadata_8cpp.html#a9203271881f1f95c7aa3fb51c4e61472":[3,0,0,1,0,0,4,1],
+"libs_2actions_2detail_2metadata_8cpp.html#a9e71e876b4539c24d7666f759f6e73f3":[3,0,0,1,0,0,4,2],
 "libs_2actions_2io_8cpp.html":[3,0,0,1,0,8],
 "libs_2actions_2io_8cpp.html#a034348a6c3030ad0c680e9938a284ea6":[3,0,0,1,0,8,1],
 "libs_2actions_2io_8cpp.html#a2fffe1ae812d0d9b1ed69a4f0b7c026d":[3,0,0,1,0,8,3],
@@ -231,6 +229,9 @@ var NAVTREEINDEX11 =
 "libs_2dependency__graph_2io_8h.html#a9fdc8adee6223e548fc67bff8cb70834":[3,0,0,1,1,18,0],
 "libs_2dependency__graph_2io_8h.html#aaf98c8243eaebaca5036d0e96876eb20":[3,0,0,1,1,18,1],
 "libs_2dependency__graph_2io_8h_source.html":[3,0,0,1,1,18],
+"libs_2dependency__graph_2metadata_8cpp.html":[3,0,0,1,1,19],
+"libs_2dependency__graph_2metadata_8cpp.html#ae82707007ef7a6933c70336fa0975f5f":[3,0,0,1,1,19,0],
+"libs_2possumwood__sdk_2metadata_8cpp.html":[3,0,0,1,2,21],
 "libs_2possumwood__sdk_2properties_2property_8cpp.html":[3,0,0,1,2,2,3],
 "libs_2possumwood__sdk_2properties_2property_8h.html":[3,0,0,1,2,2,4],
 "libs_2possumwood__sdk_2properties_2property_8h_source.html":[3,0,0,1,2,2,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX11 =
 "main__window_8h.html":[3,0,0,0,1,10],
 "main__window_8h_source.html":[3,0,0,0,1,10],
 "maths_2io_2vec3_8cpp.html":[3,0,0,2,3,0,0],
-"maths_2nodes_2vec3_8cpp.html":[3,0,0,2,3,1,3],
-"maths_2ui_2vec3_8cpp.html":[3,0,0,2,3,2,6]
+"maths_2nodes_2vec3_8cpp.html":[3,0,0,2,3,1,3]
 };

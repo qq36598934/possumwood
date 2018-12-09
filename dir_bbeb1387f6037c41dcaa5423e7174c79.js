@@ -41,7 +41,7 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
       [ "Index", "classpossumwood_1_1Index.html", "classpossumwood_1_1Index" ],
       [ "Item", "structpossumwood_1_1Index_1_1Item.html", "structpossumwood_1_1Index_1_1Item" ]
     ] ],
-    [ "metadata.cpp", "possumwood__sdk_2metadata_8cpp.html", null ],
+    [ "metadata.cpp", "libs_2possumwood__sdk_2metadata_8cpp.html", null ],
     [ "metadata.h", "possumwood__sdk_2metadata_8h.html", [
       [ "Metadata", "classpossumwood_1_1Metadata.html", "classpossumwood_1_1Metadata" ]
     ] ],
@@ -56,5 +56,9 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
     [ "qt_clipboard.cpp", "qt__clipboard_8cpp.html", null ],
     [ "qt_clipboard.h", "qt__clipboard_8h.html", [
       [ "QtClipboard", "classpossumwood_1_1QtClipboard.html", "classpossumwood_1_1QtClipboard" ]
+    ] ],
+    [ "source_editor.cpp", "source__editor_8cpp.html", null ],
+    [ "source_editor.h", "source__editor_8h.html", [
+      [ "SourceEditor", "classpossumwood_1_1SourceEditor.html", "classpossumwood_1_1SourceEditor" ]
     ] ]
 ];

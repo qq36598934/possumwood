@@ -1,17 +1,17 @@
 <map id="src/libs/dependency_graph/values.inl" name="src/libs/dependency_graph/values.inl">
 <area shape="rect" id="node2" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="3038,97,3191,138"/>
 <area shape="rect" id="node3" href="$node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="3215,97,3403,138"/>
-<area shape="rect" id="node40" href="$shader__editor_8cpp.html" title="src/plugins/render\l/ui/shader_editor.cpp" alt="" coords="3427,97,3569,138"/>
-<area shape="rect" id="node41" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3595,97,3741,138"/>
-<area shape="rect" id="node42" href="$dependency__graph_2common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="3765,97,3912,138"/>
-<area shape="rect" id="node43" href="$compute__dirty_8cpp.html" title="src/tests/dependency\l_graph/compute_dirty.cpp" alt="" coords="3937,97,4108,138"/>
-<area shape="rect" id="node44" href="$void__evaluation_8cpp.html" title="src/tests/dependency\l_graph/void_evaluation.cpp" alt="" coords="4133,97,4312,138"/>
-<area shape="rect" id="node45" href="$void__ports_8cpp.html" title="src/tests/dependency\l_graph/void_ports.cpp" alt="" coords="4337,97,4487,138"/>
-<area shape="rect" id="node46" href="$tests_2possumwood_2actions_8cpp.html" title="src/tests/possumwood\l/actions.cpp" alt="" coords="4512,97,4665,138"/>
-<area shape="rect" id="node47" href="$possumwood_2common_8cpp.html" title="src/tests/possumwood\l/common.cpp" alt="" coords="4691,97,4844,138"/>
-<area shape="rect" id="node48" href="$metadata__change_8cpp.html" title="src/tests/possumwood\l/metadata_change.cpp" alt="" coords="4869,97,5023,138"/>
-<area shape="rect" id="node49" href="$subnetwork__connections_8cpp.html" title="src/tests/possumwood\l/subnetwork_connections.cpp" alt="" coords="5048,97,5243,138"/>
-<area shape="rect" id="node50" href="$subnetwork__evaluation_8cpp.html" title="src/tests/possumwood\l/subnetwork_evaluation.cpp" alt="" coords="5267,97,5451,138"/>
+<area shape="rect" id="node40" href="$source__editor_8cpp.html" title="src/libs/possumwood\l_sdk/source_editor.cpp" alt="" coords="3428,97,3585,138"/>
+<area shape="rect" id="node41" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="3609,97,3756,138"/>
+<area shape="rect" id="node42" href="$dependency__graph_2common_8cpp.html" title="src/tests/dependency\l_graph/common.cpp" alt="" coords="3780,97,3927,138"/>
+<area shape="rect" id="node43" href="$compute__dirty_8cpp.html" title="src/tests/dependency\l_graph/compute_dirty.cpp" alt="" coords="3951,97,4123,138"/>
+<area shape="rect" id="node44" href="$void__evaluation_8cpp.html" title="src/tests/dependency\l_graph/void_evaluation.cpp" alt="" coords="4147,97,4327,138"/>
+<area shape="rect" id="node45" href="$void__ports_8cpp.html" title="src/tests/dependency\l_graph/void_ports.cpp" alt="" coords="4351,97,4501,138"/>
+<area shape="rect" id="node46" href="$tests_2possumwood_2actions_8cpp.html" title="src/tests/possumwood\l/actions.cpp" alt="" coords="4527,97,4680,138"/>
+<area shape="rect" id="node47" href="$possumwood_2common_8cpp.html" title="src/tests/possumwood\l/common.cpp" alt="" coords="4705,97,4859,138"/>
+<area shape="rect" id="node48" href="$metadata__change_8cpp.html" title="src/tests/possumwood\l/metadata_change.cpp" alt="" coords="4884,97,5037,138"/>
+<area shape="rect" id="node49" href="$subnetwork__connections_8cpp.html" title="src/tests/possumwood\l/subnetwork_connections.cpp" alt="" coords="5063,97,5257,138"/>
+<area shape="rect" id="node50" href="$subnetwork__evaluation_8cpp.html" title="src/tests/possumwood\l/subnetwork_evaluation.cpp" alt="" coords="5281,97,5465,138"/>
 <area shape="rect" id="node4" href="$node__implementation_8cpp.html" title="src/libs/possumwood\l_sdk/node_implementation.cpp" alt="" coords="5,187,208,229"/>
 <area shape="rect" id="node5" href="$input_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/input.cpp" alt="" coords="232,187,379,229"/>
 <area shape="rect" id="node6" href="$output_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/output.cpp" alt="" coords="403,187,556,229"/>
@@ -44,8 +44,8 @@
 <area shape="rect" id="node33" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="5457,187,5609,229"/>
 <area shape="rect" id="node34" href="$generate_8cpp.html" title="src/plugins/images\l/nodes/generate.cpp" alt="" coords="5634,187,5773,229"/>
 <area shape="rect" id="node35" href="$load_8cpp.html" title="src/plugins/images\l/nodes/load.cpp" alt="" coords="5799,187,5928,229"/>
-<area shape="rect" id="node36" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="5954,187,6117,229"/>
-<area shape="rect" id="node37" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="6142,187,6305,229"/>
-<area shape="rect" id="node38" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="6330,187,6493,229"/>
-<area shape="rect" id="node39" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="6518,187,6681,229"/>
+<area shape="rect" id="node36" href="$plugins_2images_2nodes_2metadata_8cpp.html" title="src/plugins/images\l/nodes/metadata.cpp" alt="" coords="5953,187,6097,229"/>
+<area shape="rect" id="node37" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="6122,187,6285,229"/>
+<area shape="rect" id="node38" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="6310,187,6473,229"/>
+<area shape="rect" id="node39" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="6498,187,6661,229"/>
 </map>

@@ -32,6 +32,7 @@ var namespacepossumwood =
     [ "NetworkCompute", "classpossumwood_1_1NetworkCompute.html", "classpossumwood_1_1NetworkCompute" ],
     [ "NodeImplementation", "structpossumwood_1_1NodeImplementation.html", "structpossumwood_1_1NodeImplementation" ],
     [ "QtClipboard", "classpossumwood_1_1QtClipboard.html", "classpossumwood_1_1QtClipboard" ],
+    [ "SourceEditor", "classpossumwood_1_1SourceEditor.html", "classpossumwood_1_1SourceEditor" ],
     [ "Traits< std::shared_ptr< const anim::Animation > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4" ],
     [ "Traits< anim::FrameEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1FrameEditorData_01_4" ],
     [ "Traits< anim::JointMappingEditorData >", "structpossumwood_1_1Traits_3_01anim_1_1JointMappingEditorData_01_4.html", "structpossumwood_1_1Traits_3_01anim_1_1JointMappingEditorData_01_4" ],
@@ -71,6 +72,7 @@ var namespacepossumwood =
     [ "Font", "classpossumwood_1_1Font.html", "classpossumwood_1_1Font" ],
     [ "Traits< Font >", "structpossumwood_1_1Traits_3_01Font_01_4.html", "structpossumwood_1_1Traits_3_01Font_01_4" ],
     [ "GLSLTraits", "structpossumwood_1_1GLSLTraits.html", null ],
+    [ "GLSLTraits< unsigned >", "structpossumwood_1_1GLSLTraits_3_01unsigned_01_4.html", "structpossumwood_1_1GLSLTraits_3_01unsigned_01_4" ],
     [ "GLSLTraits< float >", "structpossumwood_1_1GLSLTraits_3_01float_01_4.html", "structpossumwood_1_1GLSLTraits_3_01float_01_4" ],
     [ "GLSLTraits< double >", "structpossumwood_1_1GLSLTraits_3_01double_01_4.html", "structpossumwood_1_1GLSLTraits_3_01double_01_4" ],
     [ "GLSLTraits< Imath::Vec2< T > >", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html", "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4" ],
@@ -98,6 +100,5 @@ var namespacepossumwood =
     [ "VertexData", "classpossumwood_1_1VertexData.html", "classpossumwood_1_1VertexData" ],
     [ "Traits< std::shared_ptr< const VertexData > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexData_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexData_01_4_01_4" ],
     [ "VBOTraits< CGAL::Point_3< CGAL::Simple_cartesian< T > > >", "structpossumwood_1_1VBOTraits_3_01CGAL_1_1Point__3_3_01CGAL_1_1Simple__cartesian_3_01T_01_4_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01CGAL_1_1Point__3_3_01CGAL_1_1Simple__cartesian_3_01T_01_4_01_4_01_4" ],
-    [ "VBOTraits< std::vector< T > >", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4" ],
-    [ "ShaderEditor", "classpossumwood_1_1ShaderEditor.html", "classpossumwood_1_1ShaderEditor" ]
+    [ "VBOTraits< std::vector< T > >", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4" ]
 ];

@@ -34,7 +34,7 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     ] ],
     [ "io.cpp", "libs_2dependency__graph_2io_8cpp.html", "libs_2dependency__graph_2io_8cpp" ],
     [ "io.h", "libs_2dependency__graph_2io_8h.html", "libs_2dependency__graph_2io_8h" ],
-    [ "metadata.cpp", "dependency__graph_2metadata_8cpp.html", "dependency__graph_2metadata_8cpp" ],
+    [ "metadata.cpp", "libs_2dependency__graph_2metadata_8cpp.html", "libs_2dependency__graph_2metadata_8cpp" ],
     [ "metadata.h", "dependency__graph_2metadata_8h.html", "dependency__graph_2metadata_8h" ],
     [ "metadata.inl", "dependency__graph_2metadata_8inl.html", null ],
     [ "metadata_register.cpp", "metadata__register_8cpp.html", null ],
