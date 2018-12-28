@@ -5,12 +5,12 @@ var NAVTREE =
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ],
       [ "Namespace Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ],
+        [ "All", "namespacemembers.html", "namespacemembers_dup" ],
+        [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
         [ "Variables", "namespacemembers_vars.html", null ],
         [ "Typedefs", "namespacemembers_type.html", null ],
         [ "Enumerations", "namespacemembers_enum.html", null ],
-        [ "Enumerator", "namespacemembers_eval.html", null ]
+        [ "Enumerator", "namespacemembers_eval.html", "namespacemembers_eval" ]
       ] ]
     ] ],
     [ "Classes", null, [
@@ -21,16 +21,16 @@ var NAVTREE =
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
         [ "Variables", "functions_vars.html", "functions_vars" ],
-        [ "Typedefs", "functions_type.html", null ],
+        [ "Typedefs", "functions_type.html", "functions_type" ],
         [ "Enumerations", "functions_enum.html", null ],
-        [ "Enumerator", "functions_eval.html", null ],
+        [ "Enumerator", "functions_eval.html", "functions_eval" ],
         [ "Related Functions", "functions_rela.html", null ]
       ] ]
     ] ],
     [ "Files", null, [
       [ "File List", "files.html", "files" ],
       [ "File Members", "globals.html", [
-        [ "All", "globals.html", null ],
+        [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", null ],
         [ "Variables", "globals_vars.html", null ],
         [ "Typedefs", "globals_type.html", null ],
@@ -47,17 +47,39 @@ var NAVTREEINDEX =
 "classanim_1_1Hierarchy.html#a789f9b57eb02d85e6d4e84310b84b63e",
 "classdependency__graph_1_1Attr.html#a30547b00473bb62f306d3dcb442a219a",
 "classdependency__graph_1_1Nodes.html#a81d3abeb8232ff6048c37d01050d33b7a6f1ff669f90fba8afa1a76c429e51bfd",
-"classnode__editor_1_1Port.html",
-"classpossumwood_1_1GeometryShader.html#ab02ebffaab19dc01189709eea3dfd842",
-"classpossumwood_1_1VBOBase.html#ad247bd0d7641d77f1aef612aa729d7ed",
-"classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a3d7b1820afe40ba3c1ed45712902d709",
-"classpossumwood_1_1io_1_1detail_1_1invalid__iterator.html#a3a7a72eb9767983025b98ddbed0cfd59",
-"classunsigned__ui.html#a5f0e0c3d2719666978020a9c18685831",
-"functions_k.html",
-"maths_2ui_2vec3_8cpp.html",
-"structProperties_1_1PropertyHolder.html#aec121869cf649449555fc8276053259d",
-"structpossumwood_1_1Traits_3_01Filename_01_4.html#a7fd8da4f9c9b914d743c680a0e54338c",
-"tests_2possumwood_2clipboard_8cpp.html#a61dbf9250121ef17434c101f7659db84"
+"classexprtk_1_1details_1_1T0oT1oT2oT3__sf4.html#a06d49e9992dcf91da5a0f5c94e867658",
+"classexprtk_1_1details_1_1boc__node.html#aaf56e9a3fd1b8d1251d17d9bb914ea21",
+"classexprtk_1_1details_1_1expression__node.html#a728c18d32fa7d7b19267bcf4c72a2c7fa9514907f992c323c0036e25bda60cbc7",
+"classexprtk_1_1details_1_1node__allocator.html#ac20ba0294184da5c420bb361ab74cdd8",
+"classexprtk_1_1details_1_1str__xrox__node.html#a9b10023cf641a7adfd800077df1de7a2",
+"classexprtk_1_1details_1_1unary__variable__node.html#a4fb5f51ba46f50f6c75d10c4377e01d7",
+"classexprtk_1_1details_1_1vector__node.html#a39691b7f1c7de8f5299bdccb1818385a",
+"classexprtk_1_1lexer_1_1helper_1_1commutative__inserter.html",
+"classexprtk_1_1parser.html#ab6eebbdd0b9365a59bcf6b086264ce29",
+"classexprtk_1_1parser_1_1scope__element__manager.html#a0acb89288487de8081139dd74234542d",
+"classexprtk_1_1polynomial.html#aa73e605c1c1cf9f333caecb0294c66f8",
+"classexprtk_1_1symbol__table.html#a4a3450c85607b33da963bd5a15690e7f",
+"classnode__editor_1_1Port.html#a92f9f3b847c86a6f8b38e65a30e3b066",
+"classpossumwood_1_1IO.html#a313655b7df9eea7a87dd16ee3dd4c21a",
+"classpossumwood_1_1VertexData.html#a28aa74b8c22a789103fa3142dd55c8bf",
+"classpossumwood_1_1io_1_1basic__json_1_1cached__input__stream__adapter.html#a570b7d7dfa94cb5d93e8a38f1129ceec",
+"classpossumwood_1_1io_1_1detail_1_1other__error.html#a58d044faab7e8f76155b55968e64320e",
+"classunsigned__ui.html#a822d91bf8f22f16670d90bee0af1e64b",
+"exprtk_8hpp.html#a1b417376c2e052a01743ebb7d93d807f",
+"exprtk_8hpp.html#a9ad44523c055b375673e1276f28b9001",
+"exprtk_8hpp.html#a9f92c94d6eb47edbf0af17e8eabe57f7ae9668c41477aa41157d3f78f0d2490fc",
+"functions_eval_k.html",
+"json_8h.html#aa40554911e67592dfc384f43766fd4bea84e2c64f38f78ba3ea5c905ab5a2da27",
+"network__nodes_8cpp.html#aeb89e6fe0489b4df0be76745fb941c14",
+"structdependency__graph_1_1Data.html#a750c1226ba51d6f2c64b234c48d6c282",
+"structexprtk_1_1details_1_1is__const_3_01const_01T_01_4.html#aea35787e3ac828b3f969b170f181d649afdc672f7a1da351e07e6ba1a6feba806",
+"structexprtk_1_1details_1_1vararg__multi__op.html#ac016b5bc1fe78e84ca8e69ded7acd926",
+"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__cov__expression.html",
+"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__vocovoc__expression2.html#af9d68abfe9803fcecb78857b8853001b",
+"structexprtk_1_1parser_1_1scope__element.html#a96e55370fbfac28c934e7cf979bec8da",
+"structexprtk_1_1symbol__table_1_1freefunc02.html#a2a9a9a21b3898b63674bef178afa7fdd",
+"structpossumwood_1_1Traits_3_01Enum_01_4.html#ab3a24b7b178d11e6da8d03767e49549b",
+"tests_2dependency__graph_2io_8cpp.html#a9fdc8adee6223e548fc67bff8cb70834"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

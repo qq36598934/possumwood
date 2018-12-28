@@ -56,6 +56,8 @@ var namespacepossumwood =
     [ "PropertyBase", "classpossumwood_1_1PropertyBase.html", "classpossumwood_1_1PropertyBase" ],
     [ "PropertyItem", "classpossumwood_1_1PropertyItem.html", "classpossumwood_1_1PropertyItem" ],
     [ "PropertyKey", "classpossumwood_1_1PropertyKey.html", "classpossumwood_1_1PropertyKey" ],
+    [ "ExprSymbols", "classpossumwood_1_1ExprSymbols.html", "classpossumwood_1_1ExprSymbols" ],
+    [ "Traits< ExprSymbols >", "structpossumwood_1_1Traits_3_01ExprSymbols_01_4.html", "structpossumwood_1_1Traits_3_01ExprSymbols_01_4" ],
     [ "Traits< std::shared_ptr< const QPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01QPixmap_01_4_01_4" ],
     [ "Traits< QColor >", "structpossumwood_1_1Traits_3_01QColor_01_4.html", "structpossumwood_1_1Traits_3_01QColor_01_4" ],
     [ "Traits< Imath::Vec3< float > >", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4.html", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4" ],

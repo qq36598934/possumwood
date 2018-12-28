@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classpossumwood_1_1io_1_1detail_1_1exception.html" title="general exception of the basic_json class " alt="" coords="134,135,290,177"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1io_1_1detail_1_1invalid__iterator.html" title="exception indicating errors with iterators " alt="" coords="339,5,495,46"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1io_1_1detail_1_1other__error.html" title="exception indicating other errors " alt="" coords="339,70,495,111"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1io_1_1detail_1_1out__of__range.html" title="exception indicating access out of the defined range " alt="" coords="339,135,495,177"/>
+<area shape="rect" id="node6" href="$classpossumwood_1_1io_1_1detail_1_1parse__error.html" title="exception indicating a parse error " alt="" coords="339,201,495,242"/>
+<area shape="rect" id="node7" href="$classpossumwood_1_1io_1_1detail_1_1type__error.html" title="exception indicating executing a member function with a wrong type " alt="" coords="339,266,495,307"/>
+</map>
