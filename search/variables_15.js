@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['w',['w',['../structexprtk_1_1rtl_1_1io_1_1file_1_1package.html#aa849f63c002ac56e577cbaa81f03668b',1,'exprtk::rtl::io::file::package']]],
-  ['weight',['weight',['../structanim_1_1Skinning_1_1Weight.html#af3a7b13ef6c3c9a5ad1ca37cfe1a6810',1,'anim::Skinning::Weight']]],
-  ['width',['width',['../structpossumwood_1_1Drawable_1_1ViewportState.html#af2904d4ee2fad6b65d0805b1755962a9',1,'possumwood::Drawable::ViewportState::width()'],['../structpossumwood_1_1Font_1_1Glyph.html#a96f8ab9062ffee8c96126efebb6888da',1,'possumwood::Font::Glyph::width()']]]
+  ['x',['x',['../structpossumwood_1_1NodeData_1_1Point.html#abd20b8eb5402504fefca1c17e90e295e',1,'possumwood::NodeData::Point::x()'],['../structpossumwood_1_1Font_1_1Glyph.html#a9866be51e6fa3091a4907ef1dd638e99',1,'possumwood::Font::Glyph::x()']]]
 ];

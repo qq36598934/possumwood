@@ -1,10 +1,5 @@
 var searchData=
 [
-  ['generator',['generator',['../classexprtk_1_1lexer_1_1generator.html',1,'exprtk::lexer']]],
-  ['generic_5ffunction_5fnode',['generic_function_node',['../classexprtk_1_1details_1_1generic__function__node.html',1,'exprtk::details']]],
-  ['generic_5ffunction_5fnode_3c_20t_2c_20null_5figenfunc_3c_20t_20_3e_20_3e',['generic_function_node&lt; T, null_igenfunc&lt; T &gt; &gt;',['../classexprtk_1_1details_1_1generic__function__node.html',1,'exprtk::details']]],
-  ['generic_5ffunction_5fnode_3c_20t_2c_20stringfunction_20_3e',['generic_function_node&lt; T, StringFunction &gt;',['../classexprtk_1_1details_1_1generic__function__node.html',1,'exprtk::details']]],
-  ['generic_5fstring_5frange_5fnode',['generic_string_range_node',['../classexprtk_1_1details_1_1generic__string__range__node.html',1,'exprtk::details']]],
   ['genericbase',['GenericBase',['../classpossumwood_1_1polymesh_1_1GenericBase.html',1,'possumwood::polymesh']]],
   ['genericcontainer',['GenericContainer',['../classpossumwood_1_1polymesh_1_1GenericContainer.html',1,'possumwood::polymesh']]],
   ['genericcontainer_3c_20index_20_3e',['GenericContainer&lt; Index &gt;',['../classpossumwood_1_1polymesh_1_1GenericContainer.html',1,'possumwood::polymesh']]],
@@ -15,7 +10,6 @@ var searchData=
   ['genericmeshui',['GenericMeshUI',['../classGenericMeshUI.html',1,'']]],
   ['genericpolymesh',['GenericPolymesh',['../classpossumwood_1_1polymesh_1_1GenericPolymesh.html',1,'possumwood::polymesh']]],
   ['geometryshader',['GeometryShader',['../classpossumwood_1_1GeometryShader.html',1,'possumwood']]],
-  ['getline',['getline',['../classexprtk_1_1rtl_1_1io_1_1file_1_1getline.html',1,'exprtk::rtl::io::file']]],
   ['glrenderable',['GLRenderable',['../classpossumwood_1_1GLRenderable.html',1,'possumwood']]],
   ['glsltraits',['GLSLTraits',['../structpossumwood_1_1GLSLTraits.html',1,'possumwood']]],
   ['glsltraits_3c_20double_20_3e',['GLSLTraits&lt; double &gt;',['../structpossumwood_1_1GLSLTraits_3_01double_01_4.html',1,'possumwood']]],
@@ -29,7 +23,5 @@ var searchData=
   ['graph',['Graph',['../classdependency__graph_1_1Graph.html',1,'dependency_graph']]],
   ['graphscene',['GraphScene',['../classnode__editor_1_1GraphScene.html',1,'node_editor']]],
   ['graphwidget',['GraphWidget',['../classnode__editor_1_1GraphWidget.html',1,'node_editor']]],
-  ['grid',['Grid',['../classpossumwood_1_1Grid.html',1,'possumwood']]],
-  ['gt_5fop',['gt_op',['../structexprtk_1_1details_1_1gt__op.html',1,'exprtk::details']]],
-  ['gte_5fop',['gte_op',['../structexprtk_1_1details_1_1gte__op.html',1,'exprtk::details']]]
+  ['grid',['Grid',['../classpossumwood_1_1Grid.html',1,'possumwood']]]
 ];

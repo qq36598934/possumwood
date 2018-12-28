@@ -2,7 +2,6 @@ var searchData=
 [
   ['path_5fwidget_2ecpp',['path_widget.cpp',['../path__widget_8cpp.html',1,'']]],
   ['path_5fwidget_2eh',['path_widget.h',['../path__widget_8h.html',1,'']]],
-  ['per_5fpixel_5fexpr_2ecpp',['per_pixel_expr.cpp',['../per__pixel__expr_8cpp.html',1,'']]],
   ['periodic_2ecpp',['periodic.cpp',['../periodic_8cpp.html',1,'']]],
   ['pixmap_2ecpp',['pixmap.cpp',['../pixmap_8cpp.html',1,'']]],
   ['pixmap_2eh',['pixmap.h',['../datatypes_2pixmap_8h.html',1,'']]],

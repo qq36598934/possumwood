@@ -33,7 +33,5 @@ var searchData=
   ['subnetwork_5frename_2ecpp',['subnetwork_rename.cpp',['../subnetwork__rename_8cpp.html',1,'']]],
   ['subset_2ecpp',['subset.cpp',['../subset_8cpp.html',1,'']]],
   ['subset_5fselection_2ecpp',['subset_selection.cpp',['../subset__selection_8cpp.html',1,'']]],
-  ['subset_5fselection_2eh',['subset_selection.h',['../subset__selection_8h.html',1,'']]],
-  ['symbol_5ftable_2ecpp',['symbol_table.cpp',['../symbol__table_8cpp.html',1,'']]],
-  ['symbol_5ftable_2eh',['symbol_table.h',['../symbol__table_8h.html',1,'']]]
+  ['subset_5fselection_2eh',['subset_selection.h',['../subset__selection_8h.html',1,'']]]
 ];
