@@ -19,7 +19,7 @@ var searchData=
   ['test',['test',['../structexprtk_1_1symbol__table_1_1type__store_1_1ptr__match.html#a069228c005e4af81229847efc589d9c8',1,'exprtk::symbol_table::type_store::ptr_match::test()'],['../structexprtk_1_1symbol__table_1_1type__store_1_1ptr__match_3_01TType_00_01TRawType_00_01variable__node__t_01_5_01_4.html#ade0b4ea0539d2fb8270a0e8831255c4e',1,'exprtk::symbol_table::type_store::ptr_match&lt; TType, TRawType, variable_node_t * &gt;::test()']]],
   ['testiterations',['testIterations',['../graph__instantiation_8cpp.html#ae0d2323576612c3f69739857fe4b2887',1,'graph_instantiation.cpp']]],
   ['teststruct',['TestStruct',['../structTestStruct.html#a07c248a0dd8e82d8bd807270e48999e1',1,'TestStruct']]],
-  ['texture',['Texture',['../classpossumwood_1_1Texture.html#aef84dac1bf4812b9926a12e9d8182191',1,'possumwood::Texture']]],
+  ['texture',['Texture',['../classpossumwood_1_1Texture.html#a0adac95c7a40f02de1ada3b5cf7f8e14',1,'possumwood::Texture::Texture(const LDRPixmap &amp;pixmap)'],['../classpossumwood_1_1Texture.html#ab9151c99e2c06448fa43c5308e6851b7',1,'possumwood::Texture::Texture(const HDRPixmap &amp;pixmap)']]],
   ['third_5fderivative',['third_derivative',['../namespaceexprtk.html#a74ac962730d9273119e280b2268b7e65',1,'exprtk::third_derivative(const expression&lt; T &gt; &amp;e, T &amp;x, const T &amp;h=T(0.0001))'],['../namespaceexprtk.html#a88e1ca960aaeeb71a2e7647181e90faf',1,'exprtk::third_derivative(const expression&lt; T &gt; &amp;e, const std::string &amp;variable_name, const T &amp;h=T(0.0001))']]],
   ['tickdistance',['tickDistance',['../classTimeline.html#a9ead962ab00aa60dc62ddfaf7d27218f',1,'Timeline']]],
   ['tickskip',['tickSkip',['../classTimeline.html#aeb86437372e44510759213f709503e60',1,'Timeline']]],

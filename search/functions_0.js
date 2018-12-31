@@ -47,7 +47,7 @@ var searchData=
   ['addroot',['addRoot',['../classanim_1_1Hierarchy.html#aa1f3da4ba50bec326973a9465c72bb02',1,'anim::Hierarchy::addRoot()'],['../classanim_1_1Skeleton.html#ac3896dc11dcfcf1c2a3b03f076c395ee',1,'anim::Skeleton::addRoot()']]],
   ['addshader',['addShader',['../classpossumwood_1_1Program.html#a1aad04cce9dacec7fe2c5bee9895c5da',1,'possumwood::Program']]],
   ['addsingleitem',['addSingleItem',['../classpossumwood_1_1Properties.html#a8c4f7ffa4e89878189c16012951ef98a',1,'possumwood::Properties']]],
-  ['addtexture',['addTexture',['../classpossumwood_1_1Uniforms.html#a235587485e8bd0a0fce2f228c57a3482',1,'possumwood::Uniforms']]],
+  ['addtexture',['addTexture',['../classpossumwood_1_1Uniforms.html#a0b511c783232de0d359d7d44fd8119b4',1,'possumwood::Uniforms::addTexture(const std::string &amp;name, const LDRPixmap &amp;pixmap)'],['../classpossumwood_1_1Uniforms.html#afdc09106c84dde51681e7bfa61b11197',1,'possumwood::Uniforms::addTexture(const std::string &amp;name, const HDRPixmap &amp;pixmap)']]],
   ['adduniform',['addUniform',['../classpossumwood_1_1Uniforms.html#ab637ff432cdeeb0f75d63b3e6e641f76',1,'possumwood::Uniforms']]],
   ['addvalue',['addValue',['../classpossumwood_1_1PropertyItem.html#a2a5607648fb9e9fc745cb6afbf2311d5',1,'possumwood::PropertyItem::addValue(const T &amp;value)'],['../classpossumwood_1_1PropertyItem.html#a14f81b54e4b3c5d6021fe7d447bf6f4b',1,'possumwood::PropertyItem::addValue(std::unique_ptr&lt; PropertyItem::ValueBase &gt; &amp;&amp;value)']]],
   ['addvbo',['addVBO',['../classpossumwood_1_1VertexData.html#a12dfcbfa71f8e57d8895e1ede14c8766',1,'possumwood::VertexData::addVBO()'],['../namespacepossumwood.html#ac65b4a362cc08f2c4db229a91ef7a06c',1,'possumwood::addVBO()']]],

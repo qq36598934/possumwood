@@ -10,6 +10,7 @@ var classpossumwood_1_1Metadata =
     [ "setDrawable", "classpossumwood_1_1Metadata.html#abb32c52ffc0e10317a3d76dd47febd46", null ],
     [ "setDrawable", "classpossumwood_1_1Metadata.html#aa61cc439e401d8c9bdab4164551d2463", null ],
     [ "setEditor", "classpossumwood_1_1Metadata.html#ae7d5d18cd272ee23c5f9f3cbedf5720a", null ],
+    [ "setEditorFactory", "classpossumwood_1_1Metadata.html#a3398f3e3ec240fa3faefe1b2c6f5674c", null ],
     [ "m_drawableFactory", "classpossumwood_1_1Metadata.html#af2b04cb5462144e406a02ec3f7746ba3", null ],
-    [ "m_editorFactory", "classpossumwood_1_1Metadata.html#a0b5b882e910ba25081f3287afa4f5c97", null ]
+    [ "m_editorFactory", "classpossumwood_1_1Metadata.html#a51eb5ba98804ff3ef298e21ab8b97d36", null ]
 ];

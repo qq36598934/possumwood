@@ -2,6 +2,8 @@ var searchData=
 [
   ['labeldistance',['labelDistance',['../classTimeline.html#ad803994d04be6f6fb8e3ec12fc61fd6c',1,'Timeline']]],
   ['last_5ftoken',['last_token',['../classpossumwood_1_1io_1_1basic__json_1_1parser.html#af55379ae9a2d580081ab36f73a0004d2',1,'possumwood::io::basic_json::parser']]],
+  ['ldrpixel',['LDRPixel',['../namespacepossumwood.html#ac72857387a88be977862069f86f7174b',1,'possumwood']]],
+  ['ldrpixmap',['LDRPixmap',['../namespacepossumwood.html#a693e8110293461bbb3849e96e80afd1e',1,'possumwood']]],
   ['left',['left',['../structexprtk_1_1parser_1_1state__t.html#aca75f65f14ec224125a8c740fc315a81',1,'exprtk::parser::state_t']]],
   ['length',['length',['../structexprtk_1_1details_1_1numeric_1_1numeric__info.html#a0884d785ae5a7ef6ea76221866ccbf7ea78cc210ed48a9b8155f5ee52e52b3195',1,'exprtk::details::numeric::numeric_info::length()'],['../structexprtk_1_1details_1_1numeric_1_1numeric__info_3_01int_01_4.html#a05b5faca6c4e67638742334e2b5d497aaec51b36924500cd69ada4eafe20361e9',1,'exprtk::details::numeric::numeric_info&lt; int &gt;::length()']]],
   ['less_3c_3a_3apossumwood_3a_3aio_3a_3adetail_3a_3avalue_5ft_20_3e',['less&lt;::possumwood::io::detail::value_t &gt;',['../structstd_1_1less_3_1_1possumwood_1_1io_1_1detail_1_1value__t_01_4.html',1,'std']]],

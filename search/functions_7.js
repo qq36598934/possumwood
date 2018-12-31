@@ -9,7 +9,7 @@ var searchData=
   ['hasparent',['hasParent',['../classanim_1_1Skeleton_1_1Joint.html#aa20bcf9a96ef9f05b68a75c7c0a26398',1,'anim::Skeleton::Joint']]],
   ['hasparentnetwork',['hasParentNetwork',['../classdependency__graph_1_1NodeBase.html#a8c07c80037da7dfc526d1302b6d1bf6f',1,'dependency_graph::NodeBase']]],
   ['hasproperty',['hasProperty',['../classpossumwood_1_1Properties.html#a88d6f57974e695e2ba60db5eeba3f58f',1,'possumwood::Properties']]],
-  ['height',['height',['../classanim_1_1MotionMap.html#a1ad12e0ff0bd04e5306f0c19b636621d',1,'anim::MotionMap::height()'],['../classpossumwood_1_1Font.html#a87775b71404302f2435eef00ea4d4878',1,'possumwood::Font::height()']]],
+  ['height',['height',['../classanim_1_1MotionMap.html#a1ad12e0ff0bd04e5306f0c19b636621d',1,'anim::MotionMap::height()'],['../classpossumwood_1_1Pixmap.html#aeceb6c86e4e3d7c570a3138406d4da85',1,'possumwood::Pixmap::height()'],['../classpossumwood_1_1Font.html#a87775b71404302f2435eef00ea4d4878',1,'possumwood::Font::height()']]],
   ['hex_5fto_5fbin',['hex_to_bin',['../namespaceexprtk_1_1details.html#ac577d852b9121064e34e5904ef3e8c60',1,'exprtk::details']]],
   ['hypot',['hypot',['../namespaceexprtk_1_1details_1_1numeric.html#a5d95c4ff1b1f4eff99ff0ec115e78535',1,'exprtk::details::numeric']]],
   ['hypot_5fimpl',['hypot_impl',['../namespaceexprtk_1_1details_1_1numeric_1_1details.html#a969d62aee15aa653f21f2093d17b4a24',1,'exprtk::details::numeric::details::hypot_impl(const T v0, const T v1, real_type_tag)'],['../namespaceexprtk_1_1details_1_1numeric_1_1details.html#a2f1512f4be33d04b956b5bd282f30d8f',1,'exprtk::details::numeric::details::hypot_impl(const T v0, const T v1, int_type_tag)']]]
