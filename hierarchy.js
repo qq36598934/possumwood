@@ -53,6 +53,7 @@ var hierarchy =
     [ "exprtk::symbol_table< T >::control_block", "structexprtk_1_1symbol__table_1_1control__block.html", null ],
     [ "exprtk::expression< T >::control_block", "structexprtk_1_1expression_1_1control__block.html", null ],
     [ "exprtk::details::cs_match", "structexprtk_1_1details_1_1cs__match.html", null ],
+    [ "possumwood::UndoStack::Action::Data", "structpossumwood_1_1UndoStack_1_1Action_1_1Data.html", null ],
     [ "exprtk::expression< T >::control_block::data_pack", "structexprtk_1_1expression_1_1control__block_1_1data__pack.html", null ],
     [ "possumwood::Uniforms::DataBase", "structpossumwood_1_1Uniforms_1_1DataBase.html", [
       [ "possumwood::Uniforms::Data< T >", "structpossumwood_1_1Uniforms_1_1Data.html", null ]
@@ -485,6 +486,12 @@ var hierarchy =
       [ "possumwood::CGALBuilder< HDS, POINTS, FACES >", "classpossumwood_1_1CGALBuilder.html", null ]
     ] ],
     [ "exprtk::details::node_allocator", "classexprtk_1_1details_1_1node__allocator.html", null ],
+    [ "dependency_graph::NodeBase", "classdependency__graph_1_1NodeBase.html", [
+      [ "dependency_graph::Network", "classdependency__graph_1_1Network.html", [
+        [ "dependency_graph::Graph", "classdependency__graph_1_1Graph.html", null ]
+      ] ],
+      [ "dependency_graph::Node", "classdependency__graph_1_1Node.html", null ]
+    ] ],
     [ "dependency_graph::Selection::NodeComparator", "structdependency__graph_1_1Selection_1_1NodeComparator.html", null ],
     [ "possumwood::NodeData", "classpossumwood_1_1NodeData.html", null ],
     [ "exprtk::details::nodetype_T0oT1< T, T0, T1 >", "structexprtk_1_1details_1_1nodetype__T0oT1.html", null ],
@@ -499,12 +506,6 @@ var hierarchy =
       [ "dependency_graph::Connections", "classdependency__graph_1_1Connections.html", null ],
       [ "dependency_graph::Metadata", "classdependency__graph_1_1Metadata.html", null ],
       [ "dependency_graph::MetadataFactory", "structdependency__graph_1_1MetadataFactory.html", null ],
-      [ "dependency_graph::NodeBase", "classdependency__graph_1_1NodeBase.html", [
-        [ "dependency_graph::Network", "classdependency__graph_1_1Network.html", [
-          [ "dependency_graph::Graph", "classdependency__graph_1_1Graph.html", null ]
-        ] ],
-        [ "dependency_graph::Node", "classdependency__graph_1_1Node.html", null ]
-      ] ],
       [ "dependency_graph::Nodes", "classdependency__graph_1_1Nodes.html", null ],
       [ "dependency_graph::Port", "classdependency__graph_1_1Port.html", null ],
       [ "dependency_graph::Values", "classdependency__graph_1_1Values.html", null ],
@@ -976,8 +977,8 @@ var hierarchy =
       [ "possumwood::io::detail::conjunction< B1, Bn...>", "structpossumwood_1_1io_1_1detail_1_1conjunction_3_01B1_00_01Bn_8_8_8_4.html", null ]
     ] ],
     [ "exprtk::parser< T >::type_checker", "classexprtk_1_1parser_1_1type__checker.html", null ],
-    [ "exprtk::symbol_table< T >::type_store< Type, RawType >", "structexprtk_1_1symbol__table_1_1type__store.html", null ],
     [ "exprtk::type_store< T >", "structexprtk_1_1type__store.html", null ],
+    [ "exprtk::symbol_table< T >::type_store< Type, RawType >", "structexprtk_1_1symbol__table_1_1type__store.html", null ],
     [ "exprtk::symbol_table< T >::type_store< exprtk::details::vector_holder, exprtk::details::vector_holder >", "structexprtk_1_1symbol__table_1_1type__store.html", null ],
     [ "exprtk::symbol_table< T >::type_store< exprtk::ifunction< T >, exprtk::ifunction< T > >", "structexprtk_1_1symbol__table_1_1type__store.html", null ],
     [ "exprtk::symbol_table< T >::type_store< exprtk::igeneric_function< T >, exprtk::igeneric_function< T > >", "structexprtk_1_1symbol__table_1_1type__store.html", null ],
@@ -1027,8 +1028,8 @@ var hierarchy =
       [ "exprtk::details::vector_node< T >", "classexprtk_1_1details_1_1vector__node.html", null ]
     ] ],
     [ "exprtk::vector_view< T >", "classexprtk_1_1vector__view.html", null ],
-    [ "possumwood::polymesh::GenericPolymesh::Vertex", "classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertex.html", null ],
     [ "anim::SkinnedVertices::Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", null ],
+    [ "possumwood::polymesh::GenericPolymesh::Vertex", "classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertex.html", null ],
     [ "possumwood::CGALItems::Vertex_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html", null ],
     [ "possumwood::VertexExtractor< VAL >", "structpossumwood_1_1VertexExtractor.html", null ],
     [ "possumwood::Drawable::ViewportState", "structpossumwood_1_1Drawable_1_1ViewportState.html", null ],

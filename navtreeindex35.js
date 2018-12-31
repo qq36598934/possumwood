@@ -1,5 +1,9 @@
 var NAVTREEINDEX35 =
 {
+"structexprtk_1_1symbol__table_1_1freefunc01.html#a10c3570d11497cc8d16e39f8296a2c8a":[2,0,2,14,2,1],
+"structexprtk_1_1symbol__table_1_1freefunc01.html#a1909967017b2f2c9eee203544c9a3bd5":[2,0,2,14,2,0],
+"structexprtk_1_1symbol__table_1_1freefunc01.html#a736fc011699a4cad9b8070aa5cdad123":[2,0,2,14,2,2],
+"structexprtk_1_1symbol__table_1_1freefunc02.html":[2,0,2,14,3],
 "structexprtk_1_1symbol__table_1_1freefunc02.html#a2a9a9a21b3898b63674bef178afa7fdd":[2,0,2,14,3,0],
 "structexprtk_1_1symbol__table_1_1freefunc02.html#a936f0d3eba37f4dfa88666a8ce2f17dc":[2,0,2,14,3,2],
 "structexprtk_1_1symbol__table_1_1freefunc02.html#ad4ef8f05edcb196de8efd383fd6a3122":[2,0,2,14,3,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX35 =
 "structpossumwood_1_1NodeImplementation.html#a0b6a9d28866b461d0984fb93f097ad7c":[2,0,5,30,2],
 "structpossumwood_1_1NodeImplementation.html#a7248cea3b91d28dba9d93767ea11028c":[2,0,5,30,1],
 "structpossumwood_1_1NodeImplementation.html#aed02ca0b6c1239a33a27cb645847b545":[2,0,5,30,0],
-"structpossumwood_1_1PolyExtractor.html":[2,0,5,59],
-"structpossumwood_1_1PolyExtractor.html#ad3d6e37d5f578c391d7dd0c82b05bfa3":[2,0,5,59,0],
-"structpossumwood_1_1Traits.html":[2,0,5,11],
-"structpossumwood_1_1Traits_3_01Enum_01_4.html":[2,0,5,20],
-"structpossumwood_1_1Traits_3_01Enum_01_4.html#a4386fc0db74011a0f4b3edfaab2bfa88":[2,0,5,20,0]
+"structpossumwood_1_1PolyExtractor.html":[2,0,5,59]
 };

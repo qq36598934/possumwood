@@ -131,7 +131,7 @@ Collaboration diagram for dependency_graph::Connections:</div>
 <div class="dyncontent">
 <div class="center"><img src="classdependency__graph_1_1Connections__coll__graph.png" border="0" usemap="#dependency__graph_1_1Connections_coll__map" alt="Collaboration graph"/></div>
 <map name="dependency__graph_1_1Connections_coll__map" id="dependency__graph_1_1Connections_coll__map">
-<area shape="rect" id="node3" href="classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="513,85,701,112"/><area shape="rect" id="node4" href="classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="824,219,1024,245"/><area shape="rect" id="node9" href="classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="835,5,1013,32"/><area shape="rect" id="node5" href="classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="511,371,702,397"/><area shape="rect" id="node6" href="classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="162,166,355,207"/><area shape="rect" id="node7" href="classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="507,219,706,245"/><area shape="rect" id="node8" href="classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="521,320,692,347"/></map>
+<area shape="rect" id="node3" href="classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="513,285,701,312"/><area shape="rect" id="node9" href="classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="835,333,1013,360"/><area shape="rect" id="node4" href="classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="824,141,1024,168"/><area shape="rect" id="node5" href="classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="511,5,702,32"/><area shape="rect" id="node6" href="classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="162,74,355,115"/><area shape="rect" id="node7" href="classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="507,119,706,145"/><area shape="rect" id="node8" href="classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="521,169,692,196"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
@@ -173,9 +173,6 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ae43705bb830037d67ae980a7ef053de0"><td class="memItemLeft" align="right" valign="top">std::vector<br class="typebreak"/>
 &lt; std::reference_wrapper&lt; <a class="el" href="classdependency__graph_1_1Port.html">Port</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#ae43705bb830037d67ae980a7ef053de0">connectedTo</a> (<a class="el" href="classdependency__graph_1_1Port.html">Port</a> &amp;p)</td></tr>
 <tr class="separator:ae43705bb830037d67ae980a7ef053de0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2d6614f9bd6094c1932faf949a9a8243"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#a2d6614f9bd6094c1932faf949a9a8243">purge</a> (const <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;n)</td></tr>
-<tr class="memdesc:a2d6614f9bd6094c1932faf949a9a8243"><td class="mdescLeft">&#160;</td><td class="mdescRight">remove all connections related to a node (both in and out)  <a href="#a2d6614f9bd6094c1932faf949a9a8243">More...</a><br/></td></tr>
-<tr class="separator:a2d6614f9bd6094c1932faf949a9a8243"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa8059129e6e837483ac69250f9a98cb8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Connections.html#aa8059129e6e837483ac69250f9a98cb8">isConnected</a> (const <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;n) const </td></tr>
 <tr class="memdesc:aa8059129e6e837483ac69250f9a98cb8"><td class="mdescLeft">&#160;</td><td class="mdescRight">returns true if a node has any connections  <a href="#aa8059129e6e837483ac69250f9a98cb8">More...</a><br/></td></tr>
 <tr class="separator:aa8059129e6e837483ac69250f9a98cb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -650,24 +647,6 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a2d6614f9bd6094c1932faf949a9a8243"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void dependency_graph::Connections::purge </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a> &amp;&#160;</td>
-          <td class="paramname"><em>n</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>remove all connections related to a node (both in and out) </p>
-
-</div>
-</div>
 <a class="anchor" id="af74c644b0ac8883c4841f53650a14e6a"></a>
 <div class="memitem">
 <div class="memproto">
@@ -811,7 +790,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Connections.html">Connections</a></li>
-    <li class="footer">Generated on Sun Dec 30 2018 16:49:33 for possumwood by
+    <li class="footer">Generated on Mon Dec 31 2018 16:23:30 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

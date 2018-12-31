@@ -21,7 +21,6 @@ var classdependency__graph_1_1Connections =
     [ "getPort", "classdependency__graph_1_1Connections.html#a42b99c5778580f80e881f0bd93f580cf", null ],
     [ "getPort", "classdependency__graph_1_1Connections.html#a1e6da87630479bade436bc1819ca7910", null ],
     [ "isConnected", "classdependency__graph_1_1Connections.html#aa8059129e6e837483ac69250f9a98cb8", null ],
-    [ "purge", "classdependency__graph_1_1Connections.html#a2d6614f9bd6094c1932faf949a9a8243", null ],
     [ "remove", "classdependency__graph_1_1Connections.html#af74c644b0ac8883c4841f53650a14e6a", null ],
     [ "size", "classdependency__graph_1_1Connections.html#a3a3dda8fe29abea7388cbf8d10fc190c", null ],
     [ "Network", "classdependency__graph_1_1Connections.html#a88b59289ffd793fecd040d32e397b1e9", null ],

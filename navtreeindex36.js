@@ -1,5 +1,9 @@
 var NAVTREEINDEX36 =
 {
+"structpossumwood_1_1PolyExtractor.html#ad3d6e37d5f578c391d7dd0c82b05bfa3":[2,0,5,59,0],
+"structpossumwood_1_1Traits.html":[2,0,5,11],
+"structpossumwood_1_1Traits_3_01Enum_01_4.html":[2,0,5,20],
+"structpossumwood_1_1Traits_3_01Enum_01_4.html#a4386fc0db74011a0f4b3edfaab2bfa88":[2,0,5,20,0],
 "structpossumwood_1_1Traits_3_01Enum_01_4.html#ab3a24b7b178d11e6da8d03767e49549b":[2,0,5,20,1],
 "structpossumwood_1_1Traits_3_01ExprSymbols_01_4.html":[2,0,5,53],
 "structpossumwood_1_1Traits_3_01ExprSymbols_01_4.html#aa441c099cbbd67e4c2fa9c35a11e3a04":[2,0,5,53,0],
@@ -58,6 +62,9 @@ var NAVTREEINDEX36 =
 "structpossumwood_1_1Traits_3_01std_1_1string_01_4.html#aa167bf0e006b2117486d6e2f49520219":[2,0,5,13,1],
 "structpossumwood_1_1Traits_3_01void_01_4.html":[2,0,5,14],
 "structpossumwood_1_1Traits_3_01void_01_4.html#af8c72939773e490a195a88b5adaf4b9b":[2,0,5,14,0],
+"structpossumwood_1_1UndoStack_1_1Action_1_1Data.html":[2,0,5,15,0,0],
+"structpossumwood_1_1UndoStack_1_1Action_1_1Data.html#a1347e29865499ec0d193e0cfdd3311d5":[2,0,5,15,0,0,1],
+"structpossumwood_1_1UndoStack_1_1Action_1_1Data.html#a7d218b6638380b616d1366957034845a":[2,0,5,15,0,0,0],
 "structpossumwood_1_1Uniforms_1_1Data.html":[2,0,5,87,0],
 "structpossumwood_1_1Uniforms_1_1Data.html#a50794816221cdabf838a2fbe5b1997dc":[2,0,5,87,0,1],
 "structpossumwood_1_1Uniforms_1_1Data.html#a71f5bf0e8ff9de11d05b42a3ba2c5d97":[2,0,5,87,0,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX36 =
 "tests_2anim_2transform_8cpp.html#a5e4a93597aca90635c848a53a1d47c60":[3,0,0,3,0,2,1],
 "tests_2anim_2transform_8cpp.html#a71d5e5d29d1268f39129426be3353080":[3,0,0,3,0,2,0],
 "tests_2dependency__graph_2attr__map_8cpp.html":[3,0,0,3,1,1],
-"tests_2dependency__graph_2attr__map_8cpp.html#a092c4e702fe34c2b9b80fa17eae7c897":[3,0,0,3,1,1,4],
-"tests_2dependency__graph_2attr__map_8cpp.html#a32cc9a7bdd6e747006724be5caa47b01":[3,0,0,3,1,1,1],
-"tests_2dependency__graph_2attr__map_8cpp.html#acc2de4ceee5059d75b65834e5953085c":[3,0,0,3,1,1,0],
-"tests_2dependency__graph_2attr__map_8cpp.html#acda0eb41926a4c099f27969306be0edc":[3,0,0,3,1,1,3],
-"tests_2dependency__graph_2attr__map_8cpp.html#ad50bf12af692a64bdd1bc2f8abf10c7e":[3,0,0,3,1,1,2],
-"tests_2dependency__graph_2datablock_8cpp.html":[3,0,0,3,1,6],
-"tests_2dependency__graph_2datablock_8cpp.html#a278ccf8a0f6f02240806c53ecb7e119d":[3,0,0,3,1,6,1],
-"tests_2dependency__graph_2io_8cpp.html":[3,0,0,3,1,10]
+"tests_2dependency__graph_2attr__map_8cpp.html#a092c4e702fe34c2b9b80fa17eae7c897":[3,0,0,3,1,1,4]
 };

@@ -1,18 +1,18 @@
 <map id="src/plugins/render/uniforms.h" name="src/plugins/render/uniforms.h">
-<area shape="rect" id="node2" href="$datatypes_2uniforms_8h.html" title="datatypes/uniforms.h" alt="" coords="1995,96,2139,123"/>
-<area shape="rect" id="node10" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1414,320,1521,347"/>
-<area shape="rect" id="node42" href="$drawable_8h.html" title="possumwood_sdk/drawable.h" alt="" coords="2261,245,2456,272"/>
-<area shape="rect" id="node49" href="$texture_8h.html" title="texture.h" alt="" coords="1993,171,2065,197"/>
-<area shape="rect" id="node12" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="981,544,1141,571"/>
-<area shape="rect" id="node14" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1423,395,1512,421"/>
-<area shape="rect" id="node15" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1209,469,1385,496"/>
-<area shape="rect" id="node22" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1618,469,1773,496"/>
-<area shape="rect" id="node23" href="$json_8h.html" title="io/json.h" alt="" coords="1387,544,1457,571"/>
-<area shape="rect" id="node18" href="$data_8h.html" title="data.h" alt="" coords="1856,544,1913,571"/>
-<area shape="rect" id="node21" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1269,544,1363,571"/>
-<area shape="rect" id="node44" href="$dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="2412,320,2596,347"/>
-<area shape="rect" id="node48" href="$state_8h.html" title="state.h" alt="" coords="2142,544,2204,571"/>
-<area shape="rect" id="node45" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="2440,395,2501,421"/>
-<area shape="rect" id="node47" href="$node__base_8h.html" title="node_base.h" alt="" coords="2261,469,2357,496"/>
-<area shape="rect" id="node50" href="$datatypes_2pixmap_8h.html" title="images/datatypes/pixmap.h" alt="" coords="1814,245,1996,272"/>
+<area shape="rect" id="node2" href="$datatypes_2uniforms_8h.html" title="datatypes/uniforms.h" alt="" coords="2111,96,2255,123"/>
+<area shape="rect" id="node10" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2101,320,2208,347"/>
+<area shape="rect" id="node42" href="$drawable_8h.html" title="possumwood_sdk/drawable.h" alt="" coords="1925,245,2120,272"/>
+<area shape="rect" id="node49" href="$texture_8h.html" title="texture.h" alt="" coords="2406,171,2479,197"/>
+<area shape="rect" id="node12" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1103,544,1264,571"/>
+<area shape="rect" id="node14" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1957,395,2045,421"/>
+<area shape="rect" id="node15" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2103,469,2280,496"/>
+<area shape="rect" id="node22" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1923,469,2079,496"/>
+<area shape="rect" id="node23" href="$json_8h.html" title="io/json.h" alt="" coords="1341,544,1411,571"/>
+<area shape="rect" id="node18" href="$data_8h.html" title="data.h" alt="" coords="1951,544,2008,571"/>
+<area shape="rect" id="node21" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2135,544,2229,571"/>
+<area shape="rect" id="node44" href="$dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="2233,320,2417,347"/>
+<area shape="rect" id="node48" href="$state_8h.html" title="state.h" alt="" coords="173,544,235,571"/>
+<area shape="rect" id="node45" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1677,395,1739,421"/>
+<area shape="rect" id="node47" href="$node__base_8h.html" title="node_base.h" alt="" coords="1243,469,1339,496"/>
+<area shape="rect" id="node50" href="$datatypes_2pixmap_8h.html" title="images/datatypes/pixmap.h" alt="" coords="2351,245,2533,272"/>
 </map>
