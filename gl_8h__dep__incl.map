@@ -1,8 +1,10 @@
 <map id="src/libs/possumwood_sdk/gl.h" name="src/libs/possumwood_sdk/gl.h">
-<area shape="rect" id="node2" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="5,97,157,138"/>
-<area shape="rect" id="node3" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="182,97,335,138"/>
-<area shape="rect" id="node4" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="359,97,512,138"/>
-<area shape="rect" id="node5" href="$apps_2possumwood_2viewport_8cpp.html" title="src/apps/possumwood\l/viewport.cpp" alt="" coords="537,97,689,138"/>
-<area shape="rect" id="node6" href="$gl_8cpp.html" title="src/libs/possumwood\l_sdk/gl.cpp" alt="" coords="714,97,859,138"/>
-<area shape="rect" id="node7" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="884,97,1009,138"/>
+<area shape="rect" id="node2" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="5,95,159,136"/>
+<area shape="rect" id="node3" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="183,95,336,136"/>
+<area shape="rect" id="node4" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="360,95,513,136"/>
+<area shape="rect" id="node5" href="$apps_2possumwood_2viewport_8cpp.html" title="src/apps/possumwood\l/viewport.cpp" alt="" coords="537,95,691,136"/>
+<area shape="rect" id="node6" href="$render__context_8cpp.html" title="src/apps/possumwood\l_cli/render_context.cpp" alt="" coords="715,95,873,136"/>
+<area shape="rect" id="node7" href="$possumwood__sdk_2app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="897,95,1043,136"/>
+<area shape="rect" id="node8" href="$gl_8cpp.html" title="src/libs/possumwood\l_sdk/gl.cpp" alt="" coords="1067,95,1212,136"/>
+<area shape="rect" id="node9" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="1237,95,1362,136"/>
 </map>

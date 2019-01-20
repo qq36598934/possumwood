@@ -27,7 +27,7 @@ var searchData=
   ['error_5ftoken_5fmodifier',['error_token_modifier',['../structexprtk_1_1lexer_1_1helper_1_1helper__assembly.html#abab9e12244068b6768e7a3d7766ea509',1,'exprtk::lexer::helper::helper_assembly']]],
   ['error_5ftoken_5fscanner',['error_token_scanner',['../structexprtk_1_1lexer_1_1helper_1_1helper__assembly.html#af3e502fdbd1e5c5eb783e1fdaa62b44f',1,'exprtk::lexer::helper::helper_assembly']]],
   ['exponent',['exponent',['../structTimeline_1_1TickSkip.html#ab18e33161330e8deb58d15d0fdce77d0',1,'Timeline::TickSkip']]],
-  ['expr',['expr',['../structexprtk_1_1expression_1_1control__block.html#a3af17c28c730ba6705fb358230060c15',1,'exprtk::expression::control_block']]],
+  ['expr',['expr',['../structexprtk_1_1expression_1_1control__block.html#a3af17c28c730ba6705fb358230060c15',1,'exprtk::expression::control_block::expr()'],['../apps_2possumwood__cli_2main_8cpp.html#ae77be773df6d7c8d0a005ab1187174e0',1,'expr():&#160;main.cpp']]],
   ['expr_5fas_5fvec1_5fstore_5f',['expr_as_vec1_store_',['../classexprtk_1_1details_1_1generic__function__node.html#aadd393689a088d1a007f282a7ed817d8',1,'exprtk::details::generic_function_node']]],
   ['expr_5fmap_5f',['expr_map_',['../classexprtk_1_1function__compositor.html#a91ba3785033550fb5e270a19d623c2c2',1,'exprtk::function_compositor']]],
   ['expression',['expression',['../structexprtk_1_1function__compositor_1_1base__func.html#accc478144209d176f52eec2ef574a403',1,'exprtk::function_compositor::base_func']]],

@@ -10,7 +10,7 @@ var searchData=
   ['joint_5fmapping_5feditor_5fdata_2eh',['joint_mapping_editor_data.h',['../joint__mapping__editor__data_8h.html',1,'']]],
   ['jointmappingeditor',['JointMappingEditor',['../classJointMappingEditor.html',1,'JointMappingEditor'],['../classJointMappingEditor.html#ac21a85dcaa0243a3ebbe144392c3a716',1,'JointMappingEditor::JointMappingEditor()']]],
   ['jointmappingeditordata',['JointMappingEditorData',['../classanim_1_1JointMappingEditorData.html',1,'anim']]],
-  ['json',['json',['../classpossumwood_1_1IO.html#a26a1d28b48176ca935870f855c4adb74',1,'possumwood::IO::json()'],['../namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e',1,'possumwood::io::json()']]],
+  ['json',['json',['../namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e',1,'possumwood::io']]],
   ['json_2ecpp',['json.cpp',['../json_8cpp.html',1,'']]],
   ['json_2eh',['json.h',['../json_8h.html',1,'']]],
   ['json_5fcatch',['JSON_CATCH',['../json_8h.html#a6954bec49ed2a2dfb938c1131c82740a',1,'json.h']]],

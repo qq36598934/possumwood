@@ -1,10 +1,10 @@
 <map id="src/libs/possumwood_sdk/datatypes/enum.h" name="src/libs/possumwood_sdk/datatypes/enum.h">
-<area shape="rect" id="node5" href="$data__traits_8h.html" title="dependency_graph/data\l_traits.h" alt="" coords="1327,321,1485,362"/>
-<area shape="rect" id="node6" href="$json_8h.html" title="actions/io/json.h" alt="" coords="1185,328,1301,355"/>
-<area shape="rect" id="node32" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1274,171,1363,197"/>
-<area shape="rect" id="node39" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1261,96,1368,123"/>
-<area shape="rect" id="node34" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="898,328,1059,355"/>
-<area shape="rect" id="node36" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1122,245,1299,272"/>
-<area shape="rect" id="node38" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1839,245,1995,272"/>
-<area shape="rect" id="node37" href="$data_8h.html" title="data.h" alt="" coords="2159,328,2216,355"/>
+<area shape="rect" id="node5" href="$data__traits_8h.html" title="dependency_graph/data\l_traits.h" alt="" coords="1327,319,1487,360"/>
+<area shape="rect" id="node6" href="$json_8h.html" title="actions/io/json.h" alt="" coords="1186,326,1303,353"/>
+<area shape="rect" id="node32" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1275,169,1364,196"/>
+<area shape="rect" id="node39" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1261,95,1369,121"/>
+<area shape="rect" id="node34" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="899,326,1060,353"/>
+<area shape="rect" id="node36" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1123,244,1300,271"/>
+<area shape="rect" id="node38" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1840,244,1996,271"/>
+<area shape="rect" id="node37" href="$data_8h.html" title="data.h" alt="" coords="2159,326,2218,353"/>
 </map>

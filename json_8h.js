@@ -8,7 +8,7 @@ var json_8h =
     [ "other_error", "classpossumwood_1_1io_1_1detail_1_1other__error.html", "classpossumwood_1_1io_1_1detail_1_1other__error" ],
     [ "conjunction", "structpossumwood_1_1io_1_1detail_1_1conjunction.html", null ],
     [ "conjunction< B1 >", "structpossumwood_1_1io_1_1detail_1_1conjunction_3_01B1_01_4.html", null ],
-    [ "conjunction< B1, Bn...>", "structpossumwood_1_1io_1_1detail_1_1conjunction_3_01B1_00_01Bn_8_8_8_4.html", null ],
+    [ "conjunction< B1, Bn... >", "structpossumwood_1_1io_1_1detail_1_1conjunction_3_01B1_00_01Bn_8_8_8_01_4.html", null ],
     [ "negation", "structpossumwood_1_1io_1_1detail_1_1negation.html", null ],
     [ "priority_tag", "structpossumwood_1_1io_1_1detail_1_1priority__tag.html", null ],
     [ "priority_tag< 0 >", "structpossumwood_1_1io_1_1detail_1_1priority__tag_3_010_01_4.html", null ],

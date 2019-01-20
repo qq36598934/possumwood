@@ -75,7 +75,7 @@ var classexprtk_1_1parser_1_1expression__generator =
     [ "ctype", "classexprtk_1_1parser_1_1expression__generator.html#a8caa1f1c5921de12c7695e15946a2d5c", null ],
     [ "expression_node_ptr", "classexprtk_1_1parser_1_1expression__generator.html#a104d5ddb24e57c43685d2e2b6cca4a8d", null ],
     [ "parser_t", "classexprtk_1_1parser_1_1expression__generator.html#a7362f8e513a6c9064feb342b959b55f3", null ],
-    [ "synthesize_functor_t", "classexprtk_1_1parser_1_1expression__generator.html#a59dd2754a7161bdfce564aefcfec8ce0", null ],
+    [ "synthesize_functor_t", "classexprtk_1_1parser_1_1expression__generator.html#aae75e9bc2ebc5a941501ad2bb6c785f7", null ],
     [ "synthesize_map_t", "classexprtk_1_1parser_1_1expression__generator.html#aea62a7fe70ad07b7bbe9b268389d66d0", null ],
     [ "vtype", "classexprtk_1_1parser_1_1expression__generator.html#aff42ba6495f15f00dc548eb97c833dc0", null ],
     [ "binext_optimisable", "classexprtk_1_1parser_1_1expression__generator.html#a990dd041c4dca9464e3e1097f2a4a695", null ],

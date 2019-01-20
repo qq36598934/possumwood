@@ -1,10 +1,10 @@
 <map id="src/libs/possumwood_sdk/datatypes/enum.h" name="src/libs/possumwood_sdk/datatypes/enum.h">
-<area shape="rect" id="node2" href="$enum_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/enum.cpp" alt="" coords="5,97,176,138"/>
-<area shape="rect" id="node3" href="$enum__ui_8h.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.h" alt="" coords="201,97,345,138"/>
-<area shape="rect" id="node5" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="370,97,528,138"/>
-<area shape="rect" id="node6" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="553,97,759,138"/>
-<area shape="rect" id="node7" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="784,97,971,138"/>
-<area shape="rect" id="node8" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="995,97,1172,138"/>
-<area shape="rect" id="node9" href="$text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="1197,97,1381,138"/>
-<area shape="rect" id="node4" href="$enum__ui_8cpp.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.cpp" alt="" coords="201,187,345,229"/>
+<area shape="rect" id="node2" href="$enum_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/enum.cpp" alt="" coords="5,95,177,136"/>
+<area shape="rect" id="node3" href="$enum__ui_8h.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.h" alt="" coords="201,95,347,136"/>
+<area shape="rect" id="node5" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="371,95,529,136"/>
+<area shape="rect" id="node6" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="553,95,760,136"/>
+<area shape="rect" id="node7" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="785,95,971,136"/>
+<area shape="rect" id="node8" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="996,95,1173,136"/>
+<area shape="rect" id="node9" href="$text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="1198,95,1382,136"/>
+<area shape="rect" id="node4" href="$enum__ui_8cpp.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.cpp" alt="" coords="201,184,347,225"/>
 </map>

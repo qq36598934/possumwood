@@ -1,91 +1,3 @@
-var NAVTREE =
-[
-  [ "possumwood", "index.html", [
-    [ "Deprecated List", "deprecated.html", null ],
-    [ "Namespaces", null, [
-      [ "Namespace List", "namespaces.html", "namespaces" ],
-      [ "Namespace Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", "namespacemembers_dup" ],
-        [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
-        [ "Variables", "namespacemembers_vars.html", null ],
-        [ "Typedefs", "namespacemembers_type.html", null ],
-        [ "Enumerations", "namespacemembers_enum.html", null ],
-        [ "Enumerator", "namespacemembers_eval.html", "namespacemembers_eval" ]
-      ] ]
-    ] ],
-    [ "Classes", null, [
-      [ "Class List", "annotated.html", "annotated" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
-      [ "Class Members", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ],
-        [ "Typedefs", "functions_type.html", "functions_type" ],
-        [ "Enumerations", "functions_enum.html", null ],
-        [ "Enumerator", "functions_eval.html", "functions_eval" ],
-        [ "Related Functions", "functions_rela.html", null ]
-      ] ]
-    ] ],
-    [ "Files", null, [
-      [ "File List", "files.html", "files" ],
-      [ "File Members", "globals.html", [
-        [ "All", "globals.html", "globals_dup" ],
-        [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ],
-        [ "Typedefs", "globals_type.html", null ],
-        [ "Macros", "globals_defs.html", null ]
-      ] ]
-    ] ]
-  ] ]
-];
-
-var NAVTREEINDEX =
-[
-"actions_2app_8cpp.html",
-"classMeshesUI.html#a8de2f9e29391b537d6c8cc8cb1fe8046",
-"classanim_1_1Hierarchy.html#a789f9b57eb02d85e6d4e84310b84b63e",
-"classdependency__graph_1_1Attr.html#a30547b00473bb62f306d3dcb442a219a",
-"classdependency__graph_1_1Nodes.html#a81d3abeb8232ff6048c37d01050d33b7",
-"classexprtk_1_1details_1_1T0oT1oT2oT3__base__node.html#a18e0350cc6bc999e6be64aa47cd91a4b",
-"classexprtk_1_1details_1_1boc__node.html#a6811e7e35aa9831873c53c1a96fec7a0",
-"classexprtk_1_1details_1_1expression__node.html#a728c18d32fa7d7b19267bcf4c72a2c7fa8f60ff5c580881f565814263e5c3804a",
-"classexprtk_1_1details_1_1node__allocator.html#aa8cefe14dd65b151049c57b3471dcc8e",
-"classexprtk_1_1details_1_1str__xrox__node.html#a4ff76da3143ac100853caffc8b91dac7",
-"classexprtk_1_1details_1_1unary__node.html#af57e0f3af175cd5cf33680a1659fc565",
-"classexprtk_1_1details_1_1vector__node.html#a01083c1fdb13345f962bb7ff05956dbc",
-"classexprtk_1_1lexer_1_1helper_1_1bracket__checker.html#a9c07c6450d6e839652163a965e164f5a",
-"classexprtk_1_1parser.html#aad21e9e928d71f6d0763b22754f31eea",
-"classexprtk_1_1parser_1_1expression__generator.html#afeb35d68623d3d225d89567f2b74782b",
-"classexprtk_1_1polynomial.html#a885e2ebd672312a8a360f67455e3e427",
-"classexprtk_1_1symbol__table.html#a425671401fcf3406e09e5c9f9bce6be7",
-"classnode__editor_1_1Port.html#a8a2d8c1f556d0a91e1ab932eef7b9e62",
-"classpossumwood_1_1IO.html",
-"classpossumwood_1_1Uniforms.html#ab5ef5831ce989424587fe887cd45a206",
-"classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a49617d269b4e8eed99d320d2839674be",
-"classpossumwood_1_1io_1_1basic__json_1_1primitive__iterator__t.html#ae341e929a68c1708f5262b185f348b26",
-"classpossumwood_1_1properties_1_1property__base.html#a3141f06c765c76dc4bd3ba9b86c7d7bb",
-"exprtk_8hpp.html#a0e1b84975affabcd24b5fc02c6557136",
-"exprtk_8hpp.html#a87f1b343933fad14a0c4252cd62bbc53",
-"exprtk_8hpp.html#a9f92c94d6eb47edbf0af17e8eabe57f7ac276b7782abb5ee26e756fd504367ffd",
-"factory_8h_source.html",
-"json_8h.html#a177e0fc0a2839fffde5f5f50e1ca64b2",
-"namespaceopenanim.html",
-"structanim_1_1Transform.html#a520abf9df9cd38b008b82d4347c31ae5",
-"structexprtk_1_1details_1_1gt__op.html#a93262381db65594662c9d6d17bb73bbb",
-"structexprtk_1_1details_1_1vararg__min__op.html#a1ecae0e70323f033268a3e388e79c54d",
-"structexprtk_1_1parser_1_1expression__generator_1_1switch__nodes_1_1switch__2.html",
-"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__vocov__expression0.html#ac8fc6f9ad681e162bccc52f781d2100b",
-"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__vovovov__expression4.html#aa9abd5a8a056b3cb9ee5bcbdb01ff2f2",
-"structexprtk_1_1symbol__table_1_1control__block.html#a5653c6882f24dc971fae8eae20f21e03",
-"structpossumwood_1_1GLSLTraits_3_01std_1_1vector_3_01Imath_1_1Matrix44_3_01T_01_4_01_4_01_4.html#a6d9e54d65fbe45abac5ea2a1893037a4",
-"subset__selection_8h.html#a6ff6d3473a2a2ce18f5fea97b56fd1b8"
-];
-
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
 var navTreeSubIndices = new Array();
 
 function getData(varName)
@@ -106,6 +18,21 @@ function stripPath2(uri)
   var s = uri.substring(i+1);
   var m = uri.substring(0,i+1).match(/\/d\w\/d\w\w\/$/);
   return m ? uri.substring(i-6) : s;
+}
+
+function hashValue()
+{
+  return $(location).attr('hash').substring(1).replace(/[^\w\-]/g,'');
+}
+
+function hashUrl()
+{
+  return '#'+hashValue();
+}
+
+function pathName()
+{
+  return $(location).attr('pathname').replace(/[^-A-Za-z0-9+&@#/%?=~_|!:,.;\(\)]/g, '');
 }
 
 function localStorageSupported()
@@ -130,7 +57,7 @@ function deleteLink()
 {
   if (localStorageSupported()) {
     window.localStorage.setItem('navpath','');
-  } 
+  }
 }
 
 function cachedLink()
@@ -178,7 +105,7 @@ function createIndent(o,domNode,node,level)
     node.expandToggle.onclick = function() {
       if (node.expanded) {
         $(node.getChildrenUL()).slideUp("fast");
-        node.plus_img.src = node.relpath+"ftv2pnode.png";
+        node.plus_img.src = node.relpath+"arrowright.png";
         node.expanded = false;
       } else {
         expandNode(o, node, false, false);
@@ -186,7 +113,7 @@ function createIndent(o,domNode,node,level)
     }
     node.expandToggle.appendChild(imgNode);
     domNode.appendChild(node.expandToggle);
-    imgNode.src = node.relpath+"ftv2pnode.png";
+    imgNode.src = node.relpath+"arrowright.png";
   } else {
     var span = document.createElement("span");
     span.style.display = 'inline-block';
@@ -202,11 +129,13 @@ var animationInProgress = false;
 function gotoAnchor(anchor,aname,updateLocation)
 {
   var pos, docContent = $('#doc-content');
-  if (anchor.parent().attr('class')=='memItemLeft' ||
-      anchor.parent().attr('class')=='fieldtype' ||
-      anchor.parent().is(':header')) 
+  var ancParent = $(anchor.parent());
+  if (ancParent.hasClass('memItemLeft') ||
+      ancParent.hasClass('fieldname') ||
+      ancParent.hasClass('fieldtype') ||
+      ancParent.is(':header'))
   {
-    pos = anchor.parent().position().top;
+    pos = ancParent.position().top;
   } else if (anchor.position()) {
     pos = anchor.position().top;
   }
@@ -264,7 +193,7 @@ function newNode(o, po, text, link, childrenData, lastNode)
     a.className = stripPath(link.replace('#',':'));
     if (link.indexOf('#')!=-1) {
       var aname = '#'+link.split('#')[1];
-      var srcPage = stripPath($(location).attr('pathname'));
+      var srcPage = stripPath(pathName());
       var targetPage = stripPath(link.split('#')[0]);
       a.href = srcPage!=targetPage ? url : "javascript:void(0)"; 
       a.onclick = function(){
@@ -340,9 +269,9 @@ function expandNode(o, node, imm, showRoot)
         $(node.getChildrenUL()).slideDown("fast");
       }
       if (node.isLast) {
-        node.plus_img.src = node.relpath+"ftv2mlastnode.png";
+        node.plus_img.src = node.relpath+"arrowdown.png";
       } else {
-        node.plus_img.src = node.relpath+"ftv2mnode.png";
+        node.plus_img.src = node.relpath+"arrowdown.png";
       }
       node.expanded = true;
     }
@@ -358,14 +287,13 @@ function glowEffect(n,duration)
 
 function highlightAnchor()
 {
-  var aname = $(location).attr('hash');
+  var aname = hashUrl();
   var anchor = $(aname);
   if (anchor.parent().attr('class')=='memItemLeft'){
-    var rows = $('.memberdecls tr[class$="'+
-               window.location.hash.substring(1)+'"]');
+    var rows = $('.memberdecls tr[class$="'+hashValue()+'"]');
     glowEffect(rows.children(),300); // member without details
-  } else if (anchor.parents().slice(2).prop('tagName')=='TR') {
-    glowEffect(anchor.parents('div.memitem'),1000); // enum value
+  } else if (anchor.parent().attr('class')=='fieldname'){
+    glowEffect(anchor.parent().parent(),1000); // enum value
   } else if (anchor.parent().attr('class')=='fieldtype'){
     glowEffect(anchor.parent().parent(),1000); // struct field
   } else if (anchor.parent().is(":header")) {
@@ -380,7 +308,7 @@ function selectAndHighlight(hash,n)
 {
   var a;
   if (hash) {
-    var link=stripPath($(location).attr('pathname'))+':'+hash.substring(1);
+    var link=stripPath(pathName())+':'+hash.substring(1);
     a=$('.item a[class$="'+link+'"]');
   }
   if (a && a.length) {
@@ -413,11 +341,7 @@ function showNode(o, node, index, hash)
         getNode(o, node);
       }
       $(node.getChildrenUL()).css({'display':'block'});
-      if (node.isLast) {
-        node.plus_img.src = node.relpath+"ftv2mlastnode.png";
-      } else {
-        node.plus_img.src = node.relpath+"ftv2mnode.png";
-      }
+      node.plus_img.src = node.relpath+"arrowdown.png";
       node.expanded = true;
       var n = node.children[o.breadcrumbs[index]];
       if (index+1<o.breadcrumbs.length) {
@@ -491,14 +415,13 @@ function navTo(o,root,hash,relpath)
   if (link) {
     var parts = link.split('#');
     root = parts[0];
-    if (parts.length>1) hash = '#'+parts[1];
+    if (parts.length>1) hash = '#'+parts[1].replace(/[^\w\-]/g,'');
     else hash='';
   }
   if (hash.match(/^#l\d+$/)) {
     var anchor=$('a[name='+hash.substring(1)+']');
     glowEffect(anchor.parent(),1000); // line number
     hash=''; // strip line number anchors
-    //root=root.replace(/_source\./,'.'); // source link to doc link
   }
   var url=root+hash;
   var i=-1;
@@ -532,7 +455,7 @@ function toggleSyncButton(relpath)
   if (navSync.hasClass('sync')) {
     navSync.removeClass('sync');
     showSyncOff(navSync,relpath);
-    storeLink(stripPath2($(location).attr('pathname'))+$(location).attr('hash'));
+    storeLink(stripPath2(pathName())+hashUrl());
   } else {
     navSync.addClass('sync');
     showSyncOn(navSync,relpath);
@@ -556,7 +479,7 @@ function initNavTree(toroot,relpath)
   o.node.expanded = false;
   o.node.isLast = true;
   o.node.plus_img = document.createElement("img");
-  o.node.plus_img.src = relpath+"ftv2pnode.png";
+  o.node.plus_img.src = relpath+"arrowright.png";
   o.node.plus_img.width = 16;
   o.node.plus_img.height = 22;
 
@@ -572,7 +495,7 @@ function initNavTree(toroot,relpath)
   }
 
   $(window).load(function(){
-    navTo(o,toroot,window.location.hash,relpath);
+    navTo(o,toroot,hashUrl(),relpath);
     showRoot();
   });
 
@@ -580,21 +503,20 @@ function initNavTree(toroot,relpath)
      if (window.location.hash && window.location.hash.length>1){
        var a;
        if ($(location).attr('hash')){
-         var clslink=stripPath($(location).attr('pathname'))+':'+
-                               $(location).attr('hash').substring(1);
-         a=$('.item a[class$="'+clslink+'"]');
+         var clslink=stripPath(pathName())+':'+hashValue();
+         a=$('.item a[class$="'+clslink.replace(/</g,'\\3c ')+'"]');
        }
        if (a==null || !$(a).parent().parent().hasClass('selected')){
          $('.item').removeClass('selected');
          $('.item').removeAttr('id');
        }
-       var link=stripPath2($(location).attr('pathname'));
-       navTo(o,link,$(location).attr('hash'),relpath);
+       var link=stripPath2(pathName());
+       navTo(o,link,hashUrl(),relpath);
      } else if (!animationInProgress) {
        $('#doc-content').scrollTop(0);
        $('.item').removeClass('selected');
        $('.item').removeAttr('id');
-       navTo(o,toroot,window.location.hash,relpath);
+       navTo(o,toroot,hashUrl(),relpath);
      }
   })
 }

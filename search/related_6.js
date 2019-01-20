@@ -7,6 +7,6 @@ var searchData=
   ['genericcontainer_3c_20vertex_20_3e',['GenericContainer&lt; Vertex &gt;',['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertex.html#a40abe748f4d1af26887f15ab52e4d59e',1,'possumwood::polymesh::GenericPolymesh::Vertex']]],
   ['genericpolymesh',['GenericPolymesh',['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Indices.html#a8eba8d79b5733330acc00d7d9e2a0230',1,'possumwood::polymesh::GenericPolymesh::Indices::GenericPolymesh()'],['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Polygons.html#a8eba8d79b5733330acc00d7d9e2a0230',1,'possumwood::polymesh::GenericPolymesh::Polygons::GenericPolymesh()']]],
   ['glrenderable',['GLRenderable',['../classpossumwood_1_1GLRenderable_1_1VBO.html#af4a6efe40d212de40e0acf60ba0fa81c',1,'possumwood::GLRenderable::VBO']]],
-  ['graph',['Graph',['../classdependency__graph_1_1Network.html#afab89afd724f1b07b1aaad6bdc61c47a',1,'dependency_graph::Network::Graph()'],['../classdependency__graph_1_1Nodes.html#afab89afd724f1b07b1aaad6bdc61c47a',1,'dependency_graph::Nodes::Graph()']]],
+  ['graph',['Graph',['../classdependency__graph_1_1Nodes.html#afab89afd724f1b07b1aaad6bdc61c47a',1,'dependency_graph::Nodes']]],
   ['graphscene',['GraphScene',['../classnode__editor_1_1Edge.html#a0fca9dcf8904426cbe98710a78369ff2',1,'node_editor::Edge']]]
 ];

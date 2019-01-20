@@ -1,12 +1,12 @@
 <map id="src/plugins/maths/io/vec3.h" name="src/plugins/maths/io/vec3.h">
-<area shape="rect" id="node2" href="$plugins_2anim_2nodes_2animation_2transform_8cpp.html" title="src/plugins/anim/nodes\l/animation/transform.cpp" alt="" coords="5,97,171,138"/>
-<area shape="rect" id="node3" href="$edit_8cpp.html" title="src/plugins/anim/nodes\l/frame/edit.cpp" alt="" coords="195,97,351,138"/>
-<area shape="rect" id="node4" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="376,97,528,138"/>
-<area shape="rect" id="node5" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="552,97,704,138"/>
-<area shape="rect" id="node6" href="$maths_2io_2vec3_8cpp.html" title="src/plugins/maths/io\l/vec3.cpp" alt="" coords="728,97,867,138"/>
-<area shape="rect" id="node7" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="891,97,1055,138"/>
-<area shape="rect" id="node8" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="1079,97,1243,138"/>
-<area shape="rect" id="node9" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="1267,97,1412,138"/>
-<area shape="rect" id="node10" href="$plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="1437,97,1635,138"/>
-<area shape="rect" id="node11" href="$render_2nodes_2uniforms_2vec3_8cpp.html" title="src/plugins/render\l/nodes/uniforms/vec3.cpp" alt="" coords="1659,97,1831,138"/>
+<area shape="rect" id="node2" href="$plugins_2anim_2nodes_2animation_2transform_8cpp.html" title="src/plugins/anim/nodes\l/animation/transform.cpp" alt="" coords="5,95,172,136"/>
+<area shape="rect" id="node3" href="$edit_8cpp.html" title="src/plugins/anim/nodes\l/frame/edit.cpp" alt="" coords="196,95,352,136"/>
+<area shape="rect" id="node4" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="377,95,529,136"/>
+<area shape="rect" id="node5" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="553,95,705,136"/>
+<area shape="rect" id="node6" href="$maths_2io_2vec3_8cpp.html" title="src/plugins/maths/io\l/vec3.cpp" alt="" coords="729,95,867,136"/>
+<area shape="rect" id="node7" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="892,95,1056,136"/>
+<area shape="rect" id="node8" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="1080,95,1244,136"/>
+<area shape="rect" id="node9" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="1268,95,1413,136"/>
+<area shape="rect" id="node10" href="$plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="1437,95,1636,136"/>
+<area shape="rect" id="node11" href="$render_2nodes_2uniforms_2vec3_8cpp.html" title="src/plugins/render\l/nodes/uniforms/vec3.cpp" alt="" coords="1660,95,1832,136"/>
 </map>

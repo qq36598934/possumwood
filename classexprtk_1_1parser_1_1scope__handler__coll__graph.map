@@ -1,34 +1,34 @@
 <map id="exprtk::parser&lt; T &gt;::scope_handler" name="exprtk::parser&lt; T &gt;::scope_handler">
-<area shape="rect" id="node2" href="$classexprtk_1_1parser.html" title="exprtk::parser\&lt; T \&gt;" alt="" coords="1009,751,1143,777"/>
-<area shape="rect" id="node17" href="$classexprtk_1_1parser_1_1scope__element__manager.html" title="exprtk::parser\&lt; T \&gt;\l::scope_element_manager" alt="" coords="1334,653,1509,694"/>
-<area shape="rect" id="node30" href="$classexprtk_1_1parser_1_1expression__generator.html" title="exprtk::parser\&lt; T \&gt;\l::expression_generator\&lt; T \&gt;" alt="" coords="1328,834,1515,875"/>
-<area shape="rect" id="node3" href="$classexprtk_1_1lexer_1_1parser__helper.html" title="exprtk::lexer::parser\l_helper" alt="" coords="635,299,773,341"/>
-<area shape="rect" id="node4" href="$classexprtk_1_1lexer_1_1generator.html" title="exprtk::lexer::generator" alt="" coords="271,373,427,400"/>
-<area shape="rect" id="node5" href="$structexprtk_1_1lexer_1_1token.html" title="exprtk::lexer::token" alt="" coords="7,373,142,400"/>
-<area shape="rect" id="node10" href="$classexprtk_1_1lexer_1_1helper_1_1bracket__checker.html" title="exprtk::lexer::helper\l::bracket_checker" alt="" coords="635,430,773,471"/>
-<area shape="rect" id="node6" href="$classexprtk_1_1lexer_1_1helper_1_1symbol__replacer.html" title="exprtk::lexer::helper\l::symbol_replacer" alt="" coords="635,1135,773,1177"/>
-<area shape="rect" id="node7" href="$classexprtk_1_1lexer_1_1token__modifier.html" title="exprtk::lexer::token\l_modifier" alt="" coords="282,1094,417,1135"/>
-<area shape="rect" id="node29" href="$structexprtk_1_1lexer_1_1helper_1_1helper__assembly.html" title="exprtk::lexer::helper\l::helper_assembly" alt="" coords="635,1005,773,1046"/>
-<area shape="rect" id="node8" href="$classexprtk_1_1lexer_1_1helper__interface.html" title="exprtk::lexer::helper\l_interface" alt="" coords="6,990,143,1031"/>
-<area shape="rect" id="node11" href="$classexprtk_1_1lexer_1_1token__scanner.html" title="exprtk::lexer::token\l_scanner" alt="" coords="282,857,417,898"/>
-<area shape="rect" id="node14" href="$classexprtk_1_1lexer_1_1token__joiner.html" title="exprtk::lexer::token\l_joiner" alt="" coords="282,1022,417,1063"/>
-<area shape="rect" id="node28" href="$classexprtk_1_1lexer_1_1token__inserter.html" title="exprtk::lexer::token\l_inserter" alt="" coords="282,957,417,998"/>
-<area shape="rect" id="node9" href="$structexprtk_1_1parser_1_1unknown__symbol__resolver.html" title="exprtk::parser\&lt; T \&gt;\l::unknown_symbol_resolver" alt="" coords="612,495,796,537"/>
-<area shape="rect" id="node16" href="$classexprtk_1_1lexer_1_1helper_1_1numeric__checker.html" title="exprtk::lexer::helper\l::numeric_checker" alt="" coords="635,874,773,915"/>
-<area shape="rect" id="node31" href="$classexprtk_1_1lexer_1_1helper_1_1sequence__validator.html" title="exprtk::lexer::helper\l::sequence_validator" alt="" coords="633,365,775,406"/>
-<area shape="rect" id="node12" href="$classexprtk_1_1details_1_1node__allocator.html" title="exprtk::details::node\l_allocator" alt="" coords="634,1201,774,1242"/>
-<area shape="rect" id="node13" href="$classexprtk_1_1lexer_1_1helper_1_1operator__joiner.html" title="exprtk::lexer::helper\l::operator_joiner" alt="" coords="635,1070,773,1111"/>
-<area shape="rect" id="node15" href="$classexprtk_1_1parser_1_1dependent__entity__collector.html" title="exprtk::parser\&lt; T \&gt;\l::dependent_entity_collector" alt="" coords="611,561,797,602"/>
-<area shape="rect" id="node18" href="$structexprtk_1_1parser_1_1scope__element.html" title="exprtk::parser\&lt; T \&gt;\l::scope_element" alt="" coords="1009,190,1143,231"/>
-<area shape="rect" id="node19" href="$classexprtk_1_1details_1_1vector__holder.html" title="exprtk::details::vector\l_holder\&lt; Type \&gt;" alt="" coords="630,38,778,79"/>
-<area shape="rect" id="node20" href="$classexprtk_1_1details_1_1vector__holder_1_1vector__holder__base.html" title="exprtk::details::vector\l_holder\&lt; Type \&gt;::vector\l_holder_base" alt="" coords="269,5,430,61"/>
-<area shape="rect" id="node21" href="$classexprtk_1_1details_1_1stringvar__node.html" title="exprtk::details::stringvar\l_node\&lt; T \&gt;" alt="" coords="623,153,785,194"/>
-<area shape="rect" id="node22" href="$classexprtk_1_1details_1_1expression__node.html" title="exprtk::details::expression\l_node\&lt; T \&gt;" alt="" coords="262,215,437,257"/>
-<area shape="rect" id="node23" href="$classexprtk_1_1details_1_1string__base__node.html" title="exprtk::details::string\l_base_node\&lt; T \&gt;" alt="" coords="277,150,421,191"/>
-<area shape="rect" id="node24" href="$classexprtk_1_1details_1_1range__interface.html" title="exprtk::details::range\l_interface\&lt; T \&gt;" alt="" coords="277,85,421,126"/>
-<area shape="rect" id="node25" href="$classexprtk_1_1results__context.html" title="exprtk::results_context\&lt; T \&gt;" alt="" coords="611,627,797,653"/>
-<area shape="rect" id="node26" href="$structexprtk_1_1parser_1_1symtab__store.html" title="exprtk::parser\&lt; T \&gt;\l::symtab_store" alt="" coords="637,678,771,719"/>
-<area shape="rect" id="node27" href="$classexprtk_1_1lexer_1_1helper_1_1commutative__inserter.html" title="exprtk::lexer::helper\l::commutative_inserter" alt="" coords="627,939,781,981"/>
-<area shape="rect" id="node32" href="$structexprtk_1_1parser_1_1parser__state.html" title="exprtk::parser\&lt; T \&gt;\l::parser_state" alt="" coords="637,743,771,785"/>
-<area shape="rect" id="node33" href="$classexprtk_1_1parser_1_1settings__store.html" title="exprtk::parser\&lt; T \&gt;\l::settings_store" alt="" coords="637,809,771,850"/>
+<area shape="rect" id="node2" href="$classexprtk_1_1parser.html" title="exprtk::parser\&lt; T \&gt;" alt="" coords="1004,751,1139,777"/>
+<area shape="rect" id="node17" href="$classexprtk_1_1parser_1_1scope__element__manager.html" title="exprtk::parser\&lt; T \&gt;\l::scope_element_manager" alt="" coords="1329,653,1503,694"/>
+<area shape="rect" id="node30" href="$classexprtk_1_1parser_1_1expression__generator.html" title="exprtk::parser\&lt; T \&gt;\l::expression_generator\&lt; T \&gt;" alt="" coords="1323,834,1509,875"/>
+<area shape="rect" id="node3" href="$classexprtk_1_1lexer_1_1parser__helper.html" title="exprtk::lexer::parser\l_helper" alt="" coords="632,299,771,341"/>
+<area shape="rect" id="node4" href="$classexprtk_1_1lexer_1_1generator.html" title="exprtk::lexer::generator" alt="" coords="269,373,425,400"/>
+<area shape="rect" id="node5" href="$structexprtk_1_1lexer_1_1token.html" title="exprtk::lexer::token" alt="" coords="7,373,141,400"/>
+<area shape="rect" id="node10" href="$classexprtk_1_1lexer_1_1helper_1_1bracket__checker.html" title="exprtk::lexer::helper\l::bracket_checker" alt="" coords="633,430,770,471"/>
+<area shape="rect" id="node6" href="$classexprtk_1_1lexer_1_1helper_1_1symbol__replacer.html" title="exprtk::lexer::helper\l::symbol_replacer" alt="" coords="633,1135,770,1177"/>
+<area shape="rect" id="node7" href="$classexprtk_1_1lexer_1_1token__modifier.html" title="exprtk::lexer::token\l_modifier" alt="" coords="280,1094,415,1135"/>
+<area shape="rect" id="node29" href="$structexprtk_1_1lexer_1_1helper_1_1helper__assembly.html" title="exprtk::lexer::helper\l::helper_assembly" alt="" coords="633,1005,770,1046"/>
+<area shape="rect" id="node8" href="$classexprtk_1_1lexer_1_1helper__interface.html" title="exprtk::lexer::helper\l_interface" alt="" coords="5,990,143,1031"/>
+<area shape="rect" id="node11" href="$classexprtk_1_1lexer_1_1token__scanner.html" title="exprtk::lexer::token\l_scanner" alt="" coords="280,857,415,898"/>
+<area shape="rect" id="node14" href="$classexprtk_1_1lexer_1_1token__joiner.html" title="exprtk::lexer::token\l_joiner" alt="" coords="280,1022,415,1063"/>
+<area shape="rect" id="node28" href="$classexprtk_1_1lexer_1_1token__inserter.html" title="exprtk::lexer::token\l_inserter" alt="" coords="280,957,415,998"/>
+<area shape="rect" id="node9" href="$structexprtk_1_1parser_1_1unknown__symbol__resolver.html" title="exprtk::parser\&lt; T \&gt;\l::unknown_symbol_resolver" alt="" coords="609,495,793,537"/>
+<area shape="rect" id="node16" href="$classexprtk_1_1lexer_1_1helper_1_1numeric__checker.html" title="exprtk::lexer::helper\l::numeric_checker" alt="" coords="633,874,770,915"/>
+<area shape="rect" id="node31" href="$classexprtk_1_1lexer_1_1helper_1_1sequence__validator.html" title="exprtk::lexer::helper\l::sequence_validator" alt="" coords="630,365,773,406"/>
+<area shape="rect" id="node12" href="$classexprtk_1_1details_1_1node__allocator.html" title="exprtk::details::node\l_allocator" alt="" coords="631,1201,771,1242"/>
+<area shape="rect" id="node13" href="$classexprtk_1_1lexer_1_1helper_1_1operator__joiner.html" title="exprtk::lexer::helper\l::operator_joiner" alt="" coords="633,1070,770,1111"/>
+<area shape="rect" id="node15" href="$classexprtk_1_1parser_1_1dependent__entity__collector.html" title="exprtk::parser\&lt; T \&gt;\l::dependent_entity_collector" alt="" coords="609,561,794,602"/>
+<area shape="rect" id="node18" href="$structexprtk_1_1parser_1_1scope__element.html" title="exprtk::parser\&lt; T \&gt;\l::scope_element" alt="" coords="1004,190,1139,231"/>
+<area shape="rect" id="node19" href="$classexprtk_1_1details_1_1vector__holder.html" title="exprtk::details::vector\l_holder\&lt; Type \&gt;" alt="" coords="627,38,775,79"/>
+<area shape="rect" id="node20" href="$classexprtk_1_1details_1_1vector__holder_1_1vector__holder__base.html" title="exprtk::details::vector\l_holder\&lt; Type \&gt;::vector\l_holder_base" alt="" coords="267,5,428,61"/>
+<area shape="rect" id="node21" href="$classexprtk_1_1details_1_1stringvar__node.html" title="exprtk::details::stringvar\l_node\&lt; T \&gt;" alt="" coords="620,153,783,194"/>
+<area shape="rect" id="node22" href="$classexprtk_1_1details_1_1expression__node.html" title="exprtk::details::expression\l_node\&lt; T \&gt;" alt="" coords="260,215,435,257"/>
+<area shape="rect" id="node23" href="$classexprtk_1_1details_1_1string__base__node.html" title="exprtk::details::string\l_base_node\&lt; T \&gt;" alt="" coords="275,150,419,191"/>
+<area shape="rect" id="node24" href="$classexprtk_1_1details_1_1range__interface.html" title="exprtk::details::range\l_interface\&lt; T \&gt;" alt="" coords="275,85,419,126"/>
+<area shape="rect" id="node25" href="$classexprtk_1_1results__context.html" title="exprtk::results_context\&lt; T \&gt;" alt="" coords="608,627,795,653"/>
+<area shape="rect" id="node26" href="$structexprtk_1_1parser_1_1symtab__store.html" title="exprtk::parser\&lt; T \&gt;\l::symtab_store" alt="" coords="634,678,769,719"/>
+<area shape="rect" id="node27" href="$classexprtk_1_1lexer_1_1helper_1_1commutative__inserter.html" title="exprtk::lexer::helper\l::commutative_inserter" alt="" coords="624,939,779,981"/>
+<area shape="rect" id="node32" href="$structexprtk_1_1parser_1_1parser__state.html" title="exprtk::parser\&lt; T \&gt;\l::parser_state" alt="" coords="634,743,769,785"/>
+<area shape="rect" id="node33" href="$classexprtk_1_1parser_1_1settings__store.html" title="exprtk::parser\&lt; T \&gt;\l::settings_store" alt="" coords="634,809,769,850"/>
 </map>

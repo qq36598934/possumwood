@@ -59,6 +59,7 @@ var searchData=
   ['get_5fvector_5flist',['get_vector_list',['../classexprtk_1_1symbol__table.html#a7f073b570957dd868505e2f8a188a6a8',1,'exprtk::symbol_table']]],
   ['get_5fvector_5fname',['get_vector_name',['../classexprtk_1_1symbol__table.html#a329b02cdcff6320f0da0f66bb40de4b1',1,'exprtk::symbol_table::get_vector_name()'],['../structexprtk_1_1parser_1_1symtab__store.html#ac40521414c258592f23f9856dec60db0',1,'exprtk::parser::symtab_store::get_vector_name()']]],
   ['getdata',['getData',['../classdependency__graph_1_1Port.html#af1be48ff93798e9181b8fe692095da4c',1,'dependency_graph::Port']]],
+  ['getdrawable',['getDrawable',['../classpossumwood_1_1Metadata.html#a4bb668a2a4059ce05ddd651b25321f01',1,'possumwood::Metadata']]],
   ['getid',['getId',['../classdependency__graph_1_1Connections.html#ade0e4992880bc0f281449e828e7121d0',1,'dependency_graph::Connections']]],
   ['getline',['getline',['../structexprtk_1_1rtl_1_1io_1_1file_1_1details_1_1file__descriptor.html#a0bc8b26bf04fe141a9c71020d9493431',1,'exprtk::rtl::io::file::details::file_descriptor::getline()'],['../classexprtk_1_1rtl_1_1io_1_1file_1_1getline.html#ab75365b09818004bf5f2d84a26558c26',1,'exprtk::rtl::io::file::getline::getline()']]],
   ['getoutput',['getOutput',['../classdependency__graph_1_1Node.html#a0269561f815ee85e9ad199b4368f0a63',1,'dependency_graph::Node']]],
@@ -72,7 +73,7 @@ var searchData=
   ['gotopath',['goToPath',['../classPathWidget.html#a5a901f2b6e110891ce480b4a205226ba',1,'PathWidget']]],
   ['graph',['graph',['../classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc',1,'Adaptor::graph()'],['../classpossumwood_1_1AppCore.html#a2083d8216a119f347e238c3b19286d13',1,'possumwood::AppCore::graph()'],['../classdependency__graph_1_1NodeBase.html#a8f76870efe49f0a9d43d9f6c65771335',1,'dependency_graph::NodeBase::graph() const '],['../classdependency__graph_1_1NodeBase.html#a8d000a810c35806069f67f9825e43c3e',1,'dependency_graph::NodeBase::graph()'],['../classdependency__graph_1_1Graph.html#a098a4f75243e716b7329a887f57d3dd4',1,'dependency_graph::Graph::Graph()']]],
   ['graphscene',['GraphScene',['../classnode__editor_1_1GraphScene.html#a9f4618283fb8c5f76003e62b997f3592',1,'node_editor::GraphScene']]],
-  ['graphwidget',['graphWidget',['../classAdaptor.html#abe4df5967289b4474e2363326f90bfad',1,'Adaptor::graphWidget()'],['../classnode__editor_1_1GraphWidget.html#addc5ea0d08f7443334e989f9119c42e0',1,'node_editor::GraphWidget::GraphWidget()']]],
+  ['graphwidget',['GraphWidget',['../classnode__editor_1_1GraphWidget.html#addc5ea0d08f7443334e989f9119c42e0',1,'node_editor::GraphWidget::GraphWidget()'],['../classAdaptor.html#abe4df5967289b4474e2363326f90bfad',1,'Adaptor::graphWidget()']]],
   ['grid',['Grid',['../classpossumwood_1_1Grid.html#ac5503086b727a591ad8bc963d5dbf0d2',1,'possumwood::Grid']]],
   ['group',['group',['../classpossumwood_1_1Config_1_1Item.html#a8c08c01e7c9fb25e3a65207225c1237d',1,'possumwood::Config::Item']]]
 ];
