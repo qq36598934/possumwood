@@ -3,7 +3,6 @@ var searchData=
   ['open',['open',['../classexprtk_1_1rtl_1_1io_1_1file_1_1open.html',1,'exprtk::rtl::io::file']]],
   ['operator_5fjoiner',['operator_joiner',['../classexprtk_1_1lexer_1_1helper_1_1operator__joiner.html',1,'exprtk::lexer::helper']]],
   ['options',['Options',['../classanim_1_1SubsetSelection_1_1Options.html',1,'anim::SubsetSelection']]],
-  ['options',['Options',['../classOptions.html',1,'']]],
   ['or_5fop',['or_op',['../structexprtk_1_1details_1_1or__op.html',1,'exprtk::details']]],
   ['other_5ferror',['other_error',['../classpossumwood_1_1io_1_1detail_1_1other__error.html',1,'possumwood::io::detail']]],
   ['out_5fof_5frange',['out_of_range',['../classpossumwood_1_1io_1_1detail_1_1out__of__range.html',1,'possumwood::io::detail']]],

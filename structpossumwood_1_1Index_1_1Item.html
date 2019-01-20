@@ -142,8 +142,8 @@ Collaboration diagram for possumwood::Index::Item:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa0e82b68a4f02f50f64530338a222095"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Index_1_1Item.html#aa0e82b68a4f02f50f64530338a222095">Item</a> (<a class="el" href="classdependency__graph_1_1NodeBase.html">dependency_graph::NodeBase</a> *gr, <a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a> *en)</td></tr>
-<tr class="separator:aa0e82b68a4f02f50f64530338a222095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a243a286c3b84a59b9107a00fd6571aa3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Index_1_1Item.html#a243a286c3b84a59b9107a00fd6571aa3">Item</a> (<a class="el" href="classdependency__graph_1_1NodeBase.html">dependency_graph::NodeBase</a> *gr, <a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a> *en, std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Drawable.html">possumwood::Drawable</a> &gt; &amp;&amp;dr)</td></tr>
+<tr class="separator:a243a286c3b84a59b9107a00fd6571aa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae34a46af8c71542faff35788eb0692aa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Index_1_1Item.html#ae34a46af8c71542faff35788eb0692aa">Item</a> (<a class="el" href="structpossumwood_1_1Index_1_1Item.html">Item</a> &amp;&amp;i)</td></tr>
 <tr class="separator:ae34a46af8c71542faff35788eb0692aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -153,9 +153,11 @@ Public Attributes</h2></td></tr>
 <tr class="separator:acacad33890626cf4e1439d21a7256395"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a583fc447a9cc1ebdb7001fae175fb010"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Index_1_1Item.html#a583fc447a9cc1ebdb7001fae175fb010">editorNode</a></td></tr>
 <tr class="separator:a583fc447a9cc1ebdb7001fae175fb010"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab13a829d60082299708a33ae5776ff83"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Drawable.html">possumwood::Drawable</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Index_1_1Item.html#ab13a829d60082299708a33ae5776ff83">drawable</a></td></tr>
+<tr class="separator:ab13a829d60082299708a33ae5776ff83"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="aa0e82b68a4f02f50f64530338a222095"></a>
+<a class="anchor" id="a243a286c3b84a59b9107a00fd6571aa3"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -172,7 +174,13 @@ Public Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="classnode__editor_1_1Node.html">node_editor::Node</a> *&#160;</td>
-          <td class="paramname"><em>en</em>&#160;</td>
+          <td class="paramname"><em>en</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1Drawable.html">possumwood::Drawable</a> &gt; &amp;&amp;&#160;</td>
+          <td class="paramname"><em>dr</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -214,6 +222,18 @@ Public Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="ab13a829d60082299708a33ae5776ff83"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="classpossumwood_1_1Drawable.html">possumwood::Drawable</a>&gt; possumwood::Index::Item::drawable</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a583fc447a9cc1ebdb7001fae175fb010"></a>
 <div class="memitem">
 <div class="memproto">
@@ -247,7 +267,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1Index.html">Index</a></li><li class="navelem"><a class="el" href="structpossumwood_1_1Index_1_1Item.html">Item</a></li>
-    <li class="footer">Generated on Sun Jan 20 2019 21:29:15 for possumwood by
+    <li class="footer">Generated on Sun Jan 20 2019 21:51:22 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

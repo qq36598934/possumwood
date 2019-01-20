@@ -7,7 +7,6 @@ var searchData=
   ['real_5ftype_5ftag',['real_type_tag',['../structexprtk_1_1details_1_1numeric_1_1details_1_1real__type__tag.html',1,'exprtk::details::numeric::details']]],
   ['rebasevector_5fcelem_5fnode',['rebasevector_celem_node',['../classexprtk_1_1details_1_1rebasevector__celem__node.html',1,'exprtk::details']]],
   ['rebasevector_5felem_5fnode',['rebasevector_elem_node',['../classexprtk_1_1details_1_1rebasevector__elem__node.html',1,'exprtk::details']]],
-  ['rendercontext',['RenderContext',['../classRenderContext.html',1,'']]],
   ['repeat_5funtil_5floop_5fbc_5fnode',['repeat_until_loop_bc_node',['../classexprtk_1_1details_1_1repeat__until__loop__bc__node.html',1,'exprtk::details']]],
   ['repeat_5funtil_5floop_5fnode',['repeat_until_loop_node',['../classexprtk_1_1details_1_1repeat__until__loop__node.html',1,'exprtk::details']]],
   ['results_5fcontext',['results_context',['../classexprtk_1_1results__context.html',1,'exprtk']]],

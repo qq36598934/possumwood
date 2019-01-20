@@ -170,9 +170,6 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a1a1e596900394ba29908171bc8a7ba9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5579c16d1920f67e06aeff0f7e2b4ee1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1App.html#a5579c16d1920f67e06aeff0f7e2b4ee1">setMainWindow</a> (QMainWindow *win)</td></tr>
 <tr class="separator:a5579c16d1920f67e06aeff0f7e2b4ee1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a61ddfe569cc9ccc123dcc542729dbebc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1App.html#a61ddfe569cc9ccc123dcc542729dbebc">draw</a> (const <a class="el" href="classpossumwood_1_1ViewportState.html">possumwood::ViewportState</a> &amp;<a class="el" href="apps_2possumwood__cli_2main_8cpp.html#a747a1e5ba0309040295761a878c9d6f8">viewport</a>, std::function&lt; void(const <a class="el" href="classdependency__graph_1_1NodeBase.html">dependency_graph::NodeBase</a> &amp;)&gt; stateChangedCallback=std::function&lt; void(const <a class="el" href="classdependency__graph_1_1NodeBase.html">dependency_graph::NodeBase</a> &amp;)&gt;())</td></tr>
-<tr class="memdesc:a61ddfe569cc9ccc123dcc542729dbebc"><td class="mdescLeft">&#160;</td><td class="mdescRight">run OpenGL drawing, by iterating over all Node instances and calling any existing <a class="el" href="classpossumwood_1_1Drawable.html#a92c003459335e3288e10e55919e5e00d" title="calls draw() method, and processes the return state ">Drawable::doDraw()</a>  <a href="#a61ddfe569cc9ccc123dcc542729dbebc">More...</a><br /></td></tr>
-<tr class="separator:a61ddfe569cc9ccc123dcc542729dbebc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5cc801ff7d0e1965c38f39c151837757"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1App.html#a5cc801ff7d0e1965c38f39c151837757">setTime</a> (float <a class="el" href="classpossumwood_1_1App.html#a7ff751aaea895362cdf71e4bd3053d08">time</a>)</td></tr>
 <tr class="separator:a5cc801ff7d0e1965c38f39c151837757"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7ff751aaea895362cdf71e4bd3053d08"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1App.html#a7ff751aaea895362cdf71e4bd3053d08">time</a> () const </td></tr>
@@ -257,34 +254,6 @@ Static Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="a61ddfe569cc9ccc123dcc542729dbebc"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void possumwood::App::draw </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="classpossumwood_1_1ViewportState.html">possumwood::ViewportState</a> &amp;&#160;</td>
-          <td class="paramname"><em>viewport</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::function&lt; void(const <a class="el" href="classdependency__graph_1_1NodeBase.html">dependency_graph::NodeBase</a> &amp;)&gt;&#160;</td>
-          <td class="paramname"><em>stateChangedCallback</em> = <code>std::function&lt;void(const&#160;<a class="el" href="classdependency__graph_1_1NodeBase.html">dependency_graph::NodeBase</a>&amp;)&gt;()</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>run OpenGL drawing, by iterating over all Node instances and calling any existing <a class="el" href="classpossumwood_1_1Drawable.html#a92c003459335e3288e10e55919e5e00d" title="calls draw() method, and processes the return state ">Drawable::doDraw()</a> </p>
-
-</div>
-</div>
 <a class="anchor" id="ad77a098b59c71a7946c0fa726dd8bbd1"></a>
 <div class="memitem">
 <div class="memproto">
@@ -703,7 +672,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1App.html">App</a></li>
-    <li class="footer">Generated on Sun Jan 20 2019 21:29:15 for possumwood by
+    <li class="footer">Generated on Sun Jan 20 2019 21:51:22 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

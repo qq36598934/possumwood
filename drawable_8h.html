@@ -112,25 +112,24 @@ $(document).ready(function(){initNavTree('drawable_8h.html','');});
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &lt;boost/noncopyable.hpp&gt;</code><br />
+<code>#include &lt;ImathMatrix.h&gt;</code><br />
 <code>#include &lt;<a class="el" href="dependency__graph_2values_8h_source.html">dependency_graph/values.h</a>&gt;</code><br />
 <code>#include &lt;<a class="el" href="state_8h_source.html">dependency_graph/state.h</a>&gt;</code><br />
-<code>#include &quot;<a class="el" href="viewport__state_8h_source.html">viewport_state.h</a>&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for drawable.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="drawable_8h__incl.png" border="0" usemap="#src_2libs_2possumwood__sdk_2drawable_8h" alt=""/></div>
 <map name="src_2libs_2possumwood__sdk_2drawable_8h" id="src_2libs_2possumwood__sdk_2drawable_8h">
-<area shape="rect" id="node3" href="dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="1728,95,1912,121"/>
-<area shape="rect" id="node14" href="state_8h.html" title="state.h" alt="" coords="257,475,319,502"/>
-<area shape="rect" id="node29" href="viewport__state_8h.html" title="viewport_state.h" alt="" coords="1987,95,2106,121"/>
-<area shape="rect" id="node4" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1588,169,1649,196"/>
-<area shape="rect" id="node8" href="node__base_8h.html" title="node_base.h" alt="" coords="435,244,531,271"/>
-<area shape="rect" id="node19" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="678,393,765,420"/>
-<area shape="rect" id="node25" href="attr_8h.html" title="attr.h" alt="" coords="1657,475,1709,502"/>
-<area shape="rect" id="node28" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="1591,393,1646,420"/>
-<area shape="rect" id="node11" href="data_8h.html" title="data.h" alt="" coords="531,557,589,584"/>
-<area shape="rect" id="node17" href="unique__id_8h.html" title="unique_id.h" alt="" coords="144,475,232,502"/>
-<area shape="rect" id="node27" href="datablock_8h.html" title="datablock.h" alt="" coords="305,319,394,345"/>
+<area shape="rect" id="node4" href="dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="1664,95,1848,121"/>
+<area shape="rect" id="node15" href="state_8h.html" title="state.h" alt="" coords="243,475,306,502"/>
+<area shape="rect" id="node5" href="dependency__graph_2node_8h.html" title="node.h" alt="" coords="1625,169,1687,196"/>
+<area shape="rect" id="node9" href="node__base_8h.html" title="node_base.h" alt="" coords="379,244,475,271"/>
+<area shape="rect" id="node20" href="dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="730,393,817,420"/>
+<area shape="rect" id="node26" href="attr_8h.html" title="attr.h" alt="" coords="1694,475,1746,502"/>
+<area shape="rect" id="node29" href="dependency__graph_2port_8h.html" title="port.h" alt="" coords="1629,393,1683,420"/>
+<area shape="rect" id="node12" href="data_8h.html" title="data.h" alt="" coords="1488,557,1547,584"/>
+<area shape="rect" id="node18" href="unique__id_8h.html" title="unique_id.h" alt="" coords="144,319,232,345"/>
+<area shape="rect" id="node28" href="datablock_8h.html" title="datablock.h" alt="" coords="382,319,471,345"/>
 </map>
 </div>
 </div><div class="textblock"><div class="dynheader">
@@ -138,55 +137,55 @@ This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="drawable_8h__dep__incl.png" border="0" usemap="#src_2libs_2possumwood__sdk_2drawable_8hdep" alt=""/></div>
 <map name="src_2libs_2possumwood__sdk_2drawable_8hdep" id="src_2libs_2possumwood__sdk_2drawable_8hdep">
-<area shape="rect" id="node2" href="adaptor_8h.html" title="src/apps/possumwood\l/adaptor.h" alt="" coords="235,184,388,225"/>
-<area shape="rect" id="node9" href="drawable_8cpp.html" title="src/libs/possumwood\l_sdk/drawable.cpp" alt="" coords="451,95,596,136"/>
-<area shape="rect" id="node10" href="index_8h.html" title="src/libs/possumwood\l_sdk/index.h" alt="" coords="620,95,765,136"/>
-<area shape="rect" id="node12" href="possumwood__sdk_2metadata_8h.html" title="src/libs/possumwood\l_sdk/metadata.h" alt="" coords="805,95,951,136"/>
-<area shape="rect" id="node39" href="datatypes_2uniforms_8h.html" title="src/plugins/render\l/datatypes/uniforms.h" alt="" coords="3432,184,3580,225"/>
-<area shape="rect" id="node46" href="vertex__data_8h.html" title="src/plugins/render\l/datatypes/vertex_data.h" alt="" coords="3933,184,4100,225"/>
-<area shape="rect" id="node3" href="adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="561,273,715,315"/>
-<area shape="rect" id="node4" href="apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="41,363,195,404"/>
-<area shape="rect" id="node5" href="main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="235,273,388,315"/>
-<area shape="rect" id="node6" href="main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="396,363,549,404"/>
+<area shape="rect" id="node2" href="adaptor_8h.html" title="src/apps/possumwood\l/adaptor.h" alt="" coords="285,184,439,225"/>
+<area shape="rect" id="node9" href="index_8h.html" title="src/libs/possumwood\l_sdk/index.h" alt="" coords="480,95,625,136"/>
+<area shape="rect" id="node42" href="drawable_8cpp.html" title="src/libs/possumwood\l_sdk/drawable.cpp" alt="" coords="649,95,795,136"/>
+<area shape="rect" id="node43" href="possumwood__sdk_2metadata_8h.html" title="src/libs/possumwood\l_sdk/metadata.h" alt="" coords="819,95,964,136"/>
+<area shape="rect" id="node46" href="datatypes_2uniforms_8h.html" title="src/plugins/render\l/datatypes/uniforms.h" alt="" coords="5029,95,5177,136"/>
+<area shape="rect" id="node49" href="vertex__data_8h.html" title="src/plugins/render\l/datatypes/vertex_data.h" alt="" coords="5608,95,5775,136"/>
+<area shape="rect" id="node3" href="adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="285,273,439,315"/>
+<area shape="rect" id="node4" href="apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="400,363,553,404"/>
+<area shape="rect" id="node5" href="main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="515,273,668,315"/>
+<area shape="rect" id="node6" href="main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="604,363,757,404"/>
 <area shape="rect" id="node8" href="tree__widget_8cpp.html" title="src/apps/possumwood\l/tree_widget.cpp" alt="" coords="5,273,159,315"/>
-<area shape="rect" id="node7" href="toolbar_8cpp.html" title="src/apps/possumwood\l/toolbar.cpp" alt="" coords="219,363,372,404"/>
-<area shape="rect" id="node11" href="index_8cpp.html" title="src/libs/possumwood\l_sdk/index.cpp" alt="" coords="412,184,557,225"/>
-<area shape="rect" id="node13" href="render__context_8cpp.html" title="src/apps/possumwood\l_cli/render_context.cpp" alt="" coords="1142,184,1299,225"/>
-<area shape="rect" id="node14" href="possumwood__sdk_2app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="581,184,727,225"/>
-<area shape="rect" id="node15" href="libs_2possumwood__sdk_2metadata_8cpp.html" title="src/libs/possumwood\l_sdk/metadata.cpp" alt="" coords="751,184,896,225"/>
-<area shape="rect" id="node16" href="possumwood__sdk_2metadata_8inl.html" title="src/libs/possumwood\l_sdk/metadata.inl" alt="" coords="972,184,1117,225"/>
-<area shape="rect" id="node17" href="node__implementation_8h.html" title="src/libs/possumwood\l_sdk/node_implementation.h" alt="" coords="2380,273,2568,315"/>
-<area shape="rect" id="node25" href="frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="573,363,729,404"/>
-<area shape="rect" id="node18" href="node__implementation_8cpp.html" title="src/libs/possumwood\l_sdk/node_implementation.cpp" alt="" coords="1474,363,1677,404"/>
-<area shape="rect" id="node19" href="input_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/input.cpp" alt="" coords="1701,363,1847,404"/>
-<area shape="rect" id="node20" href="output_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/output.cpp" alt="" coords="1871,363,2026,404"/>
-<area shape="rect" id="node21" href="time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="753,363,899,404"/>
-<area shape="rect" id="node22" href="periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="923,363,1079,404"/>
-<area shape="rect" id="node23" href="retime_8cpp.html" title="src/plugins/anim/nodes\l/animation/retime.cpp" alt="" coords="1103,363,1259,404"/>
-<area shape="rect" id="node24" href="plugins_2anim_2nodes_2animation_2transform_8cpp.html" title="src/plugins/anim/nodes\l/animation/transform.cpp" alt="" coords="1283,363,1449,404"/>
-<area shape="rect" id="node26" href="polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="3719,363,3877,404"/>
-<area shape="rect" id="node27" href="draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="4771,363,4897,404"/>
-<area shape="rect" id="node28" href="float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="2688,363,2857,404"/>
-<area shape="rect" id="node29" href="uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="2881,363,3059,404"/>
-<area shape="rect" id="node30" href="nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="3083,363,3267,404"/>
-<area shape="rect" id="node31" href="plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="2049,363,2248,404"/>
-<area shape="rect" id="node32" href="unsigned_8cpp.html" title="src/plugins/render\l/nodes/uniforms/unsigned.cpp" alt="" coords="2272,363,2468,404"/>
-<area shape="rect" id="node33" href="render_2nodes_2uniforms_2vec3_8cpp.html" title="src/plugins/render\l/nodes/uniforms/vec3.cpp" alt="" coords="2492,363,2664,404"/>
-<area shape="rect" id="node34" href="plugins_2render_2nodes_2uniforms_2viewport_8cpp.html" title="src/plugins/render\l/nodes/uniforms/viewport.cpp" alt="" coords="4367,363,4560,404"/>
-<area shape="rect" id="node35" href="background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="3902,363,4131,404"/>
-<area shape="rect" id="node36" href="render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="4155,363,4342,404"/>
-<area shape="rect" id="node37" href="vertex__data_2frame_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/frame.cpp" alt="" coords="3291,363,3486,404"/>
-<area shape="rect" id="node38" href="text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="3510,363,3694,404"/>
-<area shape="rect" id="node40" href="uniforms_8inl.html" title="src/plugins/render\l/datatypes/uniforms.inl" alt="" coords="3098,273,3253,315"/>
-<area shape="rect" id="node43" href="ui_2uniforms_8h.html" title="src/plugins/render\l/ui/uniforms.h" alt="" coords="5003,273,5129,315"/>
-<area shape="rect" id="node45" href="uniforms_8h.html" title="src/plugins/render\l/uniforms.h" alt="" coords="4491,273,4617,315"/>
-<area shape="rect" id="node41" href="datatypes_2uniforms_8cpp.html" title="src/plugins/render\l/datatypes/uniforms.cpp" alt="" coords="4585,363,4747,404"/>
-<area shape="rect" id="node42" href="uniforms_8cpp.html" title="src/plugins/render\l/uniforms.cpp" alt="" coords="4921,363,5046,404"/>
-<area shape="rect" id="node44" href="ui_2uniforms_8cpp.html" title="src/plugins/render\l/ui/uniforms.cpp" alt="" coords="5275,363,5401,404"/>
-<area shape="rect" id="node47" href="vertex__data_8inl.html" title="src/plugins/render\l/datatypes/vertex_data.inl" alt="" coords="3931,273,4103,315"/>
-<area shape="rect" id="node49" href="ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="5334,273,5459,315"/>
-<area shape="rect" id="node48" href="render_2datatypes_2vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="5071,363,5251,404"/>
-<area shape="rect" id="node50" href="ui_2vbo_8cpp.html" title="src/plugins/render\l/ui/vbo.cpp" alt="" coords="5425,363,5550,404"/>
+<area shape="rect" id="node7" href="toolbar_8cpp.html" title="src/apps/possumwood\l/toolbar.cpp" alt="" coords="2709,363,2863,404"/>
+<area shape="rect" id="node10" href="possumwood__sdk_2app_8h.html" title="src/libs/possumwood\l_sdk/app.h" alt="" coords="2761,184,2907,225"/>
+<area shape="rect" id="node41" href="index_8cpp.html" title="src/libs/possumwood\l_sdk/index.cpp" alt="" coords="480,184,625,225"/>
+<area shape="rect" id="node11" href="path__widget_8cpp.html" title="src/apps/possumwood\l/path_widget.cpp" alt="" coords="976,273,1129,315"/>
+<area shape="rect" id="node12" href="timeline__widget_8cpp.html" title="src/apps/possumwood\l/timeline_widget.cpp" alt="" coords="1153,273,1307,315"/>
+<area shape="rect" id="node13" href="possumwood__sdk_2app_8cpp.html" title="src/libs/possumwood\l_sdk/app.cpp" alt="" coords="1331,273,1476,315"/>
+<area shape="rect" id="node14" href="datatypes_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/datatypes/filename.cpp" alt="" coords="1501,273,1690,315"/>
+<area shape="rect" id="node15" href="input_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/input.cpp" alt="" coords="1714,273,1861,315"/>
+<area shape="rect" id="node16" href="output_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/output.cpp" alt="" coords="1885,273,2039,315"/>
+<area shape="rect" id="node17" href="time_8cpp.html" title="src/libs/possumwood\l_sdk/nodes/time.cpp" alt="" coords="2064,273,2209,315"/>
+<area shape="rect" id="node18" href="libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="3561,273,3734,315"/>
+<area shape="rect" id="node21" href="ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="2233,273,2379,315"/>
+<area shape="rect" id="node22" href="string_8cpp.html" title="src/libs/possumwood\l_sdk/ui/string.cpp" alt="" coords="2403,273,2548,315"/>
+<area shape="rect" id="node23" href="periodic_8cpp.html" title="src/plugins/anim/nodes\l/animation/periodic.cpp" alt="" coords="2572,273,2728,315"/>
+<area shape="rect" id="node24" href="transition_8cpp.html" title="src/plugins/anim/nodes\l/animation/transition.cpp" alt="" coords="2752,273,2916,315"/>
+<area shape="rect" id="node25" href="frame_2display_8cpp.html" title="src/plugins/anim/nodes\l/frame/display.cpp" alt="" coords="744,273,900,315"/>
+<area shape="rect" id="node26" href="from__animation_8cpp.html" title="src/plugins/anim/nodes\l/frame/from_animation.cpp" alt="" coords="2940,273,3117,315"/>
+<area shape="rect" id="node27" href="mesh_2display_8cpp.html" title="src/plugins/anim/nodes\l/mesh/display.cpp" alt="" coords="3141,273,3297,315"/>
+<area shape="rect" id="node28" href="cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="3321,273,3485,315"/>
+<area shape="rect" id="node29" href="polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="5393,273,5552,315"/>
+<area shape="rect" id="node30" href="datatypes_2uniforms_8cpp.html" title="src/plugins/render\l/datatypes/uniforms.cpp" alt="" coords="4809,273,4971,315"/>
+<area shape="rect" id="node31" href="render_2datatypes_2vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="5189,273,5369,315"/>
+<area shape="rect" id="node32" href="draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="6041,273,6166,315"/>
+<area shape="rect" id="node33" href="float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="4996,273,5165,315"/>
+<area shape="rect" id="node34" href="uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="3759,273,3936,315"/>
+<area shape="rect" id="node35" href="nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="3961,273,4145,315"/>
+<area shape="rect" id="node36" href="plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="4169,273,4368,315"/>
+<area shape="rect" id="node37" href="unsigned_8cpp.html" title="src/plugins/render\l/nodes/uniforms/unsigned.cpp" alt="" coords="4392,273,4588,315"/>
+<area shape="rect" id="node38" href="render_2nodes_2uniforms_2vec3_8cpp.html" title="src/plugins/render\l/nodes/uniforms/vec3.cpp" alt="" coords="4612,273,4784,315"/>
+<area shape="rect" id="node39" href="background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="5577,273,5806,315"/>
+<area shape="rect" id="node40" href="render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="5830,273,6017,315"/>
+<area shape="rect" id="node19" href="ui_2uniforms_8h.html" title="src/plugins/render\l/ui/uniforms.h" alt="" coords="4199,363,4325,404"/>
+<area shape="rect" id="node20" href="ui_2vbo_8h.html" title="src/plugins/render\l/ui/vbo.h" alt="" coords="5577,363,5702,404"/>
+<area shape="rect" id="node44" href="libs_2possumwood__sdk_2metadata_8cpp.html" title="src/libs/possumwood\l_sdk/metadata.cpp" alt="" coords="2931,184,3076,225"/>
+<area shape="rect" id="node45" href="possumwood__sdk_2metadata_8inl.html" title="src/libs/possumwood\l_sdk/metadata.inl" alt="" coords="749,184,895,225"/>
+<area shape="rect" id="node47" href="uniforms_8inl.html" title="src/plugins/render\l/datatypes/uniforms.inl" alt="" coords="4621,184,4775,225"/>
+<area shape="rect" id="node48" href="uniforms_8h.html" title="src/plugins/render\l/uniforms.h" alt="" coords="5922,184,6047,225"/>
+<area shape="rect" id="node50" href="vertex__data_8inl.html" title="src/plugins/render\l/datatypes/vertex_data.inl" alt="" coords="5605,184,5777,225"/>
 </map>
 </div>
 </div>
@@ -195,6 +194,8 @@ This graph shows which files directly or indirectly include this file:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1Drawable.html">possumwood::Drawable</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Drawable_1_1ViewportState.html">possumwood::Drawable::ViewportState</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1DrawableFunctor.html">possumwood::DrawableFunctor</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -210,7 +211,7 @@ Namespaces</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_bbeb1387f6037c41dcaa5423e7174c79.html">possumwood_sdk</a></li><li class="navelem"><a class="el" href="drawable_8h.html">drawable.h</a></li>
-    <li class="footer">Generated on Sun Jan 20 2019 21:29:12 for possumwood by
+    <li class="footer">Generated on Sun Jan 20 2019 21:51:19 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

@@ -22,7 +22,6 @@ var searchData=
   ['expression_5fgenerator_3c_20t_20_3e',['expression_generator&lt; T &gt;',['../classexprtk_1_1parser_1_1expression__generator.html',1,'exprtk::parser']]],
   ['expression_5fhelper',['expression_helper',['../classexprtk_1_1expression__helper.html',1,'exprtk']]],
   ['expression_5fnode',['expression_node',['../classexprtk_1_1details_1_1expression__node.html',1,'exprtk::details']]],
-  ['expressionexpansion',['ExpressionExpansion',['../classExpressionExpansion.html',1,'']]],
   ['exprsymbols',['ExprSymbols',['../classpossumwood_1_1ExprSymbols.html',1,'possumwood']]],
   ['external_5fconstructor',['external_constructor',['../structpossumwood_1_1io_1_1detail_1_1external__constructor.html',1,'possumwood::io::detail']]],
   ['external_5fconstructor_3c_20value_5ft_3a_3aarray_20_3e',['external_constructor&lt; value_t::array &gt;',['../structpossumwood_1_1io_1_1detail_1_1external__constructor_3_01value__t_1_1array_01_4.html',1,'possumwood::io::detail']]],

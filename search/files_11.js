@@ -23,8 +23,6 @@ var searchData=
   ['skinning_2eh',['skinning.h',['../skinning_8h.html',1,'']]],
   ['source_5feditor_2ecpp',['source_editor.cpp',['../source__editor_8cpp.html',1,'']]],
   ['source_5feditor_2eh',['source_editor.h',['../source__editor_8h.html',1,'']]],
-  ['stack_2ecpp',['stack.cpp',['../stack_8cpp.html',1,'']]],
-  ['stack_2eh',['stack.h',['../stack_8h.html',1,'']]],
   ['state_2ecpp',['state.cpp',['../state_8cpp.html',1,'']]],
   ['state_2eh',['state.h',['../state_8h.html',1,'']]],
   ['stitch_5fborders_2ecpp',['stitch_borders.cpp',['../stitch__borders_8cpp.html',1,'']]],

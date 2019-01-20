@@ -7,7 +7,7 @@ var classAdaptor =
     [ "currentNetworkChanged", "classAdaptor.html#a407b160a5fd8fb0d1403cbe6b9f984fa", null ],
     [ "cutAction", "classAdaptor.html#a4bf7a9924627ec4a1bef89225cc1c65c", null ],
     [ "deleteAction", "classAdaptor.html#a3be49c5f800955d29f8af4936c851052", null ],
-    [ "draw", "classAdaptor.html#ad249445938a48a061efff21471706a2f", null ],
+    [ "draw", "classAdaptor.html#a599da4cdc70793552e7961acf0fdf98a", null ],
     [ "graph", "classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc", null ],
     [ "graphWidget", "classAdaptor.html#abe4df5967289b4474e2363326f90bfad", null ],
     [ "index", "classAdaptor.html#a2cac1e61dbcfd0020a557b4ff9975195", null ],

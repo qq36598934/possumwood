@@ -21,6 +21,7 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
     [ "drawable.cpp", "drawable_8cpp.html", null ],
     [ "drawable.h", "drawable_8h.html", [
       [ "Drawable", "classpossumwood_1_1Drawable.html", "classpossumwood_1_1Drawable" ],
+      [ "ViewportState", "structpossumwood_1_1Drawable_1_1ViewportState.html", "structpossumwood_1_1Drawable_1_1ViewportState" ],
       [ "DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", "classpossumwood_1_1DrawableFunctor" ]
     ] ],
     [ "editor.cpp", "editor_8cpp.html", null ],
@@ -40,7 +41,7 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
       [ "Index", "classpossumwood_1_1Index.html", "classpossumwood_1_1Index" ],
       [ "Item", "structpossumwood_1_1Index_1_1Item.html", "structpossumwood_1_1Index_1_1Item" ]
     ] ],
-    [ "metadata.cpp", "libs_2possumwood__sdk_2metadata_8cpp.html", "libs_2possumwood__sdk_2metadata_8cpp" ],
+    [ "metadata.cpp", "libs_2possumwood__sdk_2metadata_8cpp.html", null ],
     [ "metadata.h", "possumwood__sdk_2metadata_8h.html", [
       [ "Metadata", "classpossumwood_1_1Metadata.html", "classpossumwood_1_1Metadata" ]
     ] ],
@@ -59,9 +60,5 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
     [ "source_editor.cpp", "source__editor_8cpp.html", null ],
     [ "source_editor.h", "source__editor_8h.html", [
       [ "SourceEditor", "classpossumwood_1_1SourceEditor.html", "classpossumwood_1_1SourceEditor" ]
-    ] ],
-    [ "viewport_state.cpp", "viewport__state_8cpp.html", null ],
-    [ "viewport_state.h", "viewport__state_8h.html", [
-      [ "ViewportState", "classpossumwood_1_1ViewportState.html", "classpossumwood_1_1ViewportState" ]
     ] ]
 ];

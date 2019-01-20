@@ -9,7 +9,5 @@ var searchData=
   ['enum_2eh',['enum.h',['../enum_8h.html',1,'']]],
   ['enum_5fui_2ecpp',['enum_ui.cpp',['../enum__ui_8cpp.html',1,'']]],
   ['enum_5fui_2eh',['enum_ui.h',['../enum__ui_8h.html',1,'']]],
-  ['expression_2ecpp',['expression.cpp',['../expression_8cpp.html',1,'']]],
-  ['expression_2eh',['expression.h',['../expression_8h.html',1,'']]],
   ['exprtk_2ehpp',['exprtk.hpp',['../exprtk_8hpp.html',1,'']]]
 ];

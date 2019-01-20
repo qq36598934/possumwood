@@ -2,7 +2,6 @@ var classpossumwood_1_1App =
 [
     [ "App", "classpossumwood_1_1App.html#a2d4adb833eab3df8ed98e7a724e0dde2", null ],
     [ "~App", "classpossumwood_1_1App.html#aba7ffc0bc1e3842f609220f5bf86a8b6", null ],
-    [ "draw", "classpossumwood_1_1App.html#a61ddfe569cc9ccc123dcc542729dbebc", null ],
     [ "expandPath", "classpossumwood_1_1App.html#ad77a098b59c71a7946c0fa726dd8bbd1", null ],
     [ "filename", "classpossumwood_1_1App.html#a654f75ca18687b310692afd7dfb1e5c9", null ],
     [ "instance", "classpossumwood_1_1App.html#a79de45776da6485465bf4d1b22507199", null ],

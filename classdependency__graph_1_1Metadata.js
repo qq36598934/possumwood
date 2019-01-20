@@ -9,7 +9,6 @@ var classdependency__graph_1_1Metadata =
     [ "addInfluence", "classdependency__graph_1_1Metadata.html#acee6b33ad418f0a6d55ef120dc8c5a80", null ],
     [ "attr", "classdependency__graph_1_1Metadata.html#af46bde317c89b4bf338ba50da24788bc", null ],
     [ "attributeCount", "classdependency__graph_1_1Metadata.html#a86541413ff413627f9d651ef2688a730", null ],
-    [ "createNode", "classdependency__graph_1_1Metadata.html#a70e0009046027f137ec9541b0da688f6", null ],
     [ "doAddAttribute", "classdependency__graph_1_1Metadata.html#a27286fe03ee97ab0e8a0cc1b4dbed88f", null ],
     [ "doAddAttribute", "classdependency__graph_1_1Metadata.html#a3cbb9b3a801e2a24506089181134b465", null ],
     [ "influencedBy", "classdependency__graph_1_1Metadata.html#ac7bc49b64f879791f9b3d14593f7062b", null ],
