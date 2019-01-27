@@ -34,7 +34,7 @@
 <area shape="rect" id="node23" href="$mesh__subset__editor_8cpp.html" title="src/plugins/anim/ui\l/mesh_subset_editor.cpp" alt="" coords="1491,363,1659,404"/>
 <area shape="rect" id="node25" href="$plugins_2anim_2ui_2skeleton_8cpp.html" title="src/plugins/anim/ui\l/skeleton.cpp" alt="" coords="1683,363,1814,404"/>
 <area shape="rect" id="node27" href="$meshes__ui_8cpp.html" title="src/plugins/cgal/ui\l/meshes_ui.cpp" alt="" coords="1839,363,1965,404"/>
-<area shape="rect" id="node29" href="$pixmap_8cpp.html" title="src/plugins/images\l/ui/pixmap.cpp" alt="" coords="1990,363,2121,404"/>
+<area shape="rect" id="node29" href="$ui_2pixmap_8cpp.html" title="src/plugins/images\l/ui/pixmap.cpp" alt="" coords="1990,363,2121,404"/>
 <area shape="rect" id="node31" href="$rgb_8cpp.html" title="src/plugins/images\l/ui/rgb.cpp" alt="" coords="2145,363,2275,404"/>
 <area shape="rect" id="node33" href="$bool_8cpp.html" title="src/plugins/maths/ui\l/bool.cpp" alt="" coords="2299,363,2438,404"/>
 <area shape="rect" id="node35" href="$float__ui_8cpp.html" title="src/plugins/maths/ui\l/float_ui.cpp" alt="" coords="2462,363,2601,404"/>

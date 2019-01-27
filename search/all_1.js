@@ -66,7 +66,7 @@ var searchData=
   ['addroot',['addRoot',['../classanim_1_1Hierarchy.html#aa1f3da4ba50bec326973a9465c72bb02',1,'anim::Hierarchy::addRoot()'],['../classanim_1_1Skeleton.html#ac3896dc11dcfcf1c2a3b03f076c395ee',1,'anim::Skeleton::addRoot()']]],
   ['addshader',['addShader',['../classpossumwood_1_1Program.html#a1aad04cce9dacec7fe2c5bee9895c5da',1,'possumwood::Program']]],
   ['addsingleitem',['addSingleItem',['../classpossumwood_1_1Properties.html#a8c4f7ffa4e89878189c16012951ef98a',1,'possumwood::Properties']]],
-  ['addtexture',['addTexture',['../classpossumwood_1_1Uniforms.html#a235587485e8bd0a0fce2f228c57a3482',1,'possumwood::Uniforms']]],
+  ['addtexture',['addTexture',['../classpossumwood_1_1Uniforms.html#ae383f4a2c1c22761f6c5fb784f709091',1,'possumwood::Uniforms']]],
   ['adduniform',['addUniform',['../classpossumwood_1_1Uniforms.html#a8ecde3c69dd09fd8ac924852affe4650',1,'possumwood::Uniforms']]],
   ['addvalue',['addValue',['../classpossumwood_1_1PropertyItem.html#a2a5607648fb9e9fc745cb6afbf2311d5',1,'possumwood::PropertyItem::addValue(const T &amp;value)'],['../classpossumwood_1_1PropertyItem.html#a14f81b54e4b3c5d6021fe7d447bf6f4b',1,'possumwood::PropertyItem::addValue(std::unique_ptr&lt; PropertyItem::ValueBase &gt; &amp;&amp;value)']]],
   ['addvariable',['addVariable',['../classExpressionExpansion.html#aafb0f83d34721be65e9d6de7040b9c3d',1,'ExpressionExpansion']]],
