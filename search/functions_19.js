@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['_7eaction',['~Action',['../classAction.html#abfc040fdc62410622a0e3835a713740f',1,'Action']]],
   ['_7eadaptor',['~Adaptor',['../classAdaptor.html#a0eeebc9aa62aa16d69a6be532fc8bc0d',1,'Adaptor']]],
   ['_7eapp',['~App',['../classpossumwood_1_1App.html#aba7ffc0bc1e3842f609220f5bf86a8b6',1,'possumwood::App']]],
   ['_7eappcore',['~AppCore',['../classpossumwood_1_1AppCore.html#a4548ce24dc112ca147a00a0c1cf7223e',1,'possumwood::AppCore']]],
@@ -82,6 +83,7 @@ var searchData=
   ['_7eoutput_5fadapter',['~output_adapter',['../classpossumwood_1_1io_1_1basic__json_1_1output__adapter.html#a2f3747d37e3864415d94f3d1ee145161',1,'possumwood::io::basic_json::output_adapter']]],
   ['_7eparser',['~parser',['../classexprtk_1_1parser.html#a8939fd8cd3febd93f37be7e0992a3e27',1,'exprtk::parser']]],
   ['_7epixmap',['~Pixmap',['../classPixmap.html#a63dead41297b5530e2eef3f064fc6a75',1,'Pixmap']]],
+  ['_7epluginsraii',['~PluginsRAII',['../classPluginsRAII.html#a16a85db5ba33c268030a6fcf257bcb72',1,'PluginsRAII']]],
   ['_7epolynomial',['~polynomial',['../classexprtk_1_1polynomial.html#af949d6cd6117164aabc68758dc996897',1,'exprtk::polynomial']]],
   ['_7eport',['~Port',['../classdependency__graph_1_1Port.html#a27757aed4a5548ca665685f391d5da49',1,'dependency_graph::Port']]],
   ['_7eprogram',['~Program',['../classpossumwood_1_1Program.html#ae59a2b98ddd5c80e6636f477d249de9c',1,'possumwood::Program']]],
@@ -92,6 +94,7 @@ var searchData=
   ['_7equaternary_5fnode',['~quaternary_node',['../classexprtk_1_1details_1_1quaternary__node.html#a5c9e756b755acf1476c737589448116f',1,'exprtk::details::quaternary_node']]],
   ['_7erange_5finterface',['~range_interface',['../classexprtk_1_1details_1_1range__interface.html#af6bda378d497f1e20b513b4d8f1a8dc5',1,'exprtk::details::range_interface']]],
   ['_7erebasevector_5felem_5fnode',['~rebasevector_elem_node',['../classexprtk_1_1details_1_1rebasevector__elem__node.html#a4b830e888247d2b48830ed1a084fe56c',1,'exprtk::details::rebasevector_elem_node']]],
+  ['_7erendercontext',['~RenderContext',['../classRenderContext.html#af37b6cf5a4e99e9865a76fcfcbe12ef5',1,'RenderContext']]],
   ['_7erepeat_5funtil_5floop_5fbc_5fnode',['~repeat_until_loop_bc_node',['../classexprtk_1_1details_1_1repeat__until__loop__bc__node.html#a5070dfefd1dca02f42ff42a64b064ddc',1,'exprtk::details::repeat_until_loop_bc_node']]],
   ['_7erepeat_5funtil_5floop_5fnode',['~repeat_until_loop_node',['../classexprtk_1_1details_1_1repeat__until__loop__node.html#ab643b78a6427cbd89afe630d091a3aaa',1,'exprtk::details::repeat_until_loop_node']]],
   ['_7ereturn_5fenvelope_5fnode',['~return_envelope_node',['../classexprtk_1_1details_1_1return__envelope__node.html#abdb53a6afa24591bd87df13a59fc3a4e',1,'exprtk::details::return_envelope_node']]],

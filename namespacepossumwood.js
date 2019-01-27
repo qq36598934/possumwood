@@ -102,5 +102,6 @@ var namespacepossumwood =
     [ "VBOTraits< std::vector< T > >", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4" ],
     [ "VertexData", "classpossumwood_1_1VertexData.html", "classpossumwood_1_1VertexData" ],
     [ "VertexExtractor", "structpossumwood_1_1VertexExtractor.html", "structpossumwood_1_1VertexExtractor" ],
-    [ "VertexShader", "classpossumwood_1_1VertexShader.html", "classpossumwood_1_1VertexShader" ]
+    [ "VertexShader", "classpossumwood_1_1VertexShader.html", "classpossumwood_1_1VertexShader" ],
+    [ "ViewportState", "classpossumwood_1_1ViewportState.html", "classpossumwood_1_1ViewportState" ]
 ];

@@ -24,7 +24,6 @@ var searchData=
   ['disabled_5ffunc_5fset_5f',['disabled_func_set_',['../classexprtk_1_1parser_1_1settings__store.html#aca06a60510d78d2f1d39a36dc10f53ec',1,'exprtk::parser::settings_store']]],
   ['disabled_5finequality_5fset_5f',['disabled_inequality_set_',['../classexprtk_1_1parser_1_1settings__store.html#a6ce64c08a9208e109cff7ebf01de8b6b',1,'exprtk::parser::settings_store']]],
   ['disabled_5flogic_5fset_5f',['disabled_logic_set_',['../classexprtk_1_1parser_1_1settings__store.html#a9d0d6c643c3b390d5d95c80f976ab56d',1,'exprtk::parser::settings_store']]],
-  ['drawable',['drawable',['../structpossumwood_1_1Index_1_1Item.html#ab13a829d60082299708a33ae5776ff83',1,'possumwood::Index::Item']]],
   ['dt',['dt',['../structexprtk_1_1rtl_1_1vecops_1_1package.html#a32d443f4d9e0b293083878178c79d0cc',1,'exprtk::rtl::vecops::package']]],
   ['dtk',['dtk',['../structexprtk_1_1rtl_1_1vecops_1_1package.html#a24c6f1eb6398327eecf9184fd20f5c9d',1,'exprtk::rtl::vecops::package']]]
 ];
