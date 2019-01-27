@@ -1,5 +1,8 @@
 var NAVTREEINDEX36 =
 {
+"structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html#a83241a503535d26c51a0bc5ce27b9c16":[2,0,5,34,0],
+"structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html":[2,0,5,35],
+"structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html#a3cc9eb6a925aa7aee2a61ec08cf82920":[2,0,5,35,0],
 "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html#a3e584968d7de02ea99192b4c2524883b":[2,0,5,35,1],
 "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html#abdc1d1d100035d25dcdd9933419ce801":[2,0,5,35,3],
 "structpossumwood_1_1GLSLTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html#ad704626b3a6cc9d6257f8b49610db50a":[2,0,5,35,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX36 =
 "structpossumwood_1_1polymesh_1_1ArrayBase.html#a50d3b2b16a7ebb8d40494e21382ccb8b":[2,0,5,2,1,4],
 "structpossumwood_1_1polymesh_1_1ArrayBase.html#a6346cd87d1f63d67ec2d162e8c75e005":[2,0,5,2,1,0],
 "structpossumwood_1_1polymesh_1_1ArrayBase.html#a67365915e5909aabfb62dfbd82659c17":[2,0,5,2,1,8],
-"structpossumwood_1_1polymesh_1_1ArrayBase.html#abd82dc34cb4092cc3abf026aeeceaf1c":[2,0,5,2,1,2],
-"structpossumwood_1_1polymesh_1_1ArrayBase.html#ad227bd6477cd9938a43dfae3403d7531":[2,0,5,2,1,7],
-"structpossumwood_1_1polymesh_1_1ArrayBase.html#ae03f4f39b5617c88fd606eaa49ba20cc":[2,0,5,2,1,6],
-"structpossumwood_1_1polymesh_1_1GenericBase_1_1Handles_1_1Compare.html":[2,0,5,2,2,1,0]
+"structpossumwood_1_1polymesh_1_1ArrayBase.html#abd82dc34cb4092cc3abf026aeeceaf1c":[2,0,5,2,1,2]
 };

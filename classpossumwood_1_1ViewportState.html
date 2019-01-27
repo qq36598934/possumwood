@@ -121,7 +121,7 @@ $(document).ready(function(){initNavTree('classpossumwood_1_1ViewportState.html'
 Public Member Functions</h2></td></tr>
 <tr class="memitem:aea0e09545a94c178f32042989cc61038"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#aea0e09545a94c178f32042989cc61038">ViewportState</a> ()</td></tr>
 <tr class="separator:aea0e09545a94c178f32042989cc61038"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a70fb9066450ed07594bfc90c33277865"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#a70fb9066450ed07594bfc90c33277865">perspective</a> (float fovyInDegrees, float znear, float zfar)</td></tr>
+<tr class="memitem:a70fb9066450ed07594bfc90c33277865"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#a70fb9066450ed07594bfc90c33277865">perspective</a> (float fovyInDegrees, float <a class="el" href="classpossumwood_1_1ViewportState.html#a11974f510d0acb7a92c42e62eea9f82a">znear</a>, float <a class="el" href="classpossumwood_1_1ViewportState.html#a84720e04476caf50b140f780d63a766c">zfar</a>)</td></tr>
 <tr class="separator:a70fb9066450ed07594bfc90c33277865"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa73fd5031da5bf8b66d77a4d3a21c9cb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#aa73fd5031da5bf8b66d77a4d3a21c9cb">lookAt</a> (const Imath::V3f &amp;<a class="el" href="classpossumwood_1_1ViewportState.html#ad8c644d615db2b2da0a90343380b1b27">eyePosition</a>, const Imath::V3f &amp;lookAt, const Imath::V3f &amp;<a class="el" href="classpossumwood_1_1ViewportState.html#a9cd7698a692e3fe22aee958dfb73219f">upVector</a>=Imath::V3f(0, 1, 0))</td></tr>
 <tr class="separator:aa73fd5031da5bf8b66d77a4d3a21c9cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -137,6 +137,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a594429300b8a0bb28e61502f8ce6ee59"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9cd7698a692e3fe22aee958dfb73219f"><td class="memItemLeft" align="right" valign="top">const Imath::V3f &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#a9cd7698a692e3fe22aee958dfb73219f">upVector</a> () const </td></tr>
 <tr class="separator:a9cd7698a692e3fe22aee958dfb73219f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b3b3d767312d9118176da44fae72f7f"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#a1b3b3d767312d9118176da44fae72f7f">fowInDegrees</a> () const </td></tr>
+<tr class="separator:a1b3b3d767312d9118176da44fae72f7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11974f510d0acb7a92c42e62eea9f82a"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#a11974f510d0acb7a92c42e62eea9f82a">znear</a> () const </td></tr>
+<tr class="separator:a11974f510d0acb7a92c42e62eea9f82a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a84720e04476caf50b140f780d63a766c"><td class="memItemLeft" align="right" valign="top">const float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#a84720e04476caf50b140f780d63a766c">zfar</a> ()</td></tr>
+<tr class="separator:a84720e04476caf50b140f780d63a766c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3b2a49dc578a948d21265b0fdede7869"><td class="memItemLeft" align="right" valign="top">const Imath::M44f&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#a3b2a49dc578a948d21265b0fdede7869">projection</a> () const </td></tr>
 <tr class="separator:a3b2a49dc578a948d21265b0fdede7869"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adb50470ed60b1961fae7b20233509ab6"><td class="memItemLeft" align="right" valign="top">const Imath::M44f&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1ViewportState.html#adb50470ed60b1961fae7b20233509ab6">modelview</a> () const </td></tr>
@@ -184,6 +190,21 @@ Private Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">const Imath::V3f &amp; possumwood::ViewportState::eyePosition </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a1b3b3d767312d9118176da44fae72f7f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float possumwood::ViewportState::fowInDegrees </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -373,6 +394,36 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a84720e04476caf50b140f780d63a766c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float possumwood::ViewportState::zfar </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a11974f510d0acb7a92c42e62eea9f82a"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const float possumwood::ViewportState::znear </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
 <a class="anchor" id="ab9a672d7f9a32f57d4e3c45593c86e54"></a>
 <div class="memitem">
@@ -544,7 +595,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1ViewportState.html">ViewportState</a></li>
-    <li class="footer">Generated on Sun Jan 27 2019 15:55:17 for possumwood by
+    <li class="footer">Generated on Sun Jan 27 2019 16:59:24 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>
