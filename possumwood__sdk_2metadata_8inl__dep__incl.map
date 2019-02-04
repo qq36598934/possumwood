@@ -37,15 +37,15 @@
 <area shape="rect" id="node37" href="$load_8cpp.html" title="src/plugins/images\l/nodes/load.cpp" alt="" coords="6218,184,6349,225"/>
 <area shape="rect" id="node38" href="$plugins_2images_2nodes_2metadata_8cpp.html" title="src/plugins/images\l/nodes/metadata.cpp" alt="" coords="6373,184,6517,225"/>
 <area shape="rect" id="node39" href="$per__pixel__expr_8cpp.html" title="src/plugins/images\l/nodes/per_pixel_expr.cpp" alt="" coords="6541,184,6716,225"/>
-<area shape="rect" id="node40" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="6740,184,6904,225"/>
-<area shape="rect" id="node41" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="6928,184,7092,225"/>
-<area shape="rect" id="node42" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="7116,184,7280,225"/>
-<area shape="rect" id="node43" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="7304,184,7468,225"/>
-<area shape="rect" id="node44" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="7492,184,7637,225"/>
-<area shape="rect" id="node45" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="7661,184,7807,225"/>
-<area shape="rect" id="node46" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="7831,184,7989,225"/>
-<area shape="rect" id="node47" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="8014,184,8139,225"/>
-<area shape="rect" id="node48" href="$nodes_2font_8cpp.html" title="src/plugins/render\l/nodes/font.cpp" alt="" coords="8163,184,8289,225"/>
-<area shape="rect" id="node49" href="$fragment__shader_8cpp.html" title="src/plugins/render\l/nodes/fragment_shader.cpp" alt="" coords="8313,184,8499,225"/>
-<area shape="rect" id="node50" href="$geometry__shader_8cpp.html" title="src/plugins/render\l/nodes/geometry_shader.cpp" alt="" coords="8524,184,8715,225"/>
+<area shape="rect" id="node40" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="6740,184,6885,225"/>
+<area shape="rect" id="node41" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="6909,184,7073,225"/>
+<area shape="rect" id="node42" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="7097,184,7261,225"/>
+<area shape="rect" id="node43" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="7285,184,7449,225"/>
+<area shape="rect" id="node44" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="7473,184,7637,225"/>
+<area shape="rect" id="node45" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="7661,184,7807,225"/>
+<area shape="rect" id="node46" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="7831,184,7976,225"/>
+<area shape="rect" id="node47" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="8000,184,8159,225"/>
+<area shape="rect" id="node48" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="8183,184,8309,225"/>
+<area shape="rect" id="node49" href="$nodes_2font_8cpp.html" title="src/plugins/render\l/nodes/font.cpp" alt="" coords="8333,184,8458,225"/>
+<area shape="rect" id="node50" href="$fragment__shader_8cpp.html" title="src/plugins/render\l/nodes/fragment_shader.cpp" alt="" coords="8482,184,8669,225"/>
 </map>

@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.11"/>
-<title>possumwood: src/plugins/anim/nodes/frame -&gt; maths Relation</title>
+<title>possumwood: src/plugins/lua/CMakeLists.txt File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -49,7 +49,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       <li><a href="pages.html"><span>Related&#160;Pages</span></a></li>
       <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
-      <li><a href="files.html"><span>Files</span></a></li>
+      <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
         <div id="MSearchBox" class="MSearchBoxInactive">
         <span class="left">
@@ -68,6 +68,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
       </li>
     </ul>
   </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>File&#160;List</span></a></li>
+      <li><a href="globals.html"><span>File&#160;Members</span></a></li>
+    </ul>
+  </div>
 </div><!-- top -->
 <div id="side-nav" class="ui-resizable side-nav-resizable">
   <div id="nav-tree">
@@ -80,7 +86,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   </div>
 </div>
 <script type="text/javascript">
-$(document).ready(function(){initNavTree('dir_21f4b32d98066d7d12f98361b8c3e15c.html','');});
+$(document).ready(function(){initNavTree('plugins_2lua_2CMakeLists_8txt.html','');});
 </script>
 <div id="doc-content">
 <!-- window showing the filter options -->
@@ -97,14 +103,61 @@ $(document).ready(function(){initNavTree('dir_21f4b32d98066d7d12f98361b8c3e15c.h
 </iframe>
 </div>
 
+<div class="header">
+  <div class="summary">
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle">
+<div class="title">src/plugins/lua/CMakeLists.txt File Reference</div>  </div>
+</div><!--header-->
 <div class="contents">
-<h3>frame &rarr; maths Relation</h3><table class="dirtab"><tr class="dirtab"><th class="dirtab">File in src/plugins/anim/nodes/frame</th><th class="dirtab">Includes file in src/plugins/maths</th></tr><tr class="dirtab"><td class="dirtab"><a class="el" href="edit_8cpp.html">edit.cpp</a></td><td class="dirtab"><a class="el" href="dir_f87b3e47b914d2d36342688a5494dad5.html">io</a>&#160;/&#160;<a class="el" href="io_2vec3_8h.html">vec3.h</a></td></tr></table></div><!-- contents -->
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a198c9644008e4fef07c24d6b59f1971d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="plugins_2lua_2CMakeLists_8txt.html#a198c9644008e4fef07c24d6b59f1971d">set</a> (LIBS ${LIBS}Qt5::Widgets Qt5::OpenGL) pkg_check_modules(LUABIND luabind) pkg_search_module(LUABIND REQUIRED) <a class="el" href="tests_2possumwood_2CMakeLists_8txt.html#a5feba15eb1ab4d3b6008929ce79dafe3">include_directories</a>($</td></tr>
+<tr class="separator:a198c9644008e4fef07c24d6b59f1971d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac96ffb8212206373c4348ba2fb1a4f72"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="plugins_2lua_2CMakeLists_8txt.html#ac96ffb8212206373c4348ba2fb1a4f72">set</a> (LIBS ${LIBS}${LUABIND_LIBRARIES}) <a class="el" href="tests_2anim_2CMakeLists_8txt.html#a577f3cb5fd4e99bec945fee6c7cdb334">file</a>(GLOB_RECURSE expr_sources *.cpp) <a class="el" href="tests_2possumwood_2CMakeLists_8txt.html#a5feba15eb1ab4d3b6008929ce79dafe3">include_directories</a>(./) add_library(lua SHARED $</td></tr>
+<tr class="separator:ac96ffb8212206373c4348ba2fb1a4f72"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Function Documentation</h2>
+<a class="anchor" id="a198c9644008e4fef07c24d6b59f1971d"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">set </td>
+          <td>(</td>
+          <td class="paramtype">LIBS ${LIBS}Qt5::Widgets Qt5::OpenGL&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="ac96ffb8212206373c4348ba2fb1a4f72"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">set </td>
+          <td>(</td>
+          <td class="paramtype">LIBS ${LIBS}${LUABIND_LIBRARIES}&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_7020b8b7abcceffa3f9f7a2d24718f16.html">plugins</a></li><li class="navelem"><a class="el" href="dir_9d4c53a022c9bdea1b000bf7cf0b0226.html">anim</a></li><li class="navelem"><a class="el" href="dir_bcd54a507bcbd018f7407e131e8ae94a.html">nodes</a></li><li class="navelem"><a class="el" href="dir_21f4b32d98066d7d12f98361b8c3e15c.html">frame</a></li>
-    <li class="footer">Generated on Sat Feb 2 2019 21:23:45 for possumwood by
+    <li class="navelem"><a class="el" href="plugins_2lua_2CMakeLists_8txt.html">CMakeLists.txt</a></li>
+    <li class="footer">Generated on Mon Feb 4 2019 09:38:09 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

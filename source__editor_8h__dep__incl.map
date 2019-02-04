@@ -1,7 +1,8 @@
 <map id="src/libs/possumwood_sdk/source_editor.h" name="src/libs/possumwood_sdk/source_editor.h">
 <area shape="rect" id="node2" href="$source__editor_8cpp.html" title="src/libs/possumwood\l_sdk/source_editor.cpp" alt="" coords="5,95,163,136"/>
 <area shape="rect" id="node3" href="$per__pixel__expr_8cpp.html" title="src/plugins/images\l/nodes/per_pixel_expr.cpp" alt="" coords="187,95,362,136"/>
-<area shape="rect" id="node4" href="$fragment__shader_8cpp.html" title="src/plugins/render\l/nodes/fragment_shader.cpp" alt="" coords="387,95,573,136"/>
-<area shape="rect" id="node5" href="$geometry__shader_8cpp.html" title="src/plugins/render\l/nodes/geometry_shader.cpp" alt="" coords="598,95,789,136"/>
-<area shape="rect" id="node6" href="$vertex__shader_8cpp.html" title="src/plugins/render\l/nodes/vertex_shader.cpp" alt="" coords="813,95,985,136"/>
+<area shape="rect" id="node4" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="386,95,531,136"/>
+<area shape="rect" id="node5" href="$fragment__shader_8cpp.html" title="src/plugins/render\l/nodes/fragment_shader.cpp" alt="" coords="556,95,743,136"/>
+<area shape="rect" id="node6" href="$geometry__shader_8cpp.html" title="src/plugins/render\l/nodes/geometry_shader.cpp" alt="" coords="767,95,958,136"/>
+<area shape="rect" id="node7" href="$vertex__shader_8cpp.html" title="src/plugins/render\l/nodes/vertex_shader.cpp" alt="" coords="982,95,1154,136"/>
 </map>

@@ -1,5 +1,11 @@
 var NAVTREEINDEX32 =
 {
+"structexprtk_1_1lexer_1_1token.html#a11f9e3aa1c591ff78aa653a14e03d7ca":[2,0,2,1,4,7],
+"structexprtk_1_1lexer_1_1token.html#a1899f21f699e5f58f218cc24fdf017b8":[2,0,2,1,4,11],
+"structexprtk_1_1lexer_1_1token.html#a21a9924c638eda22a13975546fadd8a8":[2,0,2,1,4,8],
+"structexprtk_1_1lexer_1_1token.html#a34cc4a1f73b1162e8bb5010f6df50c2d":[2,0,2,1,4,9],
+"structexprtk_1_1lexer_1_1token.html#a3c05f7a8b8aa7b43a4ddec0299a9095a":[2,0,2,1,4,6],
+"structexprtk_1_1lexer_1_1token.html#a450e24f05ca0af72bdabf70ccd4c09c7":[2,0,2,1,4,5],
 "structexprtk_1_1lexer_1_1token.html#a5a1cf3fbbea5adf570910e81c6be803c":[2,0,2,1,4,13],
 "structexprtk_1_1lexer_1_1token.html#a87289e4c82d24f66801c96f4ad6f8b87":[2,0,2,1,4,4],
 "structexprtk_1_1lexer_1_1token.html#a8b62d0bc191e1749665e2fe4df770636":[2,0,2,1,4,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX32 =
 "structexprtk_1_1parser_1_1expression__generator_1_1synthesize__covovov__expression4.html#ae1caf5d6c881a8b89400e244eaf75303":[2,0,2,11,1,28,7],
 "structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf3ext__expression.html":[2,0,2,11,1,29],
 "structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf3ext__expression.html#a94fcf608d3157605f8520c10ec3e7ffe":[2,0,2,11,1,29,0],
-"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf3ext__expression.html#a9914cc9d49c05ef8c43cfa696cb96cc8":[2,0,2,11,1,29,1],
-"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf4ext__expression.html":[2,0,2,11,1,30],
-"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf4ext__expression.html#a0ff7a11878a08aa6a7b1b89bc5470a1d":[2,0,2,11,1,30,1],
-"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf4ext__expression.html#a461fac66bbb893cec8a2627f2af5742c":[2,0,2,11,1,30,5],
-"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf4ext__expression.html#a6d510dcdbf6c10d152c3c798d637aee7":[2,0,2,11,1,30,2],
-"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf4ext__expression.html#a746dd4022f1e52a6a1448e8c01884e3c":[2,0,2,11,1,30,3],
-"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf4ext__expression.html#a813e4e1f6d59c367bac1a484e57e2f16":[2,0,2,11,1,30,4]
+"structexprtk_1_1parser_1_1expression__generator_1_1synthesize__sf3ext__expression.html#a9914cc9d49c05ef8c43cfa696cb96cc8":[2,0,2,11,1,29,1]
 };

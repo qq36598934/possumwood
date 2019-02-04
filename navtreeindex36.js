@@ -1,5 +1,11 @@
 var NAVTREEINDEX36 =
 {
+"structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html#afb481782589ba5c2bf17dbd84f6a5660":[2,0,5,15,1,0],
+"structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html":[2,0,5,15,2],
+"structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html#a45c17e3364611f814d925d8a655df6ef":[2,0,5,15,2,0],
+"structpossumwood_1_1Font_1_1Glyph.html":[2,0,5,26,0],
+"structpossumwood_1_1Font_1_1Glyph.html#a0b81c28e825d138e5b506965f956bc7e":[2,0,5,26,0,4],
+"structpossumwood_1_1Font_1_1Glyph.html#a215aea634aaa92c23b3389f2873b7f7d":[2,0,5,26,0,5],
 "structpossumwood_1_1Font_1_1Glyph.html#a5ca6ac55f5aac52d8fe33fac950b4155":[2,0,5,26,0,8],
 "structpossumwood_1_1Font_1_1Glyph.html#a96f8ab9062ffee8c96126efebb6888da":[2,0,5,26,0,6],
 "structpossumwood_1_1Font_1_1Glyph.html#a9866be51e6fa3091a4907ef1dd638e99":[2,0,5,26,0,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX36 =
 "structpossumwood_1_1io_1_1detail_1_1is__compatible__array__type.html":[2,0,5,1,0,18],
 "structpossumwood_1_1io_1_1detail_1_1is__compatible__array__type.html#af512e5fadf264df96bb5259a80881311":[2,0,5,1,0,18,0],
 "structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type.html":[2,0,5,1,0,19],
-"structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type.html#a6ccc070630ff8a70e9134252ad549367":[2,0,5,1,0,19,0],
-"structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl.html":[2,0,5,1,0,20],
-"structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html":[2,0,5,1,0,21],
-"structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html#a2afd399fc9ce189ec726507e12e252a2":[2,0,5,1,0,21,1],
-"structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html#a4017cc6e0bc147c0ef3a479e69141092":[2,0,5,1,0,21,2],
-"structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html#ac83b64568a40d922b01ad80a84b5e844":[2,0,5,1,0,21,0],
-"structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type.html":[2,0,5,1,0,22]
+"structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type.html#a6ccc070630ff8a70e9134252ad549367":[2,0,5,1,0,19,0]
 };

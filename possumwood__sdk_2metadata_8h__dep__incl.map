@@ -42,10 +42,10 @@
 <area shape="rect" id="node42" href="$load_8cpp.html" title="src/plugins/images\l/nodes/load.cpp" alt="" coords="6218,273,6349,315"/>
 <area shape="rect" id="node43" href="$plugins_2images_2nodes_2metadata_8cpp.html" title="src/plugins/images\l/nodes/metadata.cpp" alt="" coords="6373,273,6517,315"/>
 <area shape="rect" id="node44" href="$per__pixel__expr_8cpp.html" title="src/plugins/images\l/nodes/per_pixel_expr.cpp" alt="" coords="6541,273,6716,315"/>
-<area shape="rect" id="node45" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="6740,273,6904,315"/>
-<area shape="rect" id="node46" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="6928,273,7092,315"/>
-<area shape="rect" id="node47" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="7116,273,7280,315"/>
-<area shape="rect" id="node48" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="7304,273,7468,315"/>
-<area shape="rect" id="node49" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="7492,273,7637,315"/>
-<area shape="rect" id="node50" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="7661,273,7807,315"/>
+<area shape="rect" id="node45" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="6740,273,6885,315"/>
+<area shape="rect" id="node46" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="6909,273,7073,315"/>
+<area shape="rect" id="node47" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="7097,273,7261,315"/>
+<area shape="rect" id="node48" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="7285,273,7449,315"/>
+<area shape="rect" id="node49" href="$maths_2nodes_2vec3_8cpp.html" title="src/plugins/maths/nodes\l/vec3.cpp" alt="" coords="7473,273,7637,315"/>
+<area shape="rect" id="node50" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="7661,273,7807,315"/>
 </map>

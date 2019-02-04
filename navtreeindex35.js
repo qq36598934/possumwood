@@ -1,5 +1,11 @@
 var NAVTREEINDEX35 =
 {
+"structexprtk_1_1rtl_1_1io_1_1file_1_1details_1_1file__descriptor.html#adb86d740d6110d1a7762fcacef2d3472":[2,0,2,3,0,1,0,0,7],
+"structexprtk_1_1rtl_1_1io_1_1file_1_1eof.html":[2,0,2,3,0,1,2],
+"structexprtk_1_1rtl_1_1io_1_1file_1_1eof.html#a2723b3998e295d801daf877af9675e4a":[2,0,2,3,0,1,2,0],
+"structexprtk_1_1rtl_1_1io_1_1file_1_1eof.html#ac9d1f104557798d8bdc91f8d22321ed6":[2,0,2,3,0,1,2,1],
+"structexprtk_1_1rtl_1_1io_1_1file_1_1package.html":[2,0,2,3,0,1,5],
+"structexprtk_1_1rtl_1_1io_1_1file_1_1package.html#a1494570726295614dd5e2b9dc347f2bf":[2,0,2,3,0,1,5,5],
 "structexprtk_1_1rtl_1_1io_1_1file_1_1package.html#a6b2a7a0b5618c1121b3b4176b907dc2f":[2,0,2,3,0,1,5,0],
 "structexprtk_1_1rtl_1_1io_1_1file_1_1package.html#a6d32f3317bcd103211ae91b011e900e1":[2,0,2,3,0,1,5,1],
 "structexprtk_1_1rtl_1_1io_1_1file_1_1package.html#a8678aeb31a93ae9627354f41fb825748":[2,0,2,3,0,1,5,2],
@@ -243,11 +249,5 @@ var NAVTREEINDEX35 =
 "structpossumwood_1_1CGALItems.html":[2,0,5,15],
 "structpossumwood_1_1CGALItems_1_1Face__wrapper.html":[2,0,5,15,0],
 "structpossumwood_1_1CGALItems_1_1Face__wrapper.html#a0fcd689bd3eb494703adfc93116a7871":[2,0,5,15,0,0],
-"structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html":[2,0,5,15,1],
-"structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html#afb481782589ba5c2bf17dbd84f6a5660":[2,0,5,15,1,0],
-"structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html":[2,0,5,15,2],
-"structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html#a45c17e3364611f814d925d8a655df6ef":[2,0,5,15,2,0],
-"structpossumwood_1_1Font_1_1Glyph.html":[2,0,5,26,0],
-"structpossumwood_1_1Font_1_1Glyph.html#a0b81c28e825d138e5b506965f956bc7e":[2,0,5,26,0,4],
-"structpossumwood_1_1Font_1_1Glyph.html#a215aea634aaa92c23b3389f2873b7f7d":[2,0,5,26,0,5]
+"structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html":[2,0,5,15,1]
 };
