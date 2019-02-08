@@ -1,7 +1,7 @@
 <map id="src/plugins/render/datatypes/uniforms.inl" name="src/plugins/render/datatypes/uniforms.inl">
 <area shape="rect" id="node2" href="$datatypes_2uniforms_8cpp.html" title="src/plugins/render\l/datatypes/uniforms.cpp" alt="" coords="5,95,168,136"/>
 <area shape="rect" id="node3" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="192,95,317,136"/>
-<area shape="rect" id="node4" href="$float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="342,95,511,136"/>
+<area shape="rect" id="node4" href="$render_2nodes_2uniforms_2float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="342,95,511,136"/>
 <area shape="rect" id="node5" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="535,95,713,136"/>
 <area shape="rect" id="node6" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="737,95,921,136"/>
 <area shape="rect" id="node7" href="$plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="946,95,1145,136"/>

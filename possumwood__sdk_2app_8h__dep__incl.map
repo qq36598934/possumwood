@@ -27,7 +27,7 @@
 <area shape="rect" id="node34" href="$datatypes_2uniforms_8cpp.html" title="src/plugins/render\l/datatypes/uniforms.cpp" alt="" coords="4055,95,4218,136"/>
 <area shape="rect" id="node35" href="$render_2datatypes_2vertex__data_8cpp.html" title="src/plugins/render\l/datatypes/vertex_data.cpp" alt="" coords="4243,95,4423,136"/>
 <area shape="rect" id="node36" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="4447,95,4573,136"/>
-<area shape="rect" id="node37" href="$float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="4597,95,4767,136"/>
+<area shape="rect" id="node37" href="$render_2nodes_2uniforms_2float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="4597,95,4767,136"/>
 <area shape="rect" id="node38" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="4791,95,4968,136"/>
 <area shape="rect" id="node39" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="4993,95,5177,136"/>
 <area shape="rect" id="node40" href="$plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="5201,95,5400,136"/>

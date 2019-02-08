@@ -303,6 +303,9 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 <li>operator bool()
 : <a class="el" href="classexprtk_1_1expression.html#a9714317722ead6638ff351ccd3652020">exprtk::expression&lt; T &gt;</a>
 </li>
+<li>operator const lua_State *()
+: <a class="el" href="classpossumwood_1_1lua_1_1State.html#a72a0fc1eaba58388b7d7d3a793f7cd2a">possumwood::lua::State</a>
+</li>
 <li>operator const Metadata &amp;()
 : <a class="el" href="classdependency__graph_1_1MetadataHandle.html#a5414c9c02027e02d819a1d0d994250e9">dependency_graph::MetadataHandle</a>
 </li>
@@ -311,6 +314,9 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 </li>
 <li>operator const_iterator()
 : <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#a1f2331b054092a2983f17533802aa099">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
+</li>
+<li>operator lua_State *()
+: <a class="el" href="classpossumwood_1_1lua_1_1State.html#ad923facb3f92e455ef4f8975542d788a">possumwood::lua::State</a>
 </li>
 <li>operator std::string()
 : <a class="el" href="classexprtk_1_1details_1_1build__string.html#a028e7e9699a35f2c4b90322b1d460e6c">exprtk::details::build_string</a>
@@ -350,6 +356,8 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 , <a class="el" href="classpossumwood_1_1Font.html#a148de50a4fdd7640b3dbad6459a3161a">possumwood::Font</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#aecab7e71994480b501953e4d43bc3060">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html#a8594895a22982afdc333786a3c18b424">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iteration_proxy&lt; IteratorType &gt;::iteration_proxy_internal</a>
+, <a class="el" href="classpossumwood_1_1lua_1_1Context.html#a43e19d06cd05f9f955898383004cf00d">possumwood::lua::Context</a>
+, <a class="el" href="classpossumwood_1_1lua_1_1Variable.html#a0f6a6a4c71395e530cabbd0d4a4bf7ba">possumwood::lua::Variable</a>
 , <a class="el" href="classpossumwood_1_1Mesh.html#a88cb161e6e0034cd8886b76e7e9c16e5">possumwood::Mesh</a>
 , <a class="el" href="classpossumwood_1_1Meshes.html#a4f5d66463d0510223c799c02b93bbfdc">possumwood::Meshes</a>
 , <a class="el" href="classpossumwood_1_1NodeData.html#a69bc3ccfab0b365e47435c564f17835e">possumwood::NodeData</a>
@@ -473,7 +481,7 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 <li>operator+=()
 : <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#ac827386e1d18035c0d1a7611928bf198">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html#a9de78ac4e3622e43064f980156c702ac">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::json_reverse_iterator&lt; Base &gt;</a>
-, <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#af3478c91e89a8e8b18ea8fe050392568">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
+, <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#a85efea0c9aab20cd4651ccb0badc788a">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1primitive__iterator__t.html#a8a5122558df0f69e5c0ea05889911ea9">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::primitive_iterator_t</a>
 , <a class="el" href="classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Index.html#a8a439d05bc77c13172280b31d3e789d8">possumwood::polymesh::GenericPolymesh::Index</a>
 , <a class="el" href="classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Polygon.html#aca111f02a840fc480fb9448c21a651ca">possumwood::polymesh::GenericPolymesh::Polygon</a>
@@ -519,9 +527,9 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 : <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#a5e800b22ef64d49ecbc36f9ed14a879a">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
 </li>
 <li>operator=()
-: <a class="el" href="classanim_1_1Attribute.html#a900f9d881e002f9653fe16392587202f">anim::Attribute</a>
+: <a class="el" href="classanim_1_1Attribute.html#a997add3f6302bc3f1337afb9a04b3a7a">anim::Attribute</a>
 , <a class="el" href="classanim_1_1Attributes.html#ae10f28d516f53d90cdfd8e6e4eb054e7">anim::Attributes</a>
-, <a class="el" href="classanim_1_1Skeleton.html#a4f9a3dd34f1874e910f0492704f3731e">anim::Skeleton</a>
+, <a class="el" href="classanim_1_1Skeleton.html#af73a92761cdbc79ec763961b3656aa60">anim::Skeleton</a>
 , <a class="el" href="classanim_1_1SubsetSelection.html#affea864816f8725dd1a9924ddae52aa8">anim::SubsetSelection</a>
 , <a class="el" href="classanim_1_1SubsetSelection_1_1Options.html#ad73c2c78d159c39598d9f9f2d438de5c">anim::SubsetSelection::Options</a>
 , <a class="el" href="classanim_1_1Tokenizer_1_1State.html#aeccb56cca6f4670621126739c8e00cb9">anim::Tokenizer::State</a>
@@ -589,6 +597,8 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#ae80060db92e7f26d6b5313a8976fc29d">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#a8dd0acad9e8ec7fd64486b9c7d6f1866">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1serializer.html#a029b65393b342aa07f554db86a4d69cf">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::serializer</a>
+, <a class="el" href="classpossumwood_1_1lua_1_1Context.html#a31f3f4c0202a0d5f10861b2e4523842d">possumwood::lua::Context</a>
+, <a class="el" href="classpossumwood_1_1lua_1_1Variable.html#a66b6d8b9feb43188cd42f096ece6b8f8">possumwood::lua::Variable</a>
 , <a class="el" href="classpossumwood_1_1Pixel.html#a53dead2293b35df8a37db7be5282d7b9">possumwood::Pixel</a>
 , <a class="el" href="classpossumwood_1_1polymesh_1_1GenericBase.html#a8f02956afc30d1749e061c08f1a77b1e">possumwood::polymesh::GenericBase</a>
 , <a class="el" href="classpossumwood_1_1polymesh_1_1GenericContainer_1_1const__iterator.html#a7221a1e9f36da923f0ad898d1f8edb94">possumwood::polymesh::GenericContainer&lt; ITEM &gt;::const_iterator</a>
@@ -625,6 +635,8 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 , <a class="el" href="structpossumwood_1_1Font_1_1Glyph.html#accffc3e7895c3c22527e7e3a197de525">possumwood::Font::Glyph</a>
 , <a class="el" href="classpossumwood_1_1Font.html#a7c51ca67bc812c2c2a473da8b0b828ad">possumwood::Font</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#a37261dc8fafb52b8605d37d5f523b3ad">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
+, <a class="el" href="classpossumwood_1_1lua_1_1Context.html#aeaf4286f5ab89c058573f389bbd80239">possumwood::lua::Context</a>
+, <a class="el" href="classpossumwood_1_1lua_1_1Variable.html#abecbf179dde4d3fa559e3986c2acd01b">possumwood::lua::Variable</a>
 , <a class="el" href="classpossumwood_1_1Mesh.html#ad3a27709e578a87cc0a3018df0b9cc15">possumwood::Mesh</a>
 , <a class="el" href="classpossumwood_1_1Meshes.html#a6cb0c9fd3eb0623302ec073b9c02b7ee">possumwood::Meshes</a>
 , <a class="el" href="classpossumwood_1_1NodeData.html#a1c89282229ade00bcbb7120a9e3cc4e6">possumwood::NodeData</a>
@@ -647,28 +659,28 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 </li>
 <li>operator[]()
 : <a class="el" href="classanim_1_1Attributes.html#a2ae0b708971fff5b9e08859abbd27fa3">anim::Attributes</a>
-, <a class="el" href="classanim_1_1Children.html#ae6e61319b22942b768e23c95fdf3d761">anim::Children&lt; JOINT, CONTAINER &gt;</a>
+, <a class="el" href="classanim_1_1Children.html#a4cd377c487dc5fd569b45c55908efebd">anim::Children&lt; JOINT, CONTAINER &gt;</a>
 , <a class="el" href="classanim_1_1Hierarchy.html#a789f9b57eb02d85e6d4e84310b84b63e">anim::Hierarchy</a>
 , <a class="el" href="classanim_1_1JointMappingEditorData.html#ad1248fa4a4d49ff6710754f21d63056b">anim::JointMappingEditorData</a>
 , <a class="el" href="classanim_1_1Polygons.html#ad67eef32e834872f4c2121a437482ba6">anim::Polygons</a>
-, <a class="el" href="classanim_1_1Skeleton.html#a71ea6dd227414d0b597daf395aad46be">anim::Skeleton</a>
-, <a class="el" href="classanim_1_1SkinnedVertices.html#ae4aa72a50d041703d998876cdcac6b10">anim::SkinnedVertices</a>
+, <a class="el" href="classanim_1_1Skeleton.html#ac4c9c55284217766de89b02737f7e57e">anim::Skeleton</a>
+, <a class="el" href="classanim_1_1SkinnedVertices.html#ab296e8ce14b9e4c816801542e3611d5f">anim::SkinnedVertices</a>
 , <a class="el" href="classdependency__graph_1_1MetadataRegister.html#a8aafadd10babd455d9f314830bcd963b">dependency_graph::MetadataRegister</a>
-, <a class="el" href="classdependency__graph_1_1Nodes.html#a0fa8691b226b3696023bf1aba1f4a490">dependency_graph::Nodes</a>
+, <a class="el" href="classdependency__graph_1_1Nodes.html#a7c66f82bedfe6d7da3f85cfe08a63478">dependency_graph::Nodes</a>
 , <a class="el" href="classexprtk_1_1details_1_1vector__holder.html#a905e470624d47c74f58270a72c4740cc">exprtk::details::vector_holder&lt; Type &gt;</a>
 , <a class="el" href="classexprtk_1_1details_1_1vector__holder_1_1vector__holder__base.html#a15e91308bc925cc99df0e6551e77ca27">exprtk::details::vector_holder&lt; Type &gt;::vector_holder_base</a>
 , <a class="el" href="classexprtk_1_1lexer_1_1generator.html#a9973e650a7bbf1902dcc4b284bf8976e">exprtk::lexer::generator</a>
 , <a class="el" href="classexprtk_1_1results__context.html#af90128721c8c658c53680073d675ad7b">exprtk::results_context&lt; T &gt;</a>
-, <a class="el" href="classexprtk_1_1type__store_1_1parameter__list.html#a2998dc04d427764eb2ddc2effb4403fa">exprtk::type_store&lt; T &gt;::parameter_list</a>
-, <a class="el" href="structexprtk_1_1type__store_1_1type__view.html#a6895bca6ab3f9bfd54fc4e2717e4fb01">exprtk::type_store&lt; T &gt;::type_view&lt; ViewType &gt;</a>
+, <a class="el" href="classexprtk_1_1type__store_1_1parameter__list.html#a890eff8e1f1180089c63e3b2a33debb5">exprtk::type_store&lt; T &gt;::parameter_list</a>
+, <a class="el" href="structexprtk_1_1type__store_1_1type__view.html#a1036e6021ec3e4abc1ca7020b42a7cca">exprtk::type_store&lt; T &gt;::type_view&lt; ViewType &gt;</a>
 , <a class="el" href="classexprtk_1_1vector__view.html#a86c59c46df0e4f6cc7725976a7328c82">exprtk::vector_view&lt; T &gt;</a>
 , <a class="el" href="classPathWidget_1_1Path.html#ac5f93fd86db14f585c533b1d176d3b26">PathWidget::Path</a>
 , <a class="el" href="classpossumwood_1_1Config.html#abec175ec3afbed4686242c7cbbc2a49f">possumwood::Config</a>
-, <a class="el" href="classpossumwood_1_1Index.html#a31663e5627de299e3b0bb90821ec530c">possumwood::Index</a>
+, <a class="el" href="classpossumwood_1_1Index.html#a7d4559b10494df32bc5e96d709fbaf5c">possumwood::Index</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#abb6180e330eeb4e2f94f3cd406df5e92">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::iter_impl&lt; U &gt;</a>
 , <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html#a46a6789b7bde002508d4b06b27e50081">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::json_reverse_iterator&lt; Base &gt;</a>
-, <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#a6afbc6328507e93c9574b876cfe54bc6">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
-, <a class="el" href="classpossumwood_1_1polymesh_1_1Array.html#af7525fe8c1f92462a57bf60cf38d864e">possumwood::polymesh::Array&lt; T &gt;</a>
+, <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#ab914d175fd74c9c57178dbdaa54a98fc">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
+, <a class="el" href="classpossumwood_1_1polymesh_1_1Array.html#a849ab8ed4301a5a7d71e9101c6b7a5a2">possumwood::polymesh::Array&lt; T &gt;</a>
 , <a class="el" href="classpossumwood_1_1polymesh_1_1GenericBase_1_1Handles.html#adb081befa027831eec426024f70bfe31">possumwood::polymesh::GenericBase::Handles</a>
 , <a class="el" href="structSkeletonTest.html#ab1a09ec954c189d52d83b06a02bc796a">SkeletonTest</a>
 </li>
@@ -676,10 +688,10 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 : <a class="el" href="classexprtk_1_1lexer_1_1helper_1_1operator__joiner.html#a258fab7effee3abfca86258bdc39fec6">exprtk::lexer::helper::operator_joiner</a>
 </li>
 <li>options()
-: <a class="el" href="classanim_1_1SubsetSelection.html#aceab8973f071d7f97b3c5ee82637a099">anim::SubsetSelection</a>
+: <a class="el" href="classanim_1_1SubsetSelection.html#af6e1ae1379fefc2faabfe96bcf457b08">anim::SubsetSelection</a>
 </li>
 <li>Options()
-: <a class="el" href="classanim_1_1SubsetSelection_1_1Options.html#aca8dffbbea6b2081c43c8d5dc14ca86a">anim::SubsetSelection::Options</a>
+: <a class="el" href="classanim_1_1SubsetSelection_1_1Options.html#a0bcff5043bfe76bb5bb7c5d17f6ffb2b">anim::SubsetSelection::Options</a>
 , <a class="el" href="classOptions.html#ab3a4819d972a234777923d85122bcf37">Options</a>
 </li>
 <li>options()
@@ -695,8 +707,8 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 : <a class="el" href="classpossumwood_1_1io_1_1detail_1_1out__of__range.html#aed58bff8042c98f6dca1488b5010ffd4">possumwood::io::detail::out_of_range</a>
 </li>
 <li>OutAttr()
-: <a class="el" href="classdependency__graph_1_1OutAttr.html#a9f9f7bf2c2dae4549ce5133abbbe36f9">dependency_graph::OutAttr&lt; T &gt;</a>
-, <a class="el" href="classdependency__graph_1_1OutAttr_3_01void_01_4.html#a0c136eb87a0da901db30d18fc1444565">dependency_graph::OutAttr&lt; void &gt;</a>
+: <a class="el" href="classdependency__graph_1_1OutAttr.html#adb4d55cc407a015b0f45497a641187ac">dependency_graph::OutAttr&lt; T &gt;</a>
+, <a class="el" href="classdependency__graph_1_1OutAttr_3_01void_01_4.html#a183fd26e193071ca4c4bdaf1d542fbe4">dependency_graph::OutAttr&lt; void &gt;</a>
 </li>
 <li>output_stream_adapter()
 : <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1output__stream__adapter.html#a54fafd15d27997fd15e7c44f55c9c479">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::output_stream_adapter&lt; CharType &gt;</a>
@@ -713,7 +725,7 @@ $(document).ready(function(){initNavTree('functions_func_o.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Feb 4 2019 09:38:13 for possumwood by
+    <li class="footer">Generated on Fri Feb 8 2019 00:27:21 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

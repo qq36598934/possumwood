@@ -27,7 +27,7 @@
 <area shape="rect" id="node24" href="$plugins_2anim_2nodes_2animation_2transform_8cpp.html" title="src/plugins/anim/nodes\l/animation/transform.cpp" alt="" coords="1283,363,1449,404"/>
 <area shape="rect" id="node26" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="3719,363,3877,404"/>
 <area shape="rect" id="node27" href="$draw_8cpp.html" title="src/plugins/render\l/nodes/draw.cpp" alt="" coords="4771,363,4897,404"/>
-<area shape="rect" id="node28" href="$float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="2688,363,2857,404"/>
+<area shape="rect" id="node28" href="$render_2nodes_2uniforms_2float_8cpp.html" title="src/plugins/render\l/nodes/uniforms/float.cpp" alt="" coords="2688,363,2857,404"/>
 <area shape="rect" id="node29" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="2881,363,3059,404"/>
 <area shape="rect" id="node30" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="3083,363,3267,404"/>
 <area shape="rect" id="node31" href="$plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="2049,363,2248,404"/>

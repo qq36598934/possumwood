@@ -65,6 +65,7 @@ var searchData=
   ['getoutput',['getOutput',['../classdependency__graph_1_1Node.html#a0269561f815ee85e9ad199b4368f0a63',1,'dependency_graph::Node']]],
   ['getport',['getPort',['../classdependency__graph_1_1Connections.html#a42b99c5778580f80e881f0bd93f580cf',1,'dependency_graph::Connections::getPort(const Connections::PortId &amp;id) const '],['../classdependency__graph_1_1Connections.html#a1e6da87630479bade436bc1819ca7910',1,'dependency_graph::Connections::getPort(const Connections::PortId &amp;id)']]],
   ['glcheckerror',['glCheckError',['../namespacepossumwood.html#a24a3f8a7d692481cdeafee7872b67fd7',1,'possumwood']]],
+  ['globals',['globals',['../classpossumwood_1_1lua_1_1State.html#aaaa6e41106c9f4255de8b8d949a7ac25',1,'possumwood::lua::State']]],
   ['glrenderable',['GLRenderable',['../classpossumwood_1_1GLRenderable.html#a0662eb6f4232fb920ab7e694f0eb8a12',1,'possumwood::GLRenderable']]],
   ['glsldeclaration',['glslDeclaration',['../classpossumwood_1_1Uniforms.html#aa32f7b8ada2a228b69d060c20bab0a68',1,'possumwood::Uniforms::glslDeclaration()'],['../classpossumwood_1_1VertexData.html#a978058aa35cac3b6f9aac014a0b5f448',1,'possumwood::VertexData::glslDeclaration()']]],
   ['glyph',['glyph',['../classpossumwood_1_1Font.html#ad95827674a18cdbe7f17191602a5d6ee',1,'possumwood::Font']]],

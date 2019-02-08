@@ -21,6 +21,7 @@ var searchData=
   ['const_5fstring_5frange_5fnode_5ft',['const_string_range_node_t',['../classexprtk_1_1parser.html#afd354cf271f6ffa1ebc535f43017993a',1,'exprtk::parser']]],
   ['const_5ft',['const_t',['../classexprtk_1_1parser.html#a64a2c3b025671ea23331e7e90e8c3115',1,'exprtk::parser']]],
   ['const_5fvalue_5fptr',['const_value_ptr',['../classexprtk_1_1details_1_1vector__holder.html#a5d87cb0395231755392f45e565de37a7',1,'exprtk::details::vector_holder']]],
+  ['const_5fvar_5fiterator',['const_var_iterator',['../classpossumwood_1_1lua_1_1Context.html#ad4d298c10cf9e81bd727c53814e76253',1,'possumwood::lua::Context']]],
   ['cov_5ft',['cov_t',['../classexprtk_1_1parser.html#aaceaf89710e6e94b85f18734979ac028',1,'exprtk::parser']]],
   ['covoc_5ft',['covoc_t',['../classexprtk_1_1parser.html#a9c3110568bc2992b12c9e4bed9319575',1,'exprtk::parser']]],
   ['covocov_5ft',['covocov_t',['../classexprtk_1_1parser.html#a21b828938a167f5429ebf3486f7b201e',1,'exprtk::parser']]],
