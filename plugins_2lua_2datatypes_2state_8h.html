@@ -106,18 +106,28 @@ $(document).ready(function(){initNavTree('plugins_2lua_2datatypes_2state_8h.html
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a>  </div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">state.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &lt;boost/noncopyable.hpp&gt;</code><br />
 <code>#include &lt;luabind/luabind.hpp&gt;</code><br />
+<code>#include &lt;<a class="el" href="libs_2actions_2traits_8h_source.html">actions/traits.h</a>&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for state.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="plugins_2lua_2datatypes_2state_8h__incl.png" border="0" usemap="#src_2plugins_2lua_2datatypes_2state_8h" alt=""/></div>
 <map name="src_2plugins_2lua_2datatypes_2state_8h" id="src_2plugins_2lua_2datatypes_2state_8h">
+<area shape="rect" id="node4" href="libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2196,95,2304,121"/>
+<area shape="rect" id="node6" href="rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="700,319,861,345"/>
+<area shape="rect" id="node9" href="libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2105,169,2195,196"/>
+<area shape="rect" id="node11" href="data_8inl.html" title="dependency_graph/data.inl" alt="" coords="955,244,1132,271"/>
+<area shape="rect" id="node18" href="libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2072,244,2228,271"/>
+<area shape="rect" id="node19" href="json_8h.html" title="io/json.h" alt="" coords="1291,319,1361,345"/>
+<area shape="rect" id="node14" href="data_8h.html" title="data.h" alt="" coords="2150,319,2209,345"/>
+<area shape="rect" id="node17" href="data__traits_8h.html" title="data_traits.h" alt="" coords="937,319,1032,345"/>
 </map>
 </div>
 </div><div class="textblock"><div class="dynheader">
@@ -127,8 +137,9 @@ This graph shows which files directly or indirectly include this file:</div>
 <map name="src_2plugins_2lua_2datatypes_2state_8hdep" id="src_2plugins_2lua_2datatypes_2state_8hdep">
 <area shape="rect" id="node2" href="plugins_2lua_2datatypes_2state_8cpp.html" title="src/plugins/lua/datatypes\l/state.cpp" alt="" coords="5,95,172,136"/>
 <area shape="rect" id="node3" href="variable_8inl.html" title="src/plugins/lua/datatypes\l/variable.inl" alt="" coords="196,95,363,136"/>
-<area shape="rect" id="node5" href="script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="387,95,532,136"/>
-<area shape="rect" id="node4" href="lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="207,184,352,225"/>
+<area shape="rect" id="node6" href="script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="387,95,532,136"/>
+<area shape="rect" id="node4" href="lua_2nodes_2extract_2float_8cpp.html" title="src/plugins/lua/nodes\l/extract/float.cpp" alt="" coords="121,184,267,225"/>
+<area shape="rect" id="node5" href="lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="291,184,436,225"/>
 </map>
 </div>
 </div>
@@ -138,6 +149,8 @@ This graph shows which files directly or indirectly include this file:</div>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1State.html">possumwood::lua::State</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01lua_1_1State_01_4_01_4.html">possumwood::Traits&lt; std::shared_ptr&lt; const lua::State &gt; &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
 Namespaces</h2></td></tr>
@@ -145,6 +158,11 @@ Namespaces</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:namespacepossumwood_1_1lua"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood_1_1lua.html">possumwood::lua</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ae09256e46dde153606cd06f43bed852d"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacepossumwood_1_1lua.html#ae09256e46dde153606cd06f43bed852d">possumwood::lua::operator&lt;&lt;</a> (std::ostream &amp;out, const std::shared_ptr&lt; const State &gt; &amp;st)</td></tr>
+<tr class="separator:ae09256e46dde153606cd06f43bed852d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -152,7 +170,7 @@ Namespaces</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_7020b8b7abcceffa3f9f7a2d24718f16.html">plugins</a></li><li class="navelem"><a class="el" href="dir_ee6aa1c688a3b9fb588e8125e26298d2.html">lua</a></li><li class="navelem"><a class="el" href="dir_818d9ad0fb5953fbbf14d6fa8e4d159c.html">datatypes</a></li><li class="navelem"><a class="el" href="plugins_2lua_2datatypes_2state_8h.html">state.h</a></li>
-    <li class="footer">Generated on Fri Feb 8 2019 00:59:23 for possumwood by
+    <li class="footer">Generated on Sat Feb 9 2019 01:41:11 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

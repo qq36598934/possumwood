@@ -1,3 +1,4 @@
 <map id="src/plugins/lua/datatypes/variable.inl" name="src/plugins/lua/datatypes/variable.inl">
-<area shape="rect" id="node2" href="$lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="16,95,161,136"/>
+<area shape="rect" id="node2" href="$lua_2nodes_2extract_2float_8cpp.html" title="src/plugins/lua/nodes\l/extract/float.cpp" alt="" coords="5,95,151,136"/>
+<area shape="rect" id="node3" href="$lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="175,95,320,136"/>
 </map>

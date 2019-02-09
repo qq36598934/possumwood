@@ -1,2 +1,10 @@
 <map id="src/plugins/lua/datatypes/state.h" name="src/plugins/lua/datatypes/state.h">
+<area shape="rect" id="node4" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2196,95,2304,121"/>
+<area shape="rect" id="node6" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="700,319,861,345"/>
+<area shape="rect" id="node9" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2105,169,2195,196"/>
+<area shape="rect" id="node11" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="955,244,1132,271"/>
+<area shape="rect" id="node18" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2072,244,2228,271"/>
+<area shape="rect" id="node19" href="$json_8h.html" title="io/json.h" alt="" coords="1291,319,1361,345"/>
+<area shape="rect" id="node14" href="$data_8h.html" title="data.h" alt="" coords="2150,319,2209,345"/>
+<area shape="rect" id="node17" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="937,319,1032,345"/>
 </map>

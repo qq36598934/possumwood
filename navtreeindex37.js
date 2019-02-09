@@ -1,6 +1,12 @@
 var NAVTREEINDEX37 =
 {
-"structpossumwood_1_1VertexExtractor.html#a0984213af0ae9044dbeddb91aa7a8b2f":[2,0,5,101,0],
+"structpossumwood_1_1VertexData_1_1VBOHolder.html#a6915fb34c9ae28c34ef36560a04ec64e":[2,0,5,101,0,3],
+"structpossumwood_1_1VertexData_1_1VBOHolder.html#aca685fcabaade2e12c0019faa1916507":[2,0,5,101,0,6],
+"structpossumwood_1_1VertexData_1_1VBOHolder.html#add180bb230abf63148a4df1ef141d27f":[2,0,5,101,0,1],
+"structpossumwood_1_1VertexData_1_1VBOHolder.html#afa80018d77cf8afb6ac8e4b5c432db09":[2,0,5,101,0,0],
+"structpossumwood_1_1VertexData_1_1VBOHolder.html#afb9b30a28c8cd96ec86418b9aeef2f0c":[2,0,5,101,0,5],
+"structpossumwood_1_1VertexExtractor.html":[2,0,5,102],
+"structpossumwood_1_1VertexExtractor.html#a0984213af0ae9044dbeddb91aa7a8b2f":[2,0,5,102,0],
 "structpossumwood_1_1actions_1_1detail_1_1Link.html":[2,0,5,0,0,0],
 "structpossumwood_1_1actions_1_1detail_1_1Link.html#a4c00f0722690db2da495bb823aa2f581":[2,0,5,0,0,0,1],
 "structpossumwood_1_1actions_1_1detail_1_1Link.html#a575ced8404d18806a23e3fecbf12be21":[2,0,5,0,0,0,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX37 =
 "ui_2skeleton_8h.html":[3,0,0,2,0,2,9],
 "ui_2skeleton_8h_source.html":[3,0,0,2,0,2,9],
 "ui_2uniforms_8cpp.html":[3,0,0,2,7,2,0],
-"ui_2uniforms_8h.html":[3,0,0,2,7,2,1],
-"ui_2uniforms_8h_source.html":[3,0,0,2,7,2,1],
-"ui_2vbo_8cpp.html":[3,0,0,2,7,2,2],
-"ui_2vbo_8h.html":[3,0,0,2,7,2,3],
-"ui_2vbo_8h_source.html":[3,0,0,2,7,2,3],
-"ui_2vec3_8h.html":[3,0,0,2,5,2,7],
-"ui_2vec3_8h_source.html":[3,0,0,2,5,2,7]
+"ui_2uniforms_8h.html":[3,0,0,2,7,2,1]
 };

@@ -1,9 +1,10 @@
 <map id="src/plugins/lua/datatypes/variable.h" name="src/plugins/lua/datatypes/variable.h">
-<area shape="rect" id="node2" href="$context_8h.html" title="src/plugins/lua/datatypes\l/context.h" alt="" coords="196,95,363,136"/>
-<area shape="rect" id="node7" href="$variable_8cpp.html" title="src/plugins/lua/datatypes\l/variable.cpp" alt="" coords="387,95,553,136"/>
-<area shape="rect" id="node8" href="$variable_8inl.html" title="src/plugins/lua/datatypes\l/variable.inl" alt="" coords="577,95,744,136"/>
+<area shape="rect" id="node2" href="$context_8h.html" title="src/plugins/lua/datatypes\l/context.h" alt="" coords="376,95,543,136"/>
+<area shape="rect" id="node8" href="$variable_8cpp.html" title="src/plugins/lua/datatypes\l/variable.cpp" alt="" coords="757,95,924,136"/>
+<area shape="rect" id="node9" href="$variable_8inl.html" title="src/plugins/lua/datatypes\l/variable.inl" alt="" coords="567,95,733,136"/>
 <area shape="rect" id="node3" href="$context_8cpp.html" title="src/plugins/lua/datatypes\l/context.cpp" alt="" coords="5,184,172,225"/>
 <area shape="rect" id="node4" href="$plugins_2lua_2datatypes_2state_8cpp.html" title="src/plugins/lua/datatypes\l/state.cpp" alt="" coords="196,184,363,225"/>
-<area shape="rect" id="node5" href="$lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="572,184,717,225"/>
-<area shape="rect" id="node6" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="387,184,532,225"/>
+<area shape="rect" id="node5" href="$lua_2nodes_2extract_2float_8cpp.html" title="src/plugins/lua/nodes\l/extract/float.cpp" alt="" coords="725,184,871,225"/>
+<area shape="rect" id="node6" href="$lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="556,184,701,225"/>
+<area shape="rect" id="node7" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="387,184,532,225"/>
 </map>
