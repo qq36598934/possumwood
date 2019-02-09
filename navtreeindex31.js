@@ -1,5 +1,14 @@
 var NAVTREEINDEX31 =
 {
+"structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_011_01_4.html":[2,0,2,0,1,3],
+"structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_011_01_4.html#a3b85562f136e0591fce54106d9676e92":[2,0,2,0,1,3,0],
+"structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_012_01_4.html":[2,0,2,0,1,5],
+"structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_012_01_4.html#adce8d8e73d93f6f68486e3614207b228":[2,0,2,0,1,5,0],
+"structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_013_01_4.html":[2,0,2,0,1,6],
+"structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_013_01_4.html#a4dea461b41c1da63366d0caf797c3ce6":[2,0,2,0,1,6,0],
+"structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_014_01_4.html":[2,0,2,0,1,7],
+"structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_014_01_4.html#ae4a5bfd232f737705bf4ad04026c8d15":[2,0,2,0,1,7,0],
+"structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_015_01_4.html":[2,0,2,0,1,8],
 "structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_015_01_4.html#a7422c7a091dcf7e5e89bea1a94ef5f1d":[2,0,2,0,1,8,0],
 "structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_016_01_4.html":[2,0,2,0,1,9],
 "structexprtk_1_1details_1_1numeric_1_1fast__exp_3_01T_00_016_01_4.html#a1529bbf5bb54a3f2f9a343135731ad72":[2,0,2,0,1,9,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX31 =
 "structexprtk_1_1function__compositor_1_1base__func.html#a88408dd5e88ad9056efd3fecc0a1ce66":[2,0,2,6,0,2],
 "structexprtk_1_1function__compositor_1_1base__func.html#a98270e7969072d5bb38160d6bde3d83d":[2,0,2,6,0,21],
 "structexprtk_1_1function__compositor_1_1base__func.html#ab2310660da6afcb4408d3e4d3eae862a":[2,0,2,6,0,10],
-"structexprtk_1_1function__compositor_1_1base__func.html#ab5f3172fc8f363277710c3a40e18ca99":[2,0,2,6,0,26],
-"structexprtk_1_1function__compositor_1_1base__func.html#ab80db46a9292bb5975b0d4cc2e19ca7f":[2,0,2,6,0,4],
-"structexprtk_1_1function__compositor_1_1base__func.html#ac6dda5e984ae25179ae2288d68bd083d":[2,0,2,6,0,24],
-"structexprtk_1_1function__compositor_1_1base__func.html#accc478144209d176f52eec2ef574a403":[2,0,2,6,0,23],
-"structexprtk_1_1function__compositor_1_1base__func.html#adbc4ba0ec439a2f7c1239e74927b6917":[2,0,2,6,0,15],
-"structexprtk_1_1function__compositor_1_1base__func.html#aec8e8f4e8c3bb05464c241c627eaeed3":[2,0,2,6,0,20],
-"structexprtk_1_1function__compositor_1_1base__func.html#af0e0fc5655f079e0cdda50a4aa9ad4dd":[2,0,2,6,0,16],
-"structexprtk_1_1function__compositor_1_1base__func.html#af3760f17d9c710be280248529c1efffb":[2,0,2,6,0,1],
-"structexprtk_1_1function__compositor_1_1base__func.html#aff7f556b2383248faf81ddc09eb0543d":[2,0,2,6,0,8],
-"structexprtk_1_1function__compositor_1_1func__0param.html":[2,0,2,6,1]
+"structexprtk_1_1function__compositor_1_1base__func.html#ab5f3172fc8f363277710c3a40e18ca99":[2,0,2,6,0,26]
 };

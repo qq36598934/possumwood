@@ -116,6 +116,7 @@ var searchData=
   ['m_5fmessages',['m_messages',['../classdependency__graph_1_1State.html#ad833e7182785c41a54ef6481520d3507',1,'dependency_graph::State']]],
   ['m_5fmeta',['m_meta',['../classdependency__graph_1_1Datablock.html#ad25f45bc3181a31ee6c4f763c88afbc9',1,'dependency_graph::Datablock::m_meta()'],['../classdependency__graph_1_1MetadataHandle.html#aad361f8d05dccb2ed6be5e9d870b80a5',1,'dependency_graph::MetadataHandle::m_meta()'],['../structpossumwood_1_1NodeImplementation.html#a0b6a9d28866b461d0984fb93f097ad7c',1,'possumwood::NodeImplementation::m_meta()']]],
   ['m_5fmetadata',['m_metadata',['../classdependency__graph_1_1NodeBase.html#accdf3f91f2693f04a09a54400bfe4272',1,'dependency_graph::NodeBase']]],
+  ['m_5fmodules',['m_modules',['../classpossumwood_1_1lua_1_1Context.html#a80a29f6a56f6410aa1a30ebe906a341c',1,'possumwood::lua::Context']]],
   ['m_5fmousepos',['m_mousePos',['../classanim_1_1MotionMap.html#adeb8205d76f38f248ed88357efe41fad',1,'anim::MotionMap']]],
   ['m_5fmousex',['m_mouseX',['../classViewport.html#a0bc703782355f5faba5cb6aafd5e27d5',1,'Viewport::m_mouseX()'],['../classnode__editor_1_1GraphWidget.html#a0011029b0a3a54ed8a01cf8497ac8d8f',1,'node_editor::GraphWidget::m_mouseX()']]],
   ['m_5fmousey',['m_mouseY',['../classViewport.html#ac8f47c094b3f64743f44033ce83acb5a',1,'Viewport::m_mouseY()'],['../classnode__editor_1_1GraphWidget.html#a3e6de970490300dbb7fc314da714d76d',1,'node_editor::GraphWidget::m_mouseY()']]],

@@ -37,7 +37,7 @@
 <area shape="rect" id="node35" href="$uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="2033,273,2211,315"/>
 <area shape="rect" id="node36" href="$nodes_2uniforms_2texture_8cpp.html" title="src/plugins/render\l/nodes/uniforms/texture.cpp" alt="" coords="2235,273,2419,315"/>
 <area shape="rect" id="node37" href="$plugins_2render_2nodes_2uniforms_2transform_8cpp.html" title="src/plugins/render\l/nodes/uniforms/transform.cpp" alt="" coords="2444,273,2643,315"/>
-<area shape="rect" id="node38" href="$unsigned_8cpp.html" title="src/plugins/render\l/nodes/uniforms/unsigned.cpp" alt="" coords="2667,273,2863,315"/>
+<area shape="rect" id="node38" href="$render_2nodes_2uniforms_2unsigned_8cpp.html" title="src/plugins/render\l/nodes/uniforms/unsigned.cpp" alt="" coords="2667,273,2863,315"/>
 <area shape="rect" id="node39" href="$render_2nodes_2uniforms_2vec3_8cpp.html" title="src/plugins/render\l/nodes/uniforms/vec3.cpp" alt="" coords="2887,273,3059,315"/>
 <area shape="rect" id="node40" href="$background_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/background.cpp" alt="" coords="3083,273,3313,315"/>
 <area shape="rect" id="node41" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="3337,273,3523,315"/>

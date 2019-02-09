@@ -123,6 +123,8 @@ $(document).ready(function(){initNavTree('classpossumwood_1_1lua_1_1Context.html
 Public Types</h2></td></tr>
 <tr class="memitem:ad4d298c10cf9e81bd727c53814e76253"><td class="memItemLeft" align="right" valign="top">typedef boost::indirect_iterator&lt; std::vector&lt; std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1lua_1_1Variable.html">Variable</a> &gt; &gt;::const_iterator &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#ad4d298c10cf9e81bd727c53814e76253">const_var_iterator</a></td></tr>
 <tr class="separator:ad4d298c10cf9e81bd727c53814e76253"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab759a46f2c43394c40af5e286f6a3930"><td class="memItemLeft" align="right" valign="top">typedef boost::transform_iterator&lt; std::function&lt; const std::string &amp;(const std::pair&lt; std::string, std::function&lt; void(<a class="el" href="classpossumwood_1_1lua_1_1State.html">State</a> &amp;)&gt;&gt; &amp;)&gt;, std::map&lt; std::string, std::function&lt; void(<a class="el" href="classpossumwood_1_1lua_1_1State.html">State</a> &amp;)&gt; &gt;::const_iterator &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#ab759a46f2c43394c40af5e286f6a3930">const_module_iterator</a></td></tr>
+<tr class="separator:ab759a46f2c43394c40af5e286f6a3930"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -136,17 +138,23 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a31f3f4c0202a0d5f10861b2e4523842d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6942a16692dd67fc8c990e2d021b0bec"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a6942a16692dd67fc8c990e2d021b0bec">addVariable</a> (std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1lua_1_1Variable.html">Variable</a> &gt; &amp;&amp;var)</td></tr>
 <tr class="separator:a6942a16692dd67fc8c990e2d021b0bec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1f39beeba62ab97a33f6bc161b6ef9e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#ac1f39beeba62ab97a33f6bc161b6ef9e">addModule</a> (const std::string &amp;<a class="el" href="x_8cpp.html#a9b45b3e13bd9167aab02e17e08916231">name</a>, const std::function&lt; void(<a class="el" href="classpossumwood_1_1lua_1_1State.html">State</a> &amp;)&gt; &amp;registration)</td></tr>
+<tr class="separator:ac1f39beeba62ab97a33f6bc161b6ef9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeaf4286f5ab89c058573f389bbd80239"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#aeaf4286f5ab89c058573f389bbd80239">operator==</a> (const <a class="el" href="classpossumwood_1_1lua_1_1Context.html">Context</a> &amp;c) const </td></tr>
 <tr class="separator:aeaf4286f5ab89c058573f389bbd80239"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a43e19d06cd05f9f955898383004cf00d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a43e19d06cd05f9f955898383004cf00d">operator!=</a> (const <a class="el" href="classpossumwood_1_1lua_1_1Context.html">Context</a> &amp;c) const </td></tr>
 <tr class="separator:a43e19d06cd05f9f955898383004cf00d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af35b7b34d011c68a3c58dcd4889cf74c"><td class="memItemLeft" align="right" valign="top">boost::iterator_range&lt; <a class="el" href="classpossumwood_1_1lua_1_1Context.html#ad4d298c10cf9e81bd727c53814e76253">const_var_iterator</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#af35b7b34d011c68a3c58dcd4889cf74c">variables</a> () const </td></tr>
 <tr class="separator:af35b7b34d011c68a3c58dcd4889cf74c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26c20a35d6e5f923a60c9f5f4c837c35"><td class="memItemLeft" align="right" valign="top">boost::iterator_range&lt; <a class="el" href="classpossumwood_1_1lua_1_1Context.html#ab759a46f2c43394c40af5e286f6a3930">const_module_iterator</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a26c20a35d6e5f923a60c9f5f4c837c35">modules</a> () const </td></tr>
+<tr class="separator:a26c20a35d6e5f923a60c9f5f4c837c35"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a1e18655de33b0796b5bae8a6dccb2bbe"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1lua_1_1Variable.html">Variable</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a1e18655de33b0796b5bae8a6dccb2bbe">m_variables</a></td></tr>
 <tr class="separator:a1e18655de33b0796b5bae8a6dccb2bbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80a29f6a56f6410aa1a30ebe906a341c"><td class="memItemLeft" align="right" valign="top">std::map&lt; std::string, std::function&lt; void(<a class="el" href="classpossumwood_1_1lua_1_1State.html">State</a> &amp;)&gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a80a29f6a56f6410aa1a30ebe906a341c">m_modules</a></td></tr>
+<tr class="separator:a80a29f6a56f6410aa1a30ebe906a341c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
@@ -156,6 +164,18 @@ Friends</h2></td></tr>
 <tr class="separator:adf34b21f0add4de5baba497cd693c8de"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Typedef Documentation</h2>
+<a class="anchor" id="ab759a46f2c43394c40af5e286f6a3930"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef boost::transform_iterator&lt; std::function&lt;const std::string&amp;(const std::pair&lt;std::string, std::function&lt;void(<a class="el" href="classpossumwood_1_1lua_1_1State.html">State</a>&amp;)&gt;&gt;&amp;)&gt;, std::map&lt;std::string, std::function&lt;void(<a class="el" href="classpossumwood_1_1lua_1_1State.html">State</a>&amp;)&gt; &gt;::const_iterator &gt; <a class="el" href="classpossumwood_1_1lua_1_1Context.html#ab759a46f2c43394c40af5e286f6a3930">possumwood::lua::Context::const_module_iterator</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="ad4d298c10cf9e81bd727c53814e76253"></a>
 <div class="memitem">
 <div class="memproto">
@@ -216,6 +236,32 @@ Friends</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a class="anchor" id="ac1f39beeba62ab97a33f6bc161b6ef9e"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void possumwood::lua::Context::addModule </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::function&lt; void(<a class="el" href="classpossumwood_1_1lua_1_1State.html">State</a> &amp;)&gt; &amp;&#160;</td>
+          <td class="paramname"><em>registration</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a6942a16692dd67fc8c990e2d021b0bec"></a>
 <div class="memitem">
 <div class="memproto">
@@ -226,6 +272,21 @@ Friends</h2></td></tr>
           <td class="paramtype">std::unique_ptr&lt; <a class="el" href="classpossumwood_1_1lua_1_1Variable.html">Variable</a> &gt; &amp;&amp;&#160;</td>
           <td class="paramname"><em>var</em></td><td>)</td>
           <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a26c20a35d6e5f923a60c9f5f4c837c35"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">boost::iterator_range&lt; <a class="el" href="classpossumwood_1_1lua_1_1Context.html#ab759a46f2c43394c40af5e286f6a3930">Context::const_module_iterator</a> &gt; possumwood::lua::Context::modules </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -351,6 +412,26 @@ Friends</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a class="anchor" id="a80a29f6a56f6410aa1a30ebe906a341c"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::map&lt;std::string, std::function&lt;void(<a class="el" href="classpossumwood_1_1lua_1_1State.html">State</a>&amp;)&gt; &gt; possumwood::lua::Context::m_modules</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a1e18655de33b0796b5bae8a6dccb2bbe"></a>
 <div class="memitem">
 <div class="memproto">
@@ -381,7 +462,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="namespacepossumwood_1_1lua.html">lua</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">Context</a></li>
-    <li class="footer">Generated on Sat Feb 9 2019 01:41:14 for possumwood by
+    <li class="footer">Generated on Sat Feb 9 2019 03:02:01 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

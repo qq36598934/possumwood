@@ -2,6 +2,9 @@
 <area shape="rect" id="node2" href="$context_8cpp.html" title="src/plugins/lua/datatypes\l/context.cpp" alt="" coords="5,95,172,136"/>
 <area shape="rect" id="node3" href="$plugins_2lua_2datatypes_2state_8cpp.html" title="src/plugins/lua/datatypes\l/state.cpp" alt="" coords="196,95,363,136"/>
 <area shape="rect" id="node4" href="$lua_2nodes_2extract_2float_8cpp.html" title="src/plugins/lua/nodes\l/extract/float.cpp" alt="" coords="387,95,532,136"/>
-<area shape="rect" id="node5" href="$lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="556,95,701,136"/>
-<area shape="rect" id="node6" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="725,95,871,136"/>
+<area shape="rect" id="node5" href="$lua_2nodes_2extract_2unsigned_8cpp.html" title="src/plugins/lua/nodes\l/extract/unsigned.cpp" alt="" coords="557,95,703,136"/>
+<area shape="rect" id="node6" href="$lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="728,95,873,136"/>
+<area shape="rect" id="node7" href="$lua_2nodes_2inject_2unsigned_8cpp.html" title="src/plugins/lua/nodes\l/inject/unsigned.cpp" alt="" coords="897,95,1043,136"/>
+<area shape="rect" id="node8" href="$math_8cpp.html" title="src/plugins/lua/nodes\l/modules/math.cpp" alt="" coords="1067,95,1212,136"/>
+<area shape="rect" id="node9" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="1236,95,1381,136"/>
 </map>

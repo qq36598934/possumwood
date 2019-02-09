@@ -113,11 +113,15 @@ $(document).ready(function(){initNavTree('classpossumwood_1_1lua_1_1Context.html
 
 <p>This is the complete list of members for <a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a6942a16692dd67fc8c990e2d021b0bec">addVariable</a>(std::unique_ptr&lt; Variable &gt; &amp;&amp;var)</td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#ac1f39beeba62ab97a33f6bc161b6ef9e">addModule</a>(const std::string &amp;name, const std::function&lt; void(State &amp;)&gt; &amp;registration)</td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a6942a16692dd67fc8c990e2d021b0bec">addVariable</a>(std::unique_ptr&lt; Variable &gt; &amp;&amp;var)</td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#ab759a46f2c43394c40af5e286f6a3930">const_module_iterator</a> typedef</td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#ad4d298c10cf9e81bd727c53814e76253">const_var_iterator</a> typedef</td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a21495e4130495df529c151bf744666c9">Context</a>()</td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#ac662051649facbfd02a7af73bd2b02a7">Context</a>(const Context &amp;con)</td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a1e18655de33b0796b5bae8a6dccb2bbe">m_variables</a></td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a80a29f6a56f6410aa1a30ebe906a341c">m_modules</a></td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a1e18655de33b0796b5bae8a6dccb2bbe">m_variables</a></td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a26c20a35d6e5f923a60c9f5f4c837c35">modules</a>() const </td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a43e19d06cd05f9f955898383004cf00d">operator!=</a>(const Context &amp;c) const </td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#adf34b21f0add4de5baba497cd693c8de">operator&lt;&lt;</a>(std::ostream &amp;out, const Context &amp;st)</td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
   <tr><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html#a31f3f4c0202a0d5f10861b2e4523842d">operator=</a>(const Context &amp;con)</td><td class="entry"><a class="el" href="classpossumwood_1_1lua_1_1Context.html">possumwood::lua::Context</a></td><td class="entry"></td></tr>
@@ -130,7 +134,7 @@ $(document).ready(function(){initNavTree('classpossumwood_1_1lua_1_1Context.html
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Feb 9 2019 01:41:14 for possumwood by
+    <li class="footer">Generated on Sat Feb 9 2019 03:02:01 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

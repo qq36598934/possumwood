@@ -8,6 +8,7 @@ var searchData=
   ['main_2ecpp',['main.cpp',['../tests_2possumwood_2main_8cpp.html',1,'']]],
   ['main_5fwindow_2ecpp',['main_window.cpp',['../main__window_8cpp.html',1,'']]],
   ['main_5fwindow_2eh',['main_window.h',['../main__window_8h.html',1,'']]],
+  ['math_2ecpp',['math.cpp',['../math_8cpp.html',1,'']]],
   ['mesh_2ecpp',['mesh.cpp',['../mesh_8cpp.html',1,'']]],
   ['mesh_2eh',['mesh.h',['../mesh_8h.html',1,'']]],
   ['mesh_5fsubset_5feditor_2ecpp',['mesh_subset_editor.cpp',['../mesh__subset__editor_8cpp.html',1,'']]],

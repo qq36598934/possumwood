@@ -43,9 +43,9 @@
 <area shape="rect" id="node43" href="$plugins_2images_2nodes_2metadata_8cpp.html" title="src/plugins/images\l/nodes/metadata.cpp" alt="" coords="6373,273,6517,315"/>
 <area shape="rect" id="node44" href="$per__pixel__expr_8cpp.html" title="src/plugins/images\l/nodes/per_pixel_expr.cpp" alt="" coords="6541,273,6716,315"/>
 <area shape="rect" id="node45" href="$lua_2nodes_2extract_2float_8cpp.html" title="src/plugins/lua/nodes\l/extract/float.cpp" alt="" coords="6740,273,6885,315"/>
-<area shape="rect" id="node46" href="$lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="6909,273,7055,315"/>
-<area shape="rect" id="node47" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="7079,273,7224,315"/>
-<area shape="rect" id="node48" href="$add_8cpp.html" title="src/plugins/maths/nodes\l/add.cpp" alt="" coords="7248,273,7412,315"/>
-<area shape="rect" id="node49" href="$cube_8cpp.html" title="src/plugins/maths/nodes\l/cube.cpp" alt="" coords="7436,273,7600,315"/>
-<area shape="rect" id="node50" href="$mult_8cpp.html" title="src/plugins/maths/nodes\l/mult.cpp" alt="" coords="7624,273,7788,315"/>
+<area shape="rect" id="node46" href="$lua_2nodes_2extract_2unsigned_8cpp.html" title="src/plugins/lua/nodes\l/extract/unsigned.cpp" alt="" coords="6910,273,7057,315"/>
+<area shape="rect" id="node47" href="$lua_2nodes_2inject_2float_8cpp.html" title="src/plugins/lua/nodes\l/inject/float.cpp" alt="" coords="7081,273,7227,315"/>
+<area shape="rect" id="node48" href="$lua_2nodes_2inject_2unsigned_8cpp.html" title="src/plugins/lua/nodes\l/inject/unsigned.cpp" alt="" coords="7251,273,7396,315"/>
+<area shape="rect" id="node49" href="$math_8cpp.html" title="src/plugins/lua/nodes\l/modules/math.cpp" alt="" coords="7420,273,7565,315"/>
+<area shape="rect" id="node50" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="7589,273,7735,315"/>
 </map>
