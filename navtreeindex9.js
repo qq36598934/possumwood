@@ -1,5 +1,12 @@
 var NAVTREEINDEX9 =
 {
+"classexprtk_1_1details_1_1sosos__node.html#ad35e759759f485d0611eeea1728b29d7":[2,0,2,0,119,13],
+"classexprtk_1_1details_1_1sosos__node.html#ad4bdc8d09063c8af0c172010bee4748a":[2,0,2,0,119,7],
+"classexprtk_1_1details_1_1sosos__node.html#ae981df2d877046be3c402529d1bb9952":[2,0,2,0,119,6],
+"classexprtk_1_1details_1_1sosos__node.html#aef8ebc888d1ea1ffb88585ba99f8c63b":[2,0,2,0,119,3],
+"classexprtk_1_1details_1_1sosos__node.html#aefb587efd082a467c30c4a1b6bc53381":[2,0,2,0,119,1],
+"classexprtk_1_1details_1_1str__sogens__node.html":[2,0,2,0,120],
+"classexprtk_1_1details_1_1str__sogens__node.html#a0578a84b69eeec62ba6b8fa7efb30d3d":[2,0,2,0,120,10],
 "classexprtk_1_1details_1_1str__sogens__node.html#a16cf09aa4567d58ddf413f226e4b443c":[2,0,2,0,120,5],
 "classexprtk_1_1details_1_1str__sogens__node.html#a628e2ab6bf58d6c1ab4ad67e44d8ccc1":[2,0,2,0,120,6],
 "classexprtk_1_1details_1_1str__sogens__node.html#a6dc7a8722367acb4e79d3e07eef64ff1":[2,0,2,0,120,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX9 =
 "classexprtk_1_1details_1_1swap__string__node.html#ac4e607b4240e8d8fa1dffeb3710ee811":[2,0,2,0,137,3],
 "classexprtk_1_1details_1_1swap__string__node.html#ac63515a240f3416f928914c928ede210":[2,0,2,0,137,2],
 "classexprtk_1_1details_1_1swap__string__node.html#ad87170ed61307cf80295ba91724d3038":[2,0,2,0,137,14],
-"classexprtk_1_1details_1_1swap__string__node.html#ae580fcc9265c93f3387b4a879529d026":[2,0,2,0,137,13],
-"classexprtk_1_1details_1_1swap__string__node.html#aec7f1d34da985d6f8c5081c4408becc7":[2,0,2,0,137,16],
-"classexprtk_1_1details_1_1swap__string__node.html#afd970c85bc90d7db7e2faf65e8ff8082":[2,0,2,0,137,9],
-"classexprtk_1_1details_1_1swap__vecvec__node.html":[2,0,2,0,138],
-"classexprtk_1_1details_1_1swap__vecvec__node.html#a045fe2a9b604c92099472e281b4bbfb8":[2,0,2,0,138,1],
-"classexprtk_1_1details_1_1swap__vecvec__node.html#a0bee8988616c63f438949e3bfcdc1ed7":[2,0,2,0,138,9],
-"classexprtk_1_1details_1_1swap__vecvec__node.html#a0d431d0732d00e536a38dfc063c367ae":[2,0,2,0,138,12],
-"classexprtk_1_1details_1_1swap__vecvec__node.html#a1bc902b01d094c2dd9648e7a5b660990":[2,0,2,0,138,10]
+"classexprtk_1_1details_1_1swap__string__node.html#ae580fcc9265c93f3387b4a879529d026":[2,0,2,0,137,13]
 };

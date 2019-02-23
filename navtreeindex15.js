@@ -1,5 +1,12 @@
 var NAVTREEINDEX15 =
 {
+"classexprtk_1_1parser_1_1settings__store.html#a9d0d6c643c3b390d5d95c80f976ab56d":[2,0,2,11,12,75],
+"classexprtk_1_1parser_1_1settings__store.html#a9dc60a2450c355dd5bec834d07548493":[2,0,2,11,12,84],
+"classexprtk_1_1parser_1_1settings__store.html#aa03f503e9852b0f15883dff554de7a59":[2,0,2,11,12,46],
+"classexprtk_1_1parser_1_1settings__store.html#aa4b9785edf7200e38f4bcfa4175a8178":[2,0,2,11,12,29],
+"classexprtk_1_1parser_1_1settings__store.html#aa5ee1a16ba888e5cc230d992a54fd59b":[2,0,2,11,12,43],
+"classexprtk_1_1parser_1_1settings__store.html#aa770a366a367e7a6484c7dba5f3c04d9":[2,0,2,11,12,35],
+"classexprtk_1_1parser_1_1settings__store.html#ab6fe4427c778e721d90da561b6caf116":[2,0,2,11,12,13],
 "classexprtk_1_1parser_1_1settings__store.html#abb025cd054aad77782265db63fd16b88":[2,0,2,11,12,72],
 "classexprtk_1_1parser_1_1settings__store.html#abd32ca8941bdd77bfa733b97720acfe3":[2,0,2,11,12,16],
 "classexprtk_1_1parser_1_1settings__store.html#ac151a5f20ba76b583a1f9f7ce07a14c6":[2,0,2,11,12,56],
@@ -242,12 +249,5 @@ var NAVTREEINDEX15 =
 "classexprtk_1_1rtl_1_1vecops_1_1rol.html#afaf4590574642fd10d4973a36c270bfe":[2,0,2,3,1,17,6],
 "classexprtk_1_1rtl_1_1vecops_1_1ror.html":[2,0,2,3,1,18],
 "classexprtk_1_1rtl_1_1vecops_1_1ror.html#a4045519eade0c4efd9afe9c90c706f07":[2,0,2,3,1,18,3],
-"classexprtk_1_1rtl_1_1vecops_1_1ror.html#a42caa4726e0fa961e7ed1d1678a60f8c":[2,0,2,3,1,18,5],
-"classexprtk_1_1rtl_1_1vecops_1_1ror.html#a474e1e0f4b276b5a0e5d8259cdefd2c2":[2,0,2,3,1,18,4],
-"classexprtk_1_1rtl_1_1vecops_1_1ror.html#a53a6cfcbbdf3be2348239ca7c9f260ca":[2,0,2,3,1,18,2],
-"classexprtk_1_1rtl_1_1vecops_1_1ror.html#aaf6c5be2b234cc06789f86b8186682a7":[2,0,2,3,1,18,1],
-"classexprtk_1_1rtl_1_1vecops_1_1ror.html#ae0288ebc86bde029693178b3c04d7852":[2,0,2,3,1,18,0],
-"classexprtk_1_1rtl_1_1vecops_1_1ror.html#aeb4db87125340bbf4c38e2cfdb4ad530":[2,0,2,3,1,18,6],
-"classexprtk_1_1rtl_1_1vecops_1_1shift__left.html":[2,0,2,3,1,19],
-"classexprtk_1_1rtl_1_1vecops_1_1shift__left.html#a130cc3645652092437ed2bf5af73cccf":[2,0,2,3,1,19,6]
+"classexprtk_1_1rtl_1_1vecops_1_1ror.html#a42caa4726e0fa961e7ed1d1678a60f8c":[2,0,2,3,1,18,5]
 };

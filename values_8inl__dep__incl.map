@@ -46,6 +46,6 @@
 <area shape="rect" id="node35" href="$unsigned__constant_8cpp.html" title="src/plugins/expressions\l/nodes/unsigned_constant.cpp" alt="" coords="5830,184,6029,225"/>
 <area shape="rect" id="node36" href="$generate_8cpp.html" title="src/plugins/images\l/nodes/generate.cpp" alt="" coords="6053,184,6193,225"/>
 <area shape="rect" id="node37" href="$load_8cpp.html" title="src/plugins/images\l/nodes/load.cpp" alt="" coords="6217,184,6348,225"/>
-<area shape="rect" id="node38" href="$plugins_2images_2nodes_2metadata_8cpp.html" title="src/plugins/images\l/nodes/metadata.cpp" alt="" coords="6372,184,6516,225"/>
-<area shape="rect" id="node39" href="$per__pixel__expr_8cpp.html" title="src/plugins/images\l/nodes/per_pixel_expr.cpp" alt="" coords="6541,184,6715,225"/>
+<area shape="rect" id="node38" href="$load__hdr_8cpp.html" title="src/plugins/images\l/nodes/load_hdr.cpp" alt="" coords="6372,184,6511,225"/>
+<area shape="rect" id="node39" href="$plugins_2images_2nodes_2metadata_8cpp.html" title="src/plugins/images\l/nodes/metadata.cpp" alt="" coords="6535,184,6679,225"/>
 </map>

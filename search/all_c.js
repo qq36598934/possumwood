@@ -2,6 +2,8 @@ var searchData=
 [
   ['labeldistance',['labelDistance',['../classTimeline.html#ad803994d04be6f6fb8e3ec12fc61fd6c',1,'Timeline']]],
   ['last_5ftoken',['last_token',['../classpossumwood_1_1io_1_1basic__json_1_1parser.html#af55379ae9a2d580081ab36f73a0004d2',1,'possumwood::io::basic_json::parser']]],
+  ['ldrpixel',['LDRPixel',['../namespacepossumwood.html#ac72857387a88be977862069f86f7174b',1,'possumwood']]],
+  ['ldrpixmap',['LDRPixmap',['../namespacepossumwood.html#a693e8110293461bbb3849e96e80afd1e',1,'possumwood']]],
   ['left',['left',['../structexprtk_1_1parser_1_1state__t.html#aca75f65f14ec224125a8c740fc315a81',1,'exprtk::parser::state_t']]],
   ['length',['length',['../structexprtk_1_1details_1_1numeric_1_1numeric__info.html#a0884d785ae5a7ef6ea76221866ccbf7ea78cc210ed48a9b8155f5ee52e52b3195',1,'exprtk::details::numeric::numeric_info::length()'],['../structexprtk_1_1details_1_1numeric_1_1numeric__info_3_01int_01_4.html#a05b5faca6c4e67638742334e2b5d497aaec51b36924500cd69ada4eafe20361e9',1,'exprtk::details::numeric::numeric_info&lt; int &gt;::length()']]],
   ['less_3c_3a_3apossumwood_3a_3aio_3a_3adetail_3a_3avalue_5ft_20_3e',['less&lt;::possumwood::io::detail::value_t &gt;',['../structstd_1_1less_3_1_1possumwood_1_1io_1_1detail_1_1value__t_01_4.html',1,'std']]],
@@ -39,6 +41,7 @@ var searchData=
   ['load_5fbinary_5foperations_5fmap',['load_binary_operations_map',['../classexprtk_1_1parser.html#ab8d1898e966a6b3c830e0ac8db4252aa',1,'exprtk::parser']]],
   ['load_5fcompile_5foptions',['load_compile_options',['../classexprtk_1_1parser_1_1settings__store.html#ae5942b72ba7b179853801dc8b80ff7b7',1,'exprtk::parser::settings_store']]],
   ['load_5ffrom',['load_from',['../classexprtk_1_1symbol__table.html#a75cebe63381cb4ef57b450047c89b78d',1,'exprtk::symbol_table']]],
+  ['load_5fhdr_2ecpp',['load_hdr.cpp',['../load__hdr_8cpp.html',1,'']]],
   ['load_5finv_5fbinary_5foperations_5fmap',['load_inv_binary_operations_map',['../classexprtk_1_1parser.html#a968be51aaf6f7356dd476d4e62f52060',1,'exprtk::parser']]],
   ['load_5foperations_5fmap',['load_operations_map',['../namespaceexprtk_1_1details.html#a793f4d1e3df18ee92e0d96ad7acce91c',1,'exprtk::details']]],
   ['load_5fsf3_5fmap',['load_sf3_map',['../classexprtk_1_1parser.html#a3d4bcb25a0cf1cc7fa61bba183538f65',1,'exprtk::parser']]],

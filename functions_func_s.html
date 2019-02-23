@@ -284,6 +284,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 , <a class="el" href="classfloat__ui.html#ac513ea9298b05cd78a56cb8fd2546e4c">float_ui</a>
 , <a class="el" href="classFrameEditor.html#ac3b1232af38fc47e94d5e48ab0a8ea75">FrameEditor</a>
 , <a class="el" href="classGenericMeshUI.html#aa36148f6dc093e708f252a0f5f40d039">GenericMeshUI</a>
+, <a class="el" href="classinterval__ui.html#a93395ca8350578565050864d1f552b42">interval_ui</a>
 , <a class="el" href="classJointMappingEditor.html#ae3caec527af87ce338813172a7dde2c5">JointMappingEditor</a>
 , <a class="el" href="classMeshesUI.html#a320032e5c2cede15fbc1eb4ed043729a">MeshesUI</a>
 , <a class="el" href="classMeshSubsetEditor.html#adb9dfb1867c141f713aaa5d920aef8cf">MeshSubsetEditor</a>
@@ -406,6 +407,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 <li>setEditor()
 : <a class="el" href="classpossumwood_1_1Metadata.html#ae7d5d18cd272ee23c5f9f3cbedf5720a">possumwood::Metadata</a>
 </li>
+<li>setEditorFactory()
+: <a class="el" href="classpossumwood_1_1Metadata.html#a3398f3e3ec240fa3faefe1b2c6f5674c">possumwood::Metadata</a>
+</li>
 <li>setFilename()
 : <a class="el" href="classpossumwood_1_1Filename.html#a7c43f29e86758608890b886d85e9ed8a">possumwood::Filename</a>
 </li>
@@ -418,6 +422,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 <li>setInitialised()
 : <a class="el" href="classpossumwood_1_1VBOBase.html#aca7a476fb51d2daa7a6153ad89952fb5">possumwood::VBOBase</a>
 </li>
+<li>setInProgressUpdates()
+: <a class="el" href="classpossumwood_1_1maths_1_1Interval.html#abd05c6189cdc184ede572367b7643101">possumwood::maths::Interval</a>
+</li>
 <li>setInput()
 : <a class="el" href="classdependency__graph_1_1Node.html#a430249f24ea073de8f931419de3b288b">dependency_graph::Node</a>
 </li>
@@ -427,8 +434,14 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 <li>setMainWindow()
 : <a class="el" href="classpossumwood_1_1App.html#a5579c16d1920f67e06aeff0f7e2b4ee1">possumwood::App</a>
 </li>
+<li>setMax()
+: <a class="el" href="classpossumwood_1_1maths_1_1Interval.html#a10929ba86f1096e8247cf092ad6e0648">possumwood::maths::Interval</a>
+</li>
 <li>setMetadata()
 : <a class="el" href="classdependency__graph_1_1NodeBase.html#ab6a87538bd5b2407a72a3d9aeca98630">dependency_graph::NodeBase</a>
+</li>
+<li>setMin()
+: <a class="el" href="classpossumwood_1_1maths_1_1Interval.html#a7c1e2c690b41c5a6b6e1d4fef98cee53">possumwood::maths::Interval</a>
 </li>
 <li>setName()
 : <a class="el" href="classanim_1_1SkinnedMesh.html#a950838fe56f4ade4388179001e4c600b">anim::SkinnedMesh</a>
@@ -496,12 +509,16 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 <li>setTransform()
 : <a class="el" href="classanim_1_1FrameEditorData.html#aaeb657d99991663bf124bd586b2d18cb">anim::FrameEditorData</a>
 </li>
+<li>setType()
+: <a class="el" href="classpossumwood_1_1maths_1_1Interval.html#ab4d7a0c9d5a9cc222fda21b94da78ec1">possumwood::maths::Interval</a>
+</li>
 <li>setup()
 : <a class="el" href="structexprtk_1_1function__compositor_1_1base__func.html#adbc4ba0ec439a2f7c1239e74927b6917">exprtk::function_compositor&lt; T &gt;::base_func</a>
 </li>
 <li>setValue()
 : <a class="el" href="classpossumwood_1_1Enum.html#ae77b956f5073b2c30ec2488a2f78ac54">possumwood::Enum</a>
-, <a class="el" href="classpossumwood_1_1Pixel.html#abcb5d5e683744206940df8fdc53db790">possumwood::Pixel</a>
+, <a class="el" href="classpossumwood_1_1maths_1_1Interval.html#a641b47d705d91877c17515465882ee5d">possumwood::maths::Interval</a>
+, <a class="el" href="classpossumwood_1_1Pixel.html#af381b28d11cb5d1832510e0861e7d0ac">possumwood::Pixel&lt; BASE &gt;</a>
 , <a class="el" href="classTimeline.html#ae65b8e45c2601e8841ab69764ff2cac2">Timeline</a>
 </li>
 <li>setWidth()
@@ -625,7 +642,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classanim_1_1FrameEditorData.html#a65c7e5354cad958fbea521f6489775e9">anim::FrameEditorData</a>
 </li>
 <li>Skeleton()
-: <a class="el" href="classanim_1_1Skeleton.html#a5ce96faf871847ec710b038052f3fa5b">anim::Skeleton</a>
+: <a class="el" href="classanim_1_1Skeleton.html#af01a02f1ce9ae4c801cd6e66ccf7407f">anim::Skeleton</a>
 , <a class="el" href="classSkeleton.html#af01a02f1ce9ae4c801cd6e66ccf7407f">Skeleton</a>
 </li>
 <li>SkinnedMesh()
@@ -644,7 +661,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classexprtk_1_1rtl_1_1vecops_1_1sort.html#a5892c88f572d1cf851a23be97c4ced70">exprtk::rtl::vecops::sort&lt; T &gt;</a>
 </li>
 <li>sos_node()
-: <a class="el" href="classexprtk_1_1details_1_1sos__node.html#a2a820df20f9f6b1457bd6326a35bae16">exprtk::details::sos_node&lt; T, SType0, SType1, Operation &gt;</a>
+: <a class="el" href="classexprtk_1_1details_1_1sos__node.html#a050b928b43247d3900363d328e85b31e">exprtk::details::sos_node&lt; T, SType0, SType1, Operation &gt;</a>
 </li>
 <li>sosos_node()
 : <a class="el" href="classexprtk_1_1details_1_1sosos__node.html#a1893c55372edb739e15f8668a1480acc">exprtk::details::sosos_node&lt; T, SType0, SType1, SType2, Operation &gt;</a>
@@ -659,7 +676,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classanim_1_1JointMappingEditorData.html#a6b8c80731912a35d99661f7c9e464ba8">anim::JointMappingEditorData</a>
 </li>
 <li>special_function()
-: <a class="el" href="classexprtk_1_1parser_1_1expression__generator.html#a971a4beb61d988c514489b7beec386ff">exprtk::parser&lt; T &gt;::expression_generator&lt; Type &gt;</a>
+: <a class="el" href="classexprtk_1_1parser_1_1expression__generator.html#a48b40aa674cb08d4ec90d7e536860086">exprtk::parser&lt; T &gt;::expression_generator&lt; Type &gt;</a>
 </li>
 <li>special_one_parameter_vararg()
 : <a class="el" href="classexprtk_1_1parser_1_1expression__generator.html#a7c9d8166129606e62db2be66c5077689">exprtk::parser&lt; T &gt;::expression_generator&lt; Type &gt;</a>
@@ -675,7 +692,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="structexprtk_1_1symbol__table_1_1control__block_1_1st__data.html#af11076a9db58e0fbea4d667ca1739a81">exprtk::symbol_table&lt; T &gt;::control_block::st_data</a>
 </li>
 <li>Stack()
-: <a class="el" href="classStack.html#a2d639646ae48234fd0f22c5f65d6fff2">Stack</a>
+: <a class="el" href="classStack.html#a7504fa8c25e5bc5d23926475334f3255">Stack</a>
 </li>
 <li>start()
 : <a class="el" href="classexprtk_1_1timer.html#ae9fb920c8bd66b7894b2105ac863f9f3">exprtk::timer</a>
@@ -733,19 +750,19 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 , <a class="el" href="classpossumwood_1_1lua_1_1Variable.html#aac5202785a823f51e3bb20ee53a509a0">possumwood::lua::Variable</a>
 </li>
 <li>str_sogens_node()
-: <a class="el" href="classexprtk_1_1details_1_1str__sogens__node.html#aa35936513df129c755d73314eb9f9e29">exprtk::details::str_sogens_node&lt; T, Operation &gt;</a>
+: <a class="el" href="classexprtk_1_1details_1_1str__sogens__node.html#a628e2ab6bf58d6c1ab4ad67e44d8ccc1">exprtk::details::str_sogens_node&lt; T, Operation &gt;</a>
 </li>
 <li>str_vararg_node()
 : <a class="el" href="classexprtk_1_1details_1_1str__vararg__node.html#a1b004d293b565775ec02c621ff0c57f5">exprtk::details::str_vararg_node&lt; T, VarArgFunction &gt;</a>
 </li>
 <li>str_xoxr_node()
-: <a class="el" href="classexprtk_1_1details_1_1str__xoxr__node.html#a5b74a927db222c53be3ca9b95b09d403">exprtk::details::str_xoxr_node&lt; T, SType0, SType1, RangePack, Operation &gt;</a>
+: <a class="el" href="classexprtk_1_1details_1_1str__xoxr__node.html#a68c9d92cfb845dde3ead8ff8e35b9397">exprtk::details::str_xoxr_node&lt; T, SType0, SType1, RangePack, Operation &gt;</a>
 </li>
 <li>str_xrox_node()
 : <a class="el" href="classexprtk_1_1details_1_1str__xrox__node.html#a7c4188fffbd03b4ad1123a3134dd23d0">exprtk::details::str_xrox_node&lt; T, SType0, SType1, RangePack, Operation &gt;</a>
 </li>
 <li>str_xroxr_node()
-: <a class="el" href="classexprtk_1_1details_1_1str__xroxr__node.html#a1dbb2ca439ba71bc5687baf31ffb0d39">exprtk::details::str_xroxr_node&lt; T, SType0, SType1, RangePack, Operation &gt;</a>
+: <a class="el" href="classexprtk_1_1details_1_1str__xroxr__node.html#a055b124ba699dbcfbb5f9b6b63c94154">exprtk::details::str_xroxr_node&lt; T, SType0, SType1, RangePack, Operation &gt;</a>
 </li>
 <li>strength_reduction_enabled()
 : <a class="el" href="classexprtk_1_1parser_1_1expression__generator.html#a2098b0e8fbd834741893b7046dbe53d0">exprtk::parser&lt; T &gt;::expression_generator&lt; Type &gt;</a>
@@ -761,7 +778,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classexprtk_1_1details_1_1string__function__node.html#a077dbdeae66594cd16340b05c67931a5">exprtk::details::string_function_node&lt; T, StringFunction &gt;</a>
 </li>
 <li>string_literal_node()
-: <a class="el" href="classexprtk_1_1details_1_1string__literal__node.html#a7d7127a59478428e19a9fe96d82d9530">exprtk::details::string_literal_node&lt; T &gt;</a>
+: <a class="el" href="classexprtk_1_1details_1_1string__literal__node.html#a4106b2a7abd6d8276404e8733284ce74">exprtk::details::string_literal_node&lt; T &gt;</a>
 </li>
 <li>string_range_node()
 : <a class="el" href="classexprtk_1_1details_1_1string__range__node.html#ae511d912ddc5ae05ead0076fcb615bc4">exprtk::details::string_range_node&lt; T &gt;</a>
@@ -776,13 +793,13 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classexprtk_1_1symbol__table.html#a9700d5acd79dcd173381ea7a045a0f4b">exprtk::symbol_table&lt; T &gt;</a>
 </li>
 <li>stringvar_node()
-: <a class="el" href="classexprtk_1_1details_1_1stringvar__node.html#acc4a70a88d6b386c3ddd7bf921bc0e0a">exprtk::details::stringvar_node&lt; T &gt;</a>
+: <a class="el" href="classexprtk_1_1details_1_1stringvar__node.html#ae49bdbe5ba85c6b4b848d1d28a18312a">exprtk::details::stringvar_node&lt; T &gt;</a>
 </li>
 <li>stringvar_ref()
 : <a class="el" href="classexprtk_1_1symbol__table.html#a983d873602ecd3cbe14a52a9b5d94d19">exprtk::symbol_table&lt; T &gt;</a>
 </li>
 <li>stringvar_size_node()
-: <a class="el" href="classexprtk_1_1details_1_1stringvar__size__node.html#a72f1a09eb076cbe1beb8017f9f1708a8">exprtk::details::stringvar_size_node&lt; T &gt;</a>
+: <a class="el" href="classexprtk_1_1details_1_1stringvar__size__node.html#a6ba65b8cb6d030beb557d48ad8139300">exprtk::details::stringvar_size_node&lt; T &gt;</a>
 </li>
 <li>strtof()
 : <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a7008e0b8d51562d24c044f43f4f3865c">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::lexer</a>
@@ -803,7 +820,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classexprtk_1_1details_1_1swap__generic__node.html#a0269baf95c47f75912fc1029eab4e761">exprtk::details::swap_generic_node&lt; T &gt;</a>
 </li>
 <li>swap_genstrings_node()
-: <a class="el" href="classexprtk_1_1details_1_1swap__genstrings__node.html#ad90c5bd3eacdf31fa27c6f3e2733f861">exprtk::details::swap_genstrings_node&lt; T &gt;</a>
+: <a class="el" href="classexprtk_1_1details_1_1swap__genstrings__node.html#adb8c72fb19060ab7a71b13221430c61c">exprtk::details::swap_genstrings_node&lt; T &gt;</a>
 </li>
 <li>swap_node()
 : <a class="el" href="classexprtk_1_1details_1_1swap__node.html#a32a21ebb91b860c6a16cdc0d6b3873e8">exprtk::details::swap_node&lt; T &gt;</a>
@@ -946,7 +963,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sun Feb 17 2019 00:02:53 for possumwood by
+    <li class="footer">Generated on Sat Feb 23 2019 12:20:17 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.11 </li>
   </ul>

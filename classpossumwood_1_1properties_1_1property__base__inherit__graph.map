@@ -9,14 +9,15 @@
 <area shape="rect" id="node16" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; Imath::Vec3\l\&lt; float \&gt;, vec3_ui \&gt;" alt="" coords="390,519,554,575"/>
 <area shape="rect" id="node18" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Enum, enum_ui \&gt;" alt="" coords="389,599,555,655"/>
 <area shape="rect" id="node20" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Filename, filename_ui \&gt;" alt="" coords="387,679,557,735"/>
-<area shape="rect" id="node22" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Meshes, MeshesUI \&gt;" alt="" coords="389,759,555,815"/>
-<area shape="rect" id="node24" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::polymesh::GenericPolymesh,\l GenericMeshUI \&gt;" alt="" coords="371,840,573,911"/>
-<area shape="rect" id="node26" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; QColor, RGB \&gt;" alt="" coords="383,935,561,976"/>
-<area shape="rect" id="node28" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::shared\l_ptr\&lt; const possumwood::\lUniforms \&gt;, Uniforms \&gt;" alt="" coords="383,1000,561,1071"/>
-<area shape="rect" id="node30" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::shared\l_ptr\&lt; const possumwood::\lVertexData \&gt;, VBO \&gt;" alt="" coords="383,1095,561,1165"/>
-<area shape="rect" id="node32" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::shared\l_ptr\&lt; const QPixmap \&gt;, Pixmap \&gt;" alt="" coords="361,1190,583,1246"/>
-<area shape="rect" id="node34" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::string,\l string_ui \&gt;" alt="" coords="390,1270,554,1326"/>
-<area shape="rect" id="node36" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; unsigned,\l unsigned_ui \&gt;" alt="" coords="390,1350,554,1406"/>
+<area shape="rect" id="node22" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::maths::Interval, interval_ui \&gt;" alt="" coords="374,759,570,815"/>
+<area shape="rect" id="node24" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::Meshes, MeshesUI \&gt;" alt="" coords="389,839,555,895"/>
+<area shape="rect" id="node26" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; possumwood\l::polymesh::GenericPolymesh,\l GenericMeshUI \&gt;" alt="" coords="371,920,573,991"/>
+<area shape="rect" id="node28" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; QColor, RGB \&gt;" alt="" coords="383,1015,561,1056"/>
+<area shape="rect" id="node30" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::shared\l_ptr\&lt; const possumwood::\lUniforms \&gt;, Uniforms \&gt;" alt="" coords="383,1080,561,1151"/>
+<area shape="rect" id="node32" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::shared\l_ptr\&lt; const possumwood::\lVertexData \&gt;, VBO \&gt;" alt="" coords="383,1175,561,1245"/>
+<area shape="rect" id="node34" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::shared\l_ptr\&lt; const QPixmap \&gt;, Pixmap \&gt;" alt="" coords="361,1270,583,1326"/>
+<area shape="rect" id="node36" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; std::string,\l string_ui \&gt;" alt="" coords="390,1350,554,1406"/>
+<area shape="rect" id="node38" href="$classpossumwood_1_1properties_1_1property.html" title="possumwood::properties\l::property\&lt; unsigned,\l unsigned_ui \&gt;" alt="" coords="390,1430,554,1486"/>
 <area shape="rect" id="node5" href="$classFrameEditor.html" title="FrameEditor" alt="" coords="652,85,745,111"/>
 <area shape="rect" id="node7" href="$classJointMappingEditor.html" title="JointMappingEditor" alt="" coords="632,165,765,191"/>
 <area shape="rect" id="node9" href="$classSkeleton.html" title="Skeleton" alt="" coords="662,245,735,271"/>
@@ -26,12 +27,13 @@
 <area shape="rect" id="node17" href="$classvec3__ui.html" title="vec3_ui" alt="" coords="665,534,732,561"/>
 <area shape="rect" id="node19" href="$classenum__ui.html" title="enum_ui" alt="" coords="663,614,734,641"/>
 <area shape="rect" id="node21" href="$classfilename__ui.html" title="filename_ui" alt="" coords="655,694,743,721"/>
-<area shape="rect" id="node23" href="$classMeshesUI.html" title="MeshesUI" alt="" coords="657,774,740,801"/>
-<area shape="rect" id="node25" href="$classGenericMeshUI.html" title="GenericMeshUI" alt="" coords="642,862,755,889"/>
-<area shape="rect" id="node27" href="$classRGB.html" title="RGB" alt="" coords="673,942,724,969"/>
-<area shape="rect" id="node29" href="$classUniforms.html" title="Uniforms" alt="" coords="661,1022,736,1049"/>
-<area shape="rect" id="node31" href="$classVBO.html" title="VBO" alt="" coords="673,1117,724,1143"/>
-<area shape="rect" id="node33" href="$classPixmap.html" title="Pixmap" alt="" coords="665,1205,732,1231"/>
-<area shape="rect" id="node35" href="$classstring__ui.html" title="string_ui" alt="" coords="663,1285,734,1311"/>
-<area shape="rect" id="node37" href="$classunsigned__ui.html" title="unsigned_ui" alt="" coords="653,1365,744,1391"/>
+<area shape="rect" id="node23" href="$classinterval__ui.html" title="interval_ui" alt="" coords="658,774,739,801"/>
+<area shape="rect" id="node25" href="$classMeshesUI.html" title="MeshesUI" alt="" coords="657,854,740,881"/>
+<area shape="rect" id="node27" href="$classGenericMeshUI.html" title="GenericMeshUI" alt="" coords="642,942,755,969"/>
+<area shape="rect" id="node29" href="$classRGB.html" title="RGB" alt="" coords="673,1022,724,1049"/>
+<area shape="rect" id="node31" href="$classUniforms.html" title="Uniforms" alt="" coords="661,1102,736,1129"/>
+<area shape="rect" id="node33" href="$classVBO.html" title="VBO" alt="" coords="673,1197,724,1223"/>
+<area shape="rect" id="node35" href="$classPixmap.html" title="Pixmap" alt="" coords="665,1285,732,1311"/>
+<area shape="rect" id="node37" href="$classstring__ui.html" title="string_ui" alt="" coords="663,1365,734,1391"/>
+<area shape="rect" id="node39" href="$classunsigned__ui.html" title="unsigned_ui" alt="" coords="653,1445,744,1471"/>
 </map>

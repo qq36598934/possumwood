@@ -1,5 +1,12 @@
 var NAVTREEINDEX8 =
 {
+"classexprtk_1_1details_1_1ipowinv__node.html":[2,0,2,0,66],
+"classexprtk_1_1details_1_1ipowinv__node.html#a09adb56223407f572fb59175c8ab26ba":[2,0,2,0,66,6],
+"classexprtk_1_1details_1_1ipowinv__node.html#a0b695e1e6ad768d81af593ad49b0f1cc":[2,0,2,0,66,1],
+"classexprtk_1_1details_1_1ipowinv__node.html#a2a770380f7509ff77519693757a96cdd":[2,0,2,0,66,2],
+"classexprtk_1_1details_1_1ipowinv__node.html#a2bdffb954828b002b845f5fee6432b27":[2,0,2,0,66,7],
+"classexprtk_1_1details_1_1ipowinv__node.html#a5471b7be5de9a562ae4c7c84028c3f96":[2,0,2,0,66,4],
+"classexprtk_1_1details_1_1ipowinv__node.html#a7eacd1a144ce55e4f5114aa742bc6324":[2,0,2,0,66,3],
 "classexprtk_1_1details_1_1ipowinv__node.html#aa91b3b41ca968c2226fafdacb9da902c":[2,0,2,0,66,5],
 "classexprtk_1_1details_1_1ipowinv__node.html#ac1ef2ddea4d569b4ef83782371164774":[2,0,2,0,66,0],
 "classexprtk_1_1details_1_1ivariable.html":[2,0,2,0,74],
@@ -242,12 +249,5 @@ var NAVTREEINDEX8 =
 "classexprtk_1_1details_1_1sosos__node.html#a746ae2d369aacba4c9c1fe8c2517e357":[2,0,2,0,119,5],
 "classexprtk_1_1details_1_1sosos__node.html#a92b9ff7dbc9566466e203a8ccc69d456":[2,0,2,0,119,12],
 "classexprtk_1_1details_1_1sosos__node.html#ab213ef10b77c9c61a18112706c900808":[2,0,2,0,119,9],
-"classexprtk_1_1details_1_1sosos__node.html#ac7ee1258895fbdec9ee2bc398194ce53":[2,0,2,0,119,11],
-"classexprtk_1_1details_1_1sosos__node.html#ad35e759759f485d0611eeea1728b29d7":[2,0,2,0,119,13],
-"classexprtk_1_1details_1_1sosos__node.html#ad4bdc8d09063c8af0c172010bee4748a":[2,0,2,0,119,7],
-"classexprtk_1_1details_1_1sosos__node.html#ae981df2d877046be3c402529d1bb9952":[2,0,2,0,119,6],
-"classexprtk_1_1details_1_1sosos__node.html#aef8ebc888d1ea1ffb88585ba99f8c63b":[2,0,2,0,119,3],
-"classexprtk_1_1details_1_1sosos__node.html#aefb587efd082a467c30c4a1b6bc53381":[2,0,2,0,119,1],
-"classexprtk_1_1details_1_1str__sogens__node.html":[2,0,2,0,120],
-"classexprtk_1_1details_1_1str__sogens__node.html#a0578a84b69eeec62ba6b8fa7efb30d3d":[2,0,2,0,120,10]
+"classexprtk_1_1details_1_1sosos__node.html#ac7ee1258895fbdec9ee2bc398194ce53":[2,0,2,0,119,11]
 };

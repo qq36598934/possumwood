@@ -18,6 +18,8 @@ var annotated_dup =
     [ "float_ui", "classfloat__ui.html", "classfloat__ui" ],
     [ "FrameEditor", "classFrameEditor.html", "classFrameEditor" ],
     [ "GenericMeshUI", "classGenericMeshUI.html", "classGenericMeshUI" ],
+    [ "interval_ui", "classinterval__ui.html", "classinterval__ui" ],
+    [ "IntervalDialog", "classIntervalDialog.html", "classIntervalDialog" ],
     [ "JointMappingEditor", "classJointMappingEditor.html", "classJointMappingEditor" ],
     [ "MainWindow", "classMainWindow.html", "classMainWindow" ],
     [ "MeshesUI", "classMeshesUI.html", "classMeshesUI" ],

@@ -1,5 +1,12 @@
 var NAVTREEINDEX10 =
 {
+"classexprtk_1_1details_1_1swap__string__node.html#aec7f1d34da985d6f8c5081c4408becc7":[2,0,2,0,137,16],
+"classexprtk_1_1details_1_1swap__string__node.html#afd970c85bc90d7db7e2faf65e8ff8082":[2,0,2,0,137,9],
+"classexprtk_1_1details_1_1swap__vecvec__node.html":[2,0,2,0,138],
+"classexprtk_1_1details_1_1swap__vecvec__node.html#a045fe2a9b604c92099472e281b4bbfb8":[2,0,2,0,138,1],
+"classexprtk_1_1details_1_1swap__vecvec__node.html#a0bee8988616c63f438949e3bfcdc1ed7":[2,0,2,0,138,9],
+"classexprtk_1_1details_1_1swap__vecvec__node.html#a0d431d0732d00e536a38dfc063c367ae":[2,0,2,0,138,12],
+"classexprtk_1_1details_1_1swap__vecvec__node.html#a1bc902b01d094c2dd9648e7a5b660990":[2,0,2,0,138,10],
 "classexprtk_1_1details_1_1swap__vecvec__node.html#a48a626d82c90f0255b34d6612ef72460":[2,0,2,0,138,11],
 "classexprtk_1_1details_1_1swap__vecvec__node.html#a521f5861e6920d23462a5019d72dc801":[2,0,2,0,138,15],
 "classexprtk_1_1details_1_1swap__vecvec__node.html#a590d6ae9654112fc226ac001de7be917":[2,0,2,0,138,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX10 =
 "classexprtk_1_1details_1_1vector__elem__node.html#a46ccf7f490529d6eb2934072ea95fc74":[2,0,2,0,184,2],
 "classexprtk_1_1details_1_1vector__elem__node.html#acda22b04969eaf53c6bbfd6890c6006a":[2,0,2,0,184,7],
 "classexprtk_1_1details_1_1vector__elem__node.html#adeadb2995be9f0c08b82f9fea90062fa":[2,0,2,0,184,10],
-"classexprtk_1_1details_1_1vector__elem__node.html#ae7037b83517b467ae6040edaafa341b2":[2,0,2,0,184,8],
-"classexprtk_1_1details_1_1vector__elem__node.html#aeaa8a14135876b4be2d090a3506d8d96":[2,0,2,0,184,4],
-"classexprtk_1_1details_1_1vector__elem__node.html#af24a72fc5d02cda2a3904d93cf830f9c":[2,0,2,0,184,11],
-"classexprtk_1_1details_1_1vector__elem__node.html#af50b565f3b733b51e8cac99487cbf750":[2,0,2,0,184,3],
-"classexprtk_1_1details_1_1vector__elem__node.html#af694b58c175dbf2f23bd3cd0709e975a":[2,0,2,0,184,0],
-"classexprtk_1_1details_1_1vector__elem__node.html#afec2ae1e5a41e7a722db9ff340ce5dd3":[2,0,2,0,184,9],
-"classexprtk_1_1details_1_1vector__holder.html":[2,0,2,0,185],
-"classexprtk_1_1details_1_1vector__holder.html#a1c5c12a04654f09218ccdf4ee8f20aac":[2,0,2,0,185,18]
+"classexprtk_1_1details_1_1vector__elem__node.html#ae7037b83517b467ae6040edaafa341b2":[2,0,2,0,184,8]
 };

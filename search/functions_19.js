@@ -64,6 +64,7 @@ var searchData=
   ['_7eifunction',['~ifunction',['../classexprtk_1_1ifunction.html#aeda10c70778c6e260e03486e5fba7b02',1,'exprtk::ifunction']]],
   ['_7eigeneric_5ffunction',['~igeneric_function',['../classexprtk_1_1igeneric__function.html#abfc35f19260f887da6ba59b8d78b5877',1,'exprtk::igeneric_function']]],
   ['_7einput_5fadapter',['~input_adapter',['../classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a893a90875bbc35700de6c092c5170d03',1,'possumwood::io::basic_json::input_adapter']]],
+  ['_7einterval_5fui',['~interval_ui',['../classinterval__ui.html#ab7d660cba3218b1deccc02c91271279b',1,'interval_ui']]],
   ['_7eiobase',['~IOBase',['../classpossumwood_1_1IOBase.html#a3e1f55847240ef7e9b8c73df915ba850',1,'possumwood::IOBase']]],
   ['_7eivararg_5ffunction',['~ivararg_function',['../classexprtk_1_1ivararg__function.html#a0dc40ae0f94e9235bfb547edc00ba44f',1,'exprtk::ivararg_function']]],
   ['_7eivariable',['~ivariable',['../classexprtk_1_1details_1_1ivariable.html#a3365c6d3af14a53e6dda266d92580146',1,'exprtk::details::ivariable']]],

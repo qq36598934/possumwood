@@ -1,7 +1,7 @@
 var searchData=
 [
   ['main',['main',['../apps_2node__editor__sandbox_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood__cli_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
-  ['mainwindow',['mainWindow',['../classpossumwood_1_1App.html#a1a1e596900394ba29908171bc8a7ba9e',1,'possumwood::App::mainWindow()'],['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()']]],
+  ['mainwindow',['MainWindow',['../classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow::MainWindow()'],['../classpossumwood_1_1App.html#a1a1e596900394ba29908171bc8a7ba9e',1,'possumwood::App::mainWindow()']]],
   ['make',['make',['../structexprtk_1_1symbol__table_1_1type__store_1_1tie__array.html#ad569b65e11b59365351ef8c35388a66e',1,'exprtk::symbol_table::type_store::tie_array::make()'],['../structexprtk_1_1symbol__table_1_1type__store_1_1tie__stdvec.html#a3b09d8df0efe7f1dd4db07740b2341ff',1,'exprtk::symbol_table::type_store::tie_stdvec::make()'],['../structexprtk_1_1symbol__table_1_1type__store_1_1tie__vecview.html#a9719b0ab4047a966392600501d9f8e1c',1,'exprtk::symbol_table::type_store::tie_vecview::make()'],['../structexprtk_1_1symbol__table_1_1type__store_1_1tie__stddeq.html#ab16ed6dd3818ec721d2c3c9b9253f80f',1,'exprtk::symbol_table::type_store::tie_stddeq::make()']]],
   ['make_5ferror',['make_error',['../namespaceexprtk_1_1parser__error.html#ac6dd1eaed392393bd89732c5d9ab5b2f',1,'exprtk::parser_error::make_error(const error_mode mode, const std::string &amp;diagnostic=&quot;&quot;, const std::string &amp;src_location=&quot;&quot;)'],['../namespaceexprtk_1_1parser__error.html#accecfc97711eae8b4f7291a43e0cbc82',1,'exprtk::parser_error::make_error(const error_mode mode, const lexer::token &amp;tk, const std::string &amp;diagnostic=&quot;&quot;, const std::string &amp;src_location=&quot;&quot;)']]],
   ['make_5fhandle',['make_handle',['../namespaceexprtk_1_1rtl_1_1io_1_1file_1_1details.html#aaa38521243b8f425b61609d5ca9917e1',1,'exprtk::rtl::io::file::details']]],
@@ -14,7 +14,7 @@ var searchData=
   ['markasdirty',['markAsDirty',['../classdependency__graph_1_1NodeBase.html#abcf506d4c52ef20b65f13126d09082bb',1,'dependency_graph::NodeBase']]],
   ['match_5fimpl',['match_impl',['../namespaceexprtk_1_1details.html#acf2eb3b5a937c5d2daaac6bae3fb1fa5',1,'exprtk::details']]],
   ['match_5fsizes',['match_sizes',['../classexprtk_1_1details_1_1vec__data__store.html#af1ef02402e0028bc7d5fec80b29a1791',1,'exprtk::details::vec_data_store']]],
-  ['max',['max',['../namespaceexprtk_1_1details_1_1numeric.html#ad3912f745a4d6963cbd0b4b52e6cddcc',1,'exprtk::details::numeric']]],
+  ['max',['max',['../classpossumwood_1_1maths_1_1Interval.html#a64891695b2090b7b2eb91a745e3910c9',1,'possumwood::maths::Interval::max()'],['../namespaceexprtk_1_1details_1_1numeric.html#ad3912f745a4d6963cbd0b4b52e6cddcc',1,'exprtk::details::numeric::max()']]],
   ['max_5fimpl',['max_impl',['../namespaceexprtk_1_1details_1_1numeric_1_1details.html#ab8c2abb2b63cd647efea1681a8701435',1,'exprtk::details::numeric::details']]],
   ['max_5fnum_5fargs',['max_num_args',['../classexprtk_1_1function__traits.html#a08fff23a15c7c9d1aad17afce0785f12',1,'exprtk::function_traits']]],
   ['max_5fsize',['max_size',['../classpossumwood_1_1io_1_1basic__json.html#a5403b383a5feda3865b624b9ea49e197',1,'possumwood::io::basic_json']]],
@@ -28,7 +28,7 @@ var searchData=
   ['metadatahandle',['MetadataHandle',['../classdependency__graph_1_1MetadataHandle.html#ac0bf628bad09034d849db8e3d475eeb5',1,'dependency_graph::MetadataHandle::MetadataHandle(std::unique_ptr&lt; Metadata &gt; m)'],['../classdependency__graph_1_1MetadataHandle.html#aa99e70d9e687e359fd857d8e3afb108d',1,'dependency_graph::MetadataHandle::MetadataHandle(const Metadata &amp;meta)']]],
   ['metadataregister',['MetadataRegister',['../classdependency__graph_1_1MetadataRegister.html#a9a8bebc107b7376f92c4f44f524f7c86',1,'dependency_graph::MetadataRegister']]],
   ['middleclicked',['middleClicked',['../classnode__editor_1_1GraphScene.html#ab09be6df52ea923734a89bc0d27834ca',1,'node_editor::GraphScene']]],
-  ['min',['min',['../namespaceexprtk_1_1details_1_1numeric.html#a93c698bb2687a58342d66003568c5dd3',1,'exprtk::details::numeric']]],
+  ['min',['min',['../classpossumwood_1_1maths_1_1Interval.html#a07d79a307ccaf8223f9b59c8bc75da0d',1,'possumwood::maths::Interval::min()'],['../namespaceexprtk_1_1details_1_1numeric.html#a93c698bb2687a58342d66003568c5dd3',1,'exprtk::details::numeric::min()']]],
   ['min_5fimpl',['min_impl',['../namespaceexprtk_1_1details_1_1numeric_1_1details.html#aa95e2c4dadf0a3d96fcf4f5132b47b91',1,'exprtk::details::numeric::details']]],
   ['min_5fnum_5fargs',['min_num_args',['../classexprtk_1_1function__traits.html#a4efd411fcbf05fdb5988d640220035ac',1,'exprtk::function_traits']]],
   ['min_5fsize',['min_size',['../classexprtk_1_1details_1_1vec__data__store.html#aa2bcfd800bddd157b8010b3eb184838f',1,'exprtk::details::vec_data_store']]],

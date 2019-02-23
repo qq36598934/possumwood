@@ -406,6 +406,7 @@ var hierarchy =
       [ "possumwood::io::detail::negation< B >", "structpossumwood_1_1io_1_1detail_1_1negation.html", null ]
     ] ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::internal_iterator", "structpossumwood_1_1io_1_1basic__json_1_1internal__iterator.html", null ],
+    [ "possumwood::maths::Interval", "classpossumwood_1_1maths_1_1Interval.html", null ],
     [ "exprtk::details::function_N_node< T, IFunction, N >::invoke< T_, ParamCount >", "structexprtk_1_1details_1_1function__N__node_1_1invoke.html", null ],
     [ "exprtk::details::function_N_node< T, IFunction, N >::invoke< T_, 1 >", "structexprtk_1_1details_1_1function__N__node_1_1invoke_3_01T___00_011_01_4.html", null ],
     [ "exprtk::details::function_N_node< T, IFunction, N >::invoke< T_, 10 >", "structexprtk_1_1details_1_1function__N__node_1_1invoke_3_01T___00_0110_01_4.html", null ],
@@ -441,10 +442,10 @@ var hierarchy =
     [ "exprtk::details::is_ref< const T & >", "structexprtk_1_1details_1_1is__ref_3_01const_01T_01_6_01_4.html", null ],
     [ "exprtk::details::is_ref< T & >", "structexprtk_1_1details_1_1is__ref_3_01T_01_6_01_4.html", null ],
     [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
+    [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "Options::Item", "structOptions_1_1Item.html", null ],
     [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
-    [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
     [ "iterator", null, [
@@ -479,8 +480,8 @@ var hierarchy =
     [ "dependency_graph::detail::MetadataAccess", "structdependency__graph_1_1detail_1_1MetadataAccess.html", null ],
     [ "dependency_graph::MetadataHandle", "classdependency__graph_1_1MetadataHandle.html", null ],
     [ "dependency_graph::MetadataRegister", "classdependency__graph_1_1MetadataRegister.html", null ],
-    [ "exprtk::details::T0oT1oT20T3process< T >::mode0", "structexprtk_1_1details_1_1T0oT1oT20T3process_1_1mode0.html", null ],
     [ "exprtk::details::T0oT1oT2process< T >::mode0", "structexprtk_1_1details_1_1T0oT1oT2process_1_1mode0.html", null ],
+    [ "exprtk::details::T0oT1oT20T3process< T >::mode0", "structexprtk_1_1details_1_1T0oT1oT20T3process_1_1mode0.html", null ],
     [ "exprtk::details::T0oT1oT2process< T >::mode1", "structexprtk_1_1details_1_1T0oT1oT2process_1_1mode1.html", null ],
     [ "exprtk::details::T0oT1oT20T3process< T >::mode1", "structexprtk_1_1details_1_1T0oT1oT20T3process_1_1mode1.html", null ],
     [ "exprtk::details::T0oT1oT20T3process< T >::mode2", "structexprtk_1_1details_1_1T0oT1oT20T3process_1_1mode2.html", null ],
@@ -549,6 +550,7 @@ var hierarchy =
         [ "possumwood::IO< anim::JointMappingEditorData >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< anim::SubsetSelection >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< Imath::Vec3< float > >", "classpossumwood_1_1IO.html", null ],
+        [ "possumwood::IO< maths::Interval >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Enum >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Filename >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::NodeData >", "classpossumwood_1_1IO.html", null ],
@@ -568,6 +570,7 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< float_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< FrameEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< GenericMeshUI >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
+        [ "possumwood::properties::factory_typed< interval_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< JointMappingEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< MeshesUI >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< MeshSubsetEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -609,6 +612,9 @@ var hierarchy =
         ] ],
         [ "possumwood::properties::property< possumwood::Filename, filename_ui >", "classpossumwood_1_1properties_1_1property.html", [
           [ "filename_ui", "classfilename__ui.html", null ]
+        ] ],
+        [ "possumwood::properties::property< possumwood::maths::Interval, interval_ui >", "classpossumwood_1_1properties_1_1property.html", [
+          [ "interval_ui", "classinterval__ui.html", null ]
         ] ],
         [ "possumwood::properties::property< possumwood::Meshes, MeshesUI >", "classpossumwood_1_1properties_1_1property.html", [
           [ "MeshesUI", "classMeshesUI.html", null ]
@@ -709,8 +715,8 @@ var hierarchy =
     ] ],
     [ "exprtk::parser< T >::parser_state", "structexprtk_1_1parser_1_1parser__state.html", null ],
     [ "PathWidget::Path", "classPathWidget_1_1Path.html", null ],
-    [ "possumwood::Pixel", "classpossumwood_1_1Pixel.html", null ],
-    [ "possumwood::Pixmap", "classpossumwood_1_1Pixmap.html", null ],
+    [ "possumwood::Pixel< BASE >", "classpossumwood_1_1Pixel.html", null ],
+    [ "possumwood::Pixmap< PIXEL >", "classpossumwood_1_1Pixmap.html", null ],
     [ "PluginsRAII", "classPluginsRAII.html", null ],
     [ "possumwood::NodeData::Point", "structpossumwood_1_1NodeData_1_1Point.html", null ],
     [ "exprtk::polynomial< T, N >::poly_impl< Type, NumberOfCoefficients >", "structexprtk_1_1polynomial_1_1poly__impl.html", null ],
@@ -747,7 +753,8 @@ var hierarchy =
     [ "exprtk::symbol_table< T >::type_store< Type, RawType >::ptr_match< TType, TRawType, PtrType >", "structexprtk_1_1symbol__table_1_1type__store_1_1ptr__match.html", null ],
     [ "exprtk::symbol_table< T >::type_store< Type, RawType >::ptr_match< TType, TRawType, variable_node_t * >", "structexprtk_1_1symbol__table_1_1type__store_1_1ptr__match_3_01TType_00_01TRawType_00_01variable__node__t_01_5_01_4.html", null ],
     [ "QDialog", null, [
-      [ "ConfigDialog", "classConfigDialog.html", null ]
+      [ "ConfigDialog", "classConfigDialog.html", null ],
+      [ "IntervalDialog", "classIntervalDialog.html", null ]
     ] ],
     [ "QGraphicsItem", null, [
       [ "node_editor::Edge", "classnode__editor_1_1Edge.html", [
@@ -964,6 +971,7 @@ var hierarchy =
     [ "possumwood::Traits< Font >", "structpossumwood_1_1Traits_3_01Font_01_4.html", null ],
     [ "possumwood::Traits< Imath::Vec3< float > >", "structpossumwood_1_1Traits_3_01Imath_1_1Vec3_3_01float_01_4_01_4.html", null ],
     [ "possumwood::Traits< lua::Context >", "structpossumwood_1_1Traits_3_01lua_1_1Context_01_4.html", null ],
+    [ "possumwood::Traits< maths::Interval >", "structpossumwood_1_1Traits_3_01maths_1_1Interval_01_4.html", null ],
     [ "possumwood::Traits< Meshes >", "structpossumwood_1_1Traits_3_01Meshes_01_4.html", null ],
     [ "possumwood::Traits< NodeData >", "structpossumwood_1_1Traits_3_01NodeData_01_4.html", null ],
     [ "possumwood::Traits< polymesh::GenericPolymesh >", "structpossumwood_1_1Traits_3_01polymesh_1_1GenericPolymesh_01_4.html", null ],
@@ -971,8 +979,9 @@ var hierarchy =
     [ "possumwood::Traits< std::shared_ptr< const anim::Animation > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01anim_1_1Animation_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const FragmentShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const GeometryShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01GeometryShader_01_4_01_4.html", null ],
+    [ "possumwood::Traits< std::shared_ptr< const HDRPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01HDRPixmap_01_4_01_4.html", null ],
+    [ "possumwood::Traits< std::shared_ptr< const LDRPixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01LDRPixmap_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const lua::State > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01lua_1_1State_01_4_01_4.html", null ],
-    [ "possumwood::Traits< std::shared_ptr< const Pixmap > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Pixmap_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const Program > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Program_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const std::vector< anim::SkinnedMesh > > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const Uniforms > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4.html", null ],
@@ -990,8 +999,8 @@ var hierarchy =
     ] ],
     [ "exprtk::parser_error::type", "structexprtk_1_1parser__error_1_1type.html", null ],
     [ "exprtk::parser< T >::type_checker", "classexprtk_1_1parser_1_1type__checker.html", null ],
-    [ "exprtk::type_store< T >", "structexprtk_1_1type__store.html", null ],
     [ "exprtk::symbol_table< T >::type_store< Type, RawType >", "structexprtk_1_1symbol__table_1_1type__store.html", null ],
+    [ "exprtk::type_store< T >", "structexprtk_1_1type__store.html", null ],
     [ "exprtk::symbol_table< T >::type_store< exprtk::details::vector_holder, exprtk::details::vector_holder >", "structexprtk_1_1symbol__table_1_1type__store.html", null ],
     [ "exprtk::symbol_table< T >::type_store< exprtk::ifunction< T >, exprtk::ifunction< T > >", "structexprtk_1_1symbol__table_1_1type__store.html", null ],
     [ "exprtk::symbol_table< T >::type_store< exprtk::igeneric_function< T >, exprtk::igeneric_function< T > >", "structexprtk_1_1symbol__table_1_1type__store.html", null ],
